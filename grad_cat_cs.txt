@@ -1,0 +1,577 @@
+STAT 5014 - Introduction to Statistical Program Packages
+Introduction to computing facilities (mainframe and microcomputers), conversational monitoring system (CMS), and statistical program computer packages. Restricted to Statistics majors.
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s): null null
+
+STAT 5024 - Effective Communication in Statistical Consulting
+Communication skills necessary to be effective interdisciplinary statistical collaborators. Explaining and presenting statistical concepts to a non-statistical audience, helping scientists answer their research questions, and managing an effective statistical collaboration meeting. Co: 5204 or 5616.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): (STAT 5034, STAT 5044) OR STAT 5615
+Corequisite(s): null null
+
+STAT 5034 - Inference Fundamentals with Applications to Categorical Data
+Fundamental concepts in statistical inference and related methods: point estimation, interval estimation, hypothesis testing, permutation, and resampling-based methods. Emphasizes use of R programming package, visualizing data, computation and interpretation of effect sizes, statistical simulation to compare the performance of available methods, role of sample size in statistical analysis, contingency tables, and use of model contrasts to assess specific hypotheses in the context of larger models.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s): STAT 5014, STAT 5044
+
+STAT 5044 - Regression and Analysis of Variance
+Principles and methods of data analysis employing linear models for continuous response variables. Topics include both classical descriptive measures and modern computer-based techniques for data visualization; simple, multiple and weighted regression; analysis of variance for one-way and higher-way classifications; fixed, mixed, and random effects models; analysis of covariance; detection and correction of modeling flaws; statistical power.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5615, STAT 4584 OR MATH 4584
+Corequisite(s): STAT 5014
+
+STAT 5054 - Introduction to Statistical Computing
+Introduction to modern programming packages for data analysis. Basics of coding, language syntax, and statistical functionality to read in raw data files and data sets, subset data, create variables, and recode data. Summaries in the form of tables and graphs. Data analysis using standard statistical methods and data management and analysis of large data sets. Parallel computing. Applied data analysis is emphasized rather than statistical theory. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5104 - Probability and Distribution Theory
+Fundamental concepts of probability, random variables and their distributions, functions of random variables, mathematical expectations, and stochastic convergence.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4526
+Corequisite(s):
+
+STAT 5105G - Advanced Theoretical Statistics
+5105G: Probability theory, counting techniques, conditional probability; random variables, moments; moment generating functions; multivariate distributions; transformations of random variables; order statistics. 5106G: Convergence of sequences of random variables; central limit theorem; methods of estimation; hypothesis testing; linear models; analysis of variance. Pre: 5105G: Graduate Standing; 5106G: 5105G.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5106G - Advanced Theoretical Statistics
+5105G: Probability theory, counting techniques, conditional probability; random variables, moments; moment generating functions; multivariate distributions; transformations of random variables; order statistics. 5106G: Convergence of sequences of random variables; central limit theorem; methods of estimation; hypothesis testing; linear models; analysis of variance. Pre: 5105G: Graduate Standing; 5106G: 5105G.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5105G
+Corequisite(s):
+
+STAT 5114 - Statistical Inference
+Decision theoretic formulation of statistical inference, concept and methods of point and confidence set estimation, notion and theory of hypothesis testing, relation between confidence set estimation and hypothesis testing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s): STAT 5104
+
+STAT 5124 - Linear Models Theory
+A study of the theory underlying the general linear model and general linear hypothesis. Applications in linear regression (full rank) and analysis of variance.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114, MATH 5524
+Corequisite(s):
+
+STAT 5134 (SPIA 5134) (PSCI 5134) - Tools and Approaches for Policy-Making in STEM-H Domains
+Techniques for translating theory-driven, qualitative concepts into quantitative data-focused modeling to address policy problems. Quantitative and computational tools including statistical inference and hypothesis testing, system dynamics, and economic analysis. Modeling paradigms and common challenges in modeling. Modern data analytic practices, including good collection, storage and visualization techniques. Problem definitions and application to real-world policy-related problems and implementation in modern software packages. Understanding complexity. Critical evaluation of challenges and common pitfalls in quantitative modeling. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5154 - Statistical Computing for Data Analytics
+Computational techniques for advanced applied statistical analyses and machine learning methods. Project management for larger data projects including computational constraints, pitfalls, and techniques related to different data types. Advanced report generation across different media, efficient R programming, advanced statistical function writing, parallel statistical computing with R, handling missing data, numerical optimization methods, the EM algorithm, and Monte Carlo methods.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5054
+Corequisite(s):
+
+STAT 5204 - Experimental Design and Analysis I
+Principles and concepts of experimental design; systematic overview and discussion of basic designs from the point of view of blocking, error reduction, and treatment structure; and development of analysis based on linear models.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5104 OR STAT 5616
+Corequisite(s):
+
+STAT 5204G - Experimental Design: Concepts and Applications
+Fundamental principles of designing and analyzing experiments with application to problems in various subject matter areas. Completely randomized, randomized complete block and Latin square designs, analysis of covariance, split-plot designs, factorial and fractional factorial designs, incomplete block designs, repeated measures, power and sample size, mean separation procedures.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5605 OR STAT 5615
+Corequisite(s):
+
+STAT 5214G - Advanced Methods of Regression Analysis
+Multiple regression including variable selection procedures; detection and effects of multicollinearity; identification and effects of influential observations; residual analysis; use of transformations. Non-linear regression, the use of indicator variables, and logistic regression. Use of SAS.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5605 OR STAT 5615
+Corequisite(s):
+
+STAT 5234 - Experimental Design for Data Science
+Understanding data, data collection, and proper data analysis for knowledge discovery and decision-making. Randomization, replication, blocking, data quality evaluations (e.g., representativeness of training data), analysis quality assessment (e.g., robustness of the machine learning algorithm to representativeness of training data). Strengths and weaknesses of experimental designs for data science. Modern qualitative and quantitative techniques for constructing experimental designs and analyzing experimental data. Interpretation and reporting of results.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): (STAT 5615, STAT 5616) OR STAT 5525 OR CS 5525
+Corequisite(s):
+
+STAT 5314 - Monte Carlo Methods in Stats
+Theoretical and applied aspects of simulation-based sampling methodology. Monte Carlo integration, importance sampling, Markov chain Monte Carlo, particle methods, Kalman filtering. Programming in Matlab, R, or SAS.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114
+Corequisite(s):
+
+STAT 5364 - Hierarchical Modeling
+Hierarchical modeling techniques as applied to assess data with atypical features, such as non-normal responses (e.g., binary, discrete survival, continuous mixtures), censored/missing observations, multivariate responses, repeated measures, and nested structures. Classical and Bayesian techniques for assessing models. Programming experience in R, S+, or Matlab required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5044, STAT 5104, STAT 5444
+Corequisite(s):
+
+STAT 5364G - Advanced Statistical Genomics
+Statistical methods for bioinformatics and genetic studies, with an emphasis on statistical analysis, assumptions and problem-solving. Topics include: basic concepts of genes and genomes, commonly used statistical methods for gene identification, association mapping and other related problems. Focus on statistical tools for gene expression studies and association studies, multiple comparison procedures, likelihood inference and preparation for advanced study in the areas of bioinformatics and statistical genetics.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5616
+Corequisite(s):
+
+STAT 5374 - Statistical Epidemiology and Observation Studies
+Statistical methodology for epidemiology and observational studies. Statistical evaluation and inference for risk and prevalence of population safety and disease risk factors. Epidemiology and observational study design. Emphasis on casual inference and statistical models. Pre: 5034 or 5124 or 5615.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5034 OR STAT 5124 OR STAT 5615
+Corequisite(s):
+
+STAT 5414 - Time Series Analysis I
+Analysis of data when observations are not mutually independent, stationary and nonstationary time series, linear filtering, trend elimination, prediction, and applications in economics and engineering. Even years.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114
+Corequisite(s):
+
+STAT 5434 - Applied Stochastic Processes
+Stochastic processes in statistical applications including Markov chains, Poisson processes, renewal processes, branching processes, random walks, martingales, Brownian motion and related stationary Gaussian processes.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5104
+Corequisite(s):
+
+STAT 5444 - Bayesian Statistics
+Introductory course of Bayesian statistics on basic concepts of probability, Bayesian inference of Normal, Binomial, Poisson, Uniform and other common distributions, selections of prior information, Bayesian decision theory, Bayesian analysis of regression and analysis of variance and Bayesian foundation. Even years.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114
+Corequisite(s):
+
+STAT 5444G - Advanced Applied Bayesian Statistics
+Bayesian methodology with emphasis on applied statistical problems: data displaying, prior distribution elicitation, posterior analysis, models for proportions, means and regression. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5454 - Reliability Theory
+Basic concepts of lifetime distributions, types of censoring, inference procedures for exponential, Weibull and extreme value distributions, nonparametric estimation of survival function, kernel density estimation, accelerated life testing, and goodness of fit tests.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 4106
+Corequisite(s):
+
+STAT 5474 (ISE 5474) - Statistical Theory of Quality Control
+Development of statistical concepts and theory underlying procedures used in quality control applications. Sampling inspection procedures, the sequential probability ratio test, continuous sampling procedures, process control procedures, and experimental design.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5104, STAT 5114
+Corequisite(s):
+
+STAT 5484 (AAEC 5484) - Applied Economic Forecasting
+Forecasting economic, agricultural and environmental data using basic linear and non-linear time series models. Emphasis on programming and computational implementation of time series model-selection techniques and practical applications. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5504 - Multivariate Statistical Methods
+Methods of inference for multivariate distributions. Multivariate distributions, location and dispersion problems for one and two samples, multivariate analysis of variance, linear models, repeated measurements, inference for dispersion and association parameters, principal components, discriminant and cluster analysis, and simultaneous inference. R will be used.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): (STAT 5104 OR STAT 5616)
+Corequisite(s):
+
+STAT 5504G - Advanced Applied Multivariate Analysis
+Non-mathematical study of multivariate analysis. Multivariate analogs of uinivariate test and estimation procedures. Simultaneous inference procedures. Multivariate analysis of variance, repeated measures, inference for dispersion and association parameters, principle components analysis, discriminant analysis, cluster analysis. Prerequisite: Graduate Standing required
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5616 OR STAT 5606
+Corequisite(s):
+
+STAT 5514 - Regression Analysis
+Classical and modern techniques in regression analysis. Use of modern regression techniques to diagnose collinearity, leverage, and outliers. Model discrimination using cross validation techniques. The study of transformations, biased estimation, and nonlinear regression.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5124 OR STAT 5616
+Corequisite(s):
+
+STAT 5514G - Advanced Introduction to Categorial Data Analysis
+Statistical approaches to analyze categorical data. Probability computation and distribution specification, interval estimation and hypothesis testing, formulating and fitting generalized linear models including logistic and Poisson regression, algorithms used for model fitting, variable selection, and classification trees and supervised learning. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5525 (CS 5525) - Data Analytics
+5525: Basic techniques in data analytics including the preparation and manipulation of data for analysis and the creation of data files from multiple and dissimilar sources. The data mining and knowledge discovery process. Overview of data mining algorithms in classification, clustering, association analysis, probabilistic modeling, and matrix decompositions. Detailed study of classification methods including tree-based methods, Bayesian methods, logistic regression, ensemble, bagging and boosting methods, neural network methods, use of support vectors and Bayesian networks. Detailed study of clustering methods including k-means, hierarchical and self-organizing map methods. Prerequisite: Graduate Standing required. 5526: Techniques in unsupervised and visualized learning in high dimension spaces. Theoretical, probabilistic, and applied aspects of data analytics. Methods include generalized linear models in high dimensional spaces, regularization, lasso and related methods, principal component regression (pca), tree methods, and random forests. Clustering methods including k-means, hierarchical clustering, biclustering, and model-based clustering will be thoroughly examined. Distance-based learning methods include multi dimensional scaling, the self organizing map, graphical/network models, and isomap. Supervised learning will consist of discriminant analyses, supervised pca, support vector machines, and kernel methods.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5526 (CS 5526) - Data Analytics
+5525: Basic techniques in data analytics including the preparation and manipulation of data for analysis and the creation of data files from multiple and dissimilar sources. The data mining and knowledge discovery process. Overview of data mining algorithms in classification, clustering, association analysis, probabilistic modeling, and matrix decompositions. Detailed study of classification methods including tree-based methods, Bayesian methods, logistic regression, ensemble, bagging and boosting methods, neural network methods, use of support vectors and Bayesian networks. Detailed study of clustering methods including k-means, hierarchical and self-organizing map methods. Prerequisite: Graduate Standing required. 5526: Techniques in unsupervised and visualized learning in high dimension spaces. Theoretical, probabilistic, and applied aspects of data analytics. Methods include generalized linear models in high dimensional spaces, regularization, lasso and related methods, principal component regression (pca), tree methods, and random forests. Clustering methods including k-means, hierarchical clustering, biclustering, and model-based clustering will be thoroughly examined. Distance-based learning methods include multi dimensional scaling, the self organizing map, graphical/network models, and isomap. Supervised learning will consist of discriminant analyses, supervised pca, support vector machines, and kernel methods.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5525 OR CS 5525
+Corequisite(s):
+
+STAT 5544 - Spatial Statistics
+Spatial data structures: geostatistical data, lattices and point patterns. Stationary and isotropic random fields. Autocorrelated data structures. Semivariogram estimation and spatial prediction for geostatistical data. Mapped and sampled point patterns. Regular, completely random and clustered point processes. Spatial regression and neighborhood analyses for data on lattices.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5124
+Corequisite(s):
+
+STAT 5554 - Functional Data Analysis
+Functional summary statistics, phase-plane plots, functional principal component analysis, functional regression models, principal differential analysis, dynamic models, analysis of manifold data, topological data analysis, data analysis of complex objects.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5124, STAT 5114, STAT 5044
+Corequisite(s):
+
+STAT 5574 - Response Surface Design and Analysis I
+Use of response surface analysis to design and analyze industrial experiments. First and second order models. First and second order experimental designs. Use of model diagnostics for finding optimum operating conditions. Even years.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5204
+Corequisite(s):
+
+STAT 5594 - Topics in Biostatistics
+Course with variable content; specialized application of statistical theory and methodology to biological and medical sciences; topics include bioassay, epidemiology, survival analysis, and statistical ecology. May be repeated for credit with different topics. Odd years.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114
+Corequisite(s):
+
+STAT 5605 - Biometry
+5605: The normal distribution, estimation, hypothesis testing, simple linear regression, and one-way analysis of variance with applications to the biological sciences. 5606: Experimental design, nested and factorial analysis of variance, linear regression and correlation, and the use of SAS, with applications to the biological sciences.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5606 - Biometry
+5605: The normal distribution, estimation, hypothesis testing, simple linear regression, and one-way analysis of variance with applications to the biological sciences. 5606: Experimental design, nested and factorial analysis of variance, linear regression and correlation, and the use of SAS, with applications to the biological sciences. Knowledge of CMS required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5615 - Statistics in Research
+5615: Concepts in statistical inference, including basic probability, estimation, and test of hypothesis, point and interval estimation and inferences; categorical data analysis; simple linear regression; and one-way analysis of variance. 5616: Multiple linear regression; multi-way classification analysis of variance; randomized block designs; nested designs; and analysis of covariance. One year of Calculus. CMS.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5616 - Statistics in Research
+5615: Concepts in statistical inference, including basic probability, estimation, and test of hypothesis, point and interval estimation and inferences; categorical data analysis; simple linear regression; and one-way analysis of variance. 5616: Multiple linear regression; multi-way classification analysis of variance; randomized block designs; nested designs; and analysis of covariance. One year of Calculus and knowledge of CMS required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5664 - Applied Statistical Time Series Analysis for Reseach Scientists
+Applied course in time series analysis methods. Topics include regression analysis, detecting and addressing autocorrelation, modeling seasonal or cyclical trends, creating stationary time series, smoothing techniques, forecasting errors, and fitting autoregressive integrated moving average models.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5616 OR STAT 5606
+Corequisite(s):
+
+STAT 5684 - Survival Analysis
+Models and methods for time-to-event data with focus on biological and biomedical applications. Topics includes types of censoring and truncation; likelihood construction; survival function estimation; nonparametric two or more samples tests; Cox semiparametric regression, time-dependent covariates; regression diagnostics; competing risks; frailty model. Pre-requisite: Working knowledge of statistical software.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5044, STAT 5104, STAT 5114
+Corequisite(s):
+
+STAT 5754 - Internship in Statistics
+Full time, supervised internship experience at a company or government agency performing statistical analysis. May be repeated for a maximum of 3 hours toward an M.S. degree and 6 hours toward a Ph.D. degree. Graduate standing in statistics and permission of department required.
+Credit Hour(s): 1 TO 6
+Lecture Hour(s): 1 TO 6
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5024
+Corequisite(s):
+
+STAT 5894 - Final Examination
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5904 - Project and Report
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research, Online Research
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5924 - Graduate Seminar
+Special topics in statistical theory and applications. May be taken for credit two times (max. 2C).
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5974 - Independent Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Independent Study, VI
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 5994 - Research and Thesis
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research, Online Research
+Prerequisite(s):
+Corequisite(s):
+
+STAT 6105 - Measure and Probability
+Development of measure theoretic foundations of probability theory. 6105: sigma fields, probability, and general measures; random variables, measurability and distributions, integration, and expectation; product measures; Radon-Nikodym theorem and conditioning. 6106: Random variables and strong and weak laws of large numbers; characteristic functions, central limit theorem and martingales; stochastic processes and Brownian motion. 6105 partially duplicates Math 5225. Must be enrolled in PhD program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5104 OR MATH 4525
+Corequisite(s):
+
+STAT 6114 - Advanced Topics in Statistical Inference
+Advanced course in the theory of inference for graduate students in statistics and other qualified graduate students. Develops foundations, sufficiency, information, estimation, hypothesis testing, invariance, and unbiasedness.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114
+Corequisite(s):
+
+STAT 6344 - Modeling for High Dimensional and Sparse Data
+Statistical methods and modern computational methods for analyzing high dimensional data and sparse data, methods applied to complex data structures in various fields (e.g., genomics, epidemiology, and data mining), screening tools and matrix approximation, modeling strategies for high dimensional sparse data (parametric, nonparametric, and semiparametric regression models), statistical inference, graphical modeling methods, signal approximation methods, method limitations, functional analysis, causal inference, and data integration.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114, STAT 5514
+Corequisite(s):
+
+STAT 6424 - Multivariate Statistical Analysis
+Foundations of multivariate analysis. Distribution theory of vectors and matrices, inequalities, limit theory, the structure of some multivariate location-scale parameter families, derived distributions, invariant distributions, the principle of invariance in estimation and testing for multivariate location and scale parameters, and robust aspects of normal-theory multivariate procedures.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5504
+Corequisite(s):
+
+STAT 6474 - Adv Topics Bayesian Statistics
+Advanced concepts and methods in Bayesian analysis, including specifying priors, large sample theory, adaptive rejection sampling, adaptive rejection metropolis Hastings sampling, reverse jump Markov Chain Monte Carlo, model selection, nonparametric and semiparametric Bayesian methods using nonparametric priors, and Bayesian survival models.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114, STAT 5514, STAT 5444
+Corequisite(s):
+
+STAT 6494 - Advanced Topics in Mathematical Statistics
+Advanced treatment beyond standard course offerings in topics such as theory of inference, nonparametrics, sequential analysis, and limit theory. May be repeated for credit with different topics.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5114
+Corequisite(s):
+
+STAT 6504 - Experimental Design and Analysis II
+Theoretical treatment of construction and analysis of various types of incomplete block and factorial designs.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5124, STAT 5204
+Corequisite(s):
+
+STAT 6514 - Advanced Topics in Regression
+Advanced notions in modern regression techniques and diagnostics. The underlying theory and concepts associated with estimation methods for handling collinearity. Theory behind modern criteria for selection of candidate models. The development of single and multiple outlier and influence diagnostics. Odd years.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5124, STAT 5514
+Corequisite(s):
+
+STAT 6544 - Surrogate Modeling
+Statistical techniques at the interface between mathematical modeling via computer simulation, computer model meta-modeling (i.e., emulation/surrogate modeling), calibration to field data, and geometric and model-based sequential design, and Bayesian optimization. Historical literature, canoncial examples, and modern nonparametric methods like Gaussian processes. Computation and implementation, fidelity enhancements and approximate methods for big data. Real-world field experiments and computer model simulations from the physical and engineering sciences.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5044, STAT 5204, STAT 5304, STAT 5444
+Corequisite(s):
+
+STAT 6554 - Advanced Statistical Computing
+A second course on statistical and scientific computing. Hands-on, statistical implementation leveraging modern desktop computing (multiple cores), cluster computing (multiple nodes) and distributed computing (hadoop/Amazon EC2) and the coming wave of exascale computing (GPU/TPU/Xeon Phi). Fundamentals of the Unix shell, manipulating data therein, compiling libraries with make, version control (e.g., Git), good habits/best practice with code development and data management. Using advanced R skills to design statistical applications and bind together other languages (e.g., C, C++, Fortran, awk, sed, Cuda, etc.), databases, computing architectures and interfaces to address statistical problems.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5054
+Corequisite(s):
+
+STAT 6564 (ECON 6564) (AAEC 6564) - Bayesian Econometric Analysis
+Bayesian estimation of economic models, with focus on Gibbs sampling, hierarchical modeling, data augmentation, and model search. Strong emphasis on programming and computational implementation.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 6574 - Response Surface Design and Analysis II
+Advanced techniques and theory in response surface analysis and design. Robustness of designs. Thorough study of the notion of rotatability. Optimal design criteria and designs for estimating slopes of response surfaces. Mixture designs. Study of model misspecification. Even years.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5574
+Corequisite(s):
+
+STAT 6634 (EDRE 6634) - Advanced Statistics for Education
+Multiple regression procedures for analyzing data as applied in educational settings, including curvilinear regressions, dummy variables, multicollinearity, and introduction to path analysis.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 5634
+Corequisite(s):
+
+STAT 6984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STAT 7994 - Research and Dissertation
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research, Online Research
+Prerequisite(s):
+Corequisite(s):

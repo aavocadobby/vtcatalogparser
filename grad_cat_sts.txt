@@ -1,0 +1,35 @@
+1984: SPECIAL STUDY Variable credit course.
+
+2005-2006: INTEGRATED QUANTITATIVE SCIENCES 2005: Integrated topics from quantitative sciences that prepare students for advanced computational modeling and data analytics courses. Topics include: probability and statistics, infinite series, multivariate calculus, linear algebra. 2006: Intermediate linear algebra, regression, differential equations, and model validation. Pre: MATH 1226 for 2005; 2005, MATH 2114 or MATH 2114H, CMDA 2206 for 2006. Co: MATH 2114 for 2005. (6H,6C)
+
+2014: DATA MATTER This course develops fundamental analytical and programming skills to complete the analytic pipeline , including specifying research questions, selecting/collecting data ethically and responsibly, processing and summarizing datasets, and stating findings, while considering all assumptions made. Students will identify vulnerabilities in analyses, including sources of bias and ethical implications. Some programming skills recommended, but not required. Some prior use of data recommended, but not required. Pre: MATH 1014. (3H,3C)
+
+2984: SPECIAL STUDY Variable credit course.
+
+2984E: SPECIAL STUDY Variable credit course.
+
+2994: UNDERGRADUATE RESEARCH Variable credit course.
+
+3605-3606: MATHEMATICAL MODELING: METHODS AND TOOLS 3605: Mathematical modeling with ordinary differential equations and difference equations. Numerical solution and analysis of ordinary differential equations and difference equations. Stochastic modeling, and numerical solution of stochastic differential equations. 3606: Concepts and techniques from numerical linear algebra, including iterative methods for solving linear systems and least squares problems, and numerical approaches for solving eigenvalue problems. Ill-posed inverse problems such as parameter estimation, and numerical methods for computing solutions to inverse problems. Numerical optimization. Emphasis on large-scale problems. Pre: (CS 1114 or CS 1064 or MATH 3054), (MATH 2114 or MATH 2114H or MATH 2405H), (MAT H 2204 or MATH 2204H or MATH 2406H or CMDA 2006), (MATH 2214 or MATH 2214H or MATH 24 06H or CMDA 2006) for 3605; 3605 for 3606. (3H,3C)
+
+3634 (CS 3634): COMPUTER SCIENCE FOUNDATIONS FOR COMPUTATIONAL MODELING & DATA ANALYT ICS Survey of computer science concepts and tools that enable computational science and data analytics. Data structure design and implementation. Analysis of data structure and algorithm performance. Introduction to high-performance computer architectures and parallel computation. Basic operating systems concepts that influence the performance of large-scale computational modeling and data analytics. Software development and software tools for computational modeling. Not for CS major credit. Pre: CS 2114. (3H,3C)
+
+3654 (CS 3654) (STAT 3654): INTRODUCTORY DATA ANALYTICS & VISUALIZATION Basic principles and techniques in data analytics; methods for the collection of, storing, accessing, and manipulating standard-size and large datasets; data visualization; and identifying sources of bias. Pre: (CS 1114 or CS 1044 or CS 1054 or CS 1064), (MATH 2224 or MATH 2224H or MATH 220 4 or MATH 2204H or MATH 2406H or CMDA 2005), (STAT 3006 or STAT 4105 or STAT 4705 or STAT 4714 or CMDA 2006). (3H,3C)
+
+4314 (ECON 4314): BIG DATA ECONOMICS Applied econometrics dealing with big data. Theoretical, computational, and statistical underpinnings of big data analysis. The use of econometric models and deep machine learning algorithms to analyze the high-dimensional data sets. Implications in research focusing on economic questions that arise from rapid changes in data availability and computational technology. Materials are hands-on tutorials that come with Python codes and real-world data sets. Pre: ECON 3254 or ECON 4304 or CMDA 3654 or STAT 3006. (3H,3C)
+
+4604: INTERMEDIATE TOPICS IN MATHEMATICAL MODELING Introduction to partial differential equations, including modeling and classification of partial differential equations. Finite difference and finite elements methods for the numerical solution of partial differential equations including function approximation, interpolation, and quadrature. Numerical solution of nonlinear systems of equations. Uncertainty quantification, prediction. Pre: 3606. (3H,3C)
+
+4654 (CS 4654) (STAT 4654): INTERMEDIATE DATA ANALYTICS AND MACHINE LEARNING A technical analytics course. Covers supervised and unsupervised learning strategies, including regression, generalized linear models, regularization, dimension reduction methods, tree-based methods for classification, and clustering. Upper-level analytical methods shown in practice: e.g., advanced naive Bayes and neural networks. Pre: (STAT 3654 or CMDA 3654 or CS 3654), (CMDA 2006 or STAT 3104 or STAT 4106 or STA T 4706). (3H,3C)
+
+4664 (STAT 4664): COMPUTATIONAL INTENSIVE STOCHASTIC MODELING Stochastic modeling methods with an emphasis in computing are taught. Select concepts from the classical and Bayesian paradigms are explored to provide multiple perspectives for how to learn from complex, datasets. There is particular focus on nested, spatial, and time series models. Pre: (STAT 4106 or CMDA 3605), (CS 1114 or CS 1064 or STAT 2005). (3H,3C)
+
+4864: COMPUTATIONAL MODELING AND DATA ANALYTICS CAPSTONE PROJECT Capstone research project for Computational Modeling and Data Analytics majors. Cultivates skills including reviewing the literature, creative problem solving, teamwork, critical thinking, and oral, written, and visual communications. Quantitative and computational thinking, informed throughout by ethical reasoning. Pre: 3605, 3634 or CS 3634, CMDA 3654 or CS 3654 or STAT 3654. (3H,3C)
+
+4964: FIELD STUDY Variable credit course.
+
+4974: INDEPENDENT STUDY Variable credit course.
+
+4984: SPECIAL STUDY Variable credit course.
+
+4994: UNDERGRADUATE RESEARCH Variable credit course.

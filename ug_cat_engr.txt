@@ -1,0 +1,83 @@
+1004: THE FIRST YEAR EXPERIENCE IN LEARNING FROM DATA Introduction to the field of statistics and aspects of college life for first year students. Topics included: history of the statistics; key roles of statisticians in field, such as actuarial sciences, pharmaceutical, medical, and bioinformatics industries, governmental agencies, academia; fundamental principles of statistical fields of study and applications; exploring data sets; and aspects of college life for first-year students. (2H,2C)
+
+1014: DATA IN OUR LIVES Develop and practice the process of thinking critically with data in the context of real world problems. Import, manage, summarize, and visualize data using programmable, statistical software. Make data discoveries, make decisions, generate hypotheses, and/or communicate findings in data. Consider laws of probability and personal biases to weigh decisions. Recognize ethical issues and vulnerabilities in analyses when learning from data and extrapolating to large populations. (3H,3C)
+
+1984: SPECIAL STUDY Variable credit course.
+
+2004: INTRODUCTORY STATISTICS Fundamental concepts and methods of statistics with emphasis on interpretation of statistical arguments and statistical reasoning. Using modern, accessible statistical software and technology, an introduction to design of experiments (including data collection), data analysis, data visualization, correlation and regression, concepts of probability theory, sampling errors, confidence intervals, and hypothesis tests. Include real-world applications to develop problem-solving skills and consider ethical implications within the context of learning from data. No credit will be given for 2004 if taken with or after any other statistics course, except STAT 2984. Pre: MATH 1014 or MATH 1025 or MATH 1225 or MATH 1524 or MATH 1525. (3H,3C)
+
+2524: DATA SCIENCE Organize, summarize, and visualize large-scale datasets from web studies. Interpret visualizations and communicate information discovered by data explorations. Program in R or comparable statistics programming language. Not intended for statistics majors. Pre: (3005 or 3615), (MATH 1114, MATH 1206 or MATH 2015), (CS 1054 or CS 1064). (3H,3C)
+
+2964: FIELD STUDY Pass/Fail only. Variable credit course.
+
+2974H: INDEPENDENT STUDY Honors section. Variable credit course.
+
+2984: SPECIAL STUDY Variable credit course.
+
+3005-3006: STATISTICAL METHODS 3005: Basic statistical methodology: exploratory data techniques, estimation, inference, comparative analysis by parametric, nonparametric, and robust procedures. Analysis of variance (one-way), multiple comparisons, and categorical data. Includes real-world examples. Develops problem-solving skills and ethical reasoning within the context of learning from data. 3006: Analysis of variance, simple and multiple, linear and nonlinear regression, analysis of covariance. Use of MINITAB. STAT 3005 duplicates STAT 3615 and STAT 4604, only one may be taken for credit. STAT 3006 duplicates STAT 3616, STAT 4604 and STAT 4706, only one may be taken for credit. Co: MATH 1206 or MATH 1226 for 3005. Pre: MATH 1205 or MATH 1225 for 3005; 3005 or 4705 or CMDA 2005 for 3006. (3H,3C)
+
+3094: SAS PROGRAMMING Introduction to basic programming techniques: creating DATA and PROC statements, libraries, functions, programming syntax and formats. Other topics include loops, SAS Macros and PROC IML. Emphasis is placed on using these tools for statistical analyses. The pre-requisite may be substituted for an equivalent course. Pre: 3005 or CMDA 2006. (3H,3C)
+
+3104: PROBABILITY AND DISTRIBUTIONS Probability theory, including set theoretic and combinatorial concepts; in-depth treatment of discrete random variables and distributions, with some introduction to continuous random variables; introduction to estimation and hypothesis testing. Pre: (MATH 1206 or MATH 1226 or MATH 2015 or MATH 1026 or MATH 1526), (STAT 3005 or S TAT 3615 or STAT 4705 or CMDA 2005). (3H,3C)
+
+3504: NONPARAMETRIC STATISTICS Statistical methodology based on ranks, empirical distributions, and runs. One and two sample tests, ANOVA, correlation, goodness of fit, and rank regression, R-estimates and confidence intervals. Comparisons with classical parametric methods. Emphasis on assumptions and interpretation. Pre: 3006 or 3616 or 4106 or 4604 or 4706 or CMDA 2006. (3H,3C)
+
+3604: STATISTICS FOR SOCIAL SCIENCE Statistical methods for nominal, ordinal, and interval levels of measurement. Topics include descriptive statistics, elements of probability, discrete and continuous distributions, one and two sample tests, measures of association. Emphasis on comparison of methods and interpretations at different measurement levels. Includes real-world applications to develop problem-solving skills and ethical reasoning within the context of learning from data. Pre: MATH 1014 or MATH 1025 or MATH 1225 or MATH 1524 or MATH 1525. (3H,3C)
+
+3615-3616: BIOLOGICAL STATISTICS Descriptive and inferential statistics in a biological context with real-world examples. In analytical contexts, develops problem-solving skills and ethical reasoning. 3615: Fundamental principles, one- and two-sample parametric inference, simple linear regression, frequency data. 3616: One- and two-way ANOVA, multiple regression, correlation, nonparametrics, using a computer package. STAT 3615 partially duplicates STAT 3005 and STAT 4604, only one may be taken for credit. STAT 3616 partially duplicates STAT 3006, 4604 and 4706, only one may be taken for credit. Pre: MATH 1205 or MATH 1525 or MATH 1225 or MATH 1025 or MATH 1524 or ISC 1105 for 36 15; 3615 for 3616. (3H,3C)
+
+3654 (CMDA 3654) (CS 3654): INTRODUCTORY DATA ANALYTICS & VISUALIZATION Basic principles and techniques in data analytics; methods for the collection of, storing, accessing, and manipulating standard-size and large datasets; data visualization; and identifying sources of bias. Pre: (CS 1114 or CS 1044 or CS 1054 or CS 1064), (MATH 2224 or MATH 2224H or MATH 220 4 or MATH 2204H or MATH 2406H or CMDA 2005), (STAT 3006 or STAT 4105 or STAT 4705 or STAT 4714 or CMDA 2006). (3H,3C)
+
+3704: STATISTICS FOR ENGINEERING APPLICATIONS Introduction to statistical methodology with emphasis on engineering experimentation: probability distributions, estimation, hypothesis testing, regression, and analysis of variance. Only one of the courses 3704, 4604, 4705, and 4714 may be taken for credit. Pre: MATH 2224 or MATH 2224H or MATH 2204 or MATH 2204H or MATH 2406H. (2H,2C)
+
+3984: SPECIAL STUDY Variable credit course.
+
+4004: METHODS OF STATISTICAL COMPUTING Computationally intensive computer methods used in statistical analyses. Statistical univariate and multivariate graphics; resampling methods including bootstrap estimation and hypothesis testing and simulations; classification and regression trees; scatterplot smoothing and splines. Pre: (4105, 4214). (4H,3C)
+
+4024: COMMUNICATION IN STATISTICAL COLLABORATIONS Theory and examples of effective communication in the context of statistical collaborations. Practice developing the communication skills necessary to be effective statisticians using peer feedback and self-reflection. Topics include helping scientists answer their research questions, writing about and presenting statistical concepts to a non-statistical audience, and managing an effective statistical collaboration meeting. Senior standing in the Department of Statistics. Pre: 4214, 4204. (3H,3C)
+
+4094: INTRODUCTION TO PROGRAMMING IN R Introduction to R programming techniques with an emphasis on statistical analyses. Topics include: data objects, loops, importing/exporting datasets, graphics, functions, t-tests, ANOVA, linear regression, nonparametric tests, and logistic regression. Pre: 3615 or 3005. (1H,1C)
+
+4105-4106: THEORETICAL STATISTICS 4105: Probability theory, counting techniques, conditional probability; random variables, moments; moment generating functions; multivariate distributions; transformations of random variables; order statistics. 4106: Convergence of sequences of random variables; central limit theorem; methods of estimation; hypothesis testing; linear models; analysis of variance. STAT 4105 partially duplicates STAT 4705, STAT 4714, and STAT 4724, only one may be taken for credit. Pre: MATH 2224 or MATH 2224H or MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005 fo r 4105; 4105 for 4106. (3H,3C)
+
+4204: EXPERIMENTAL DESIGNS Fundamental principles of designing and analyzing experiments with application to problems in various subject matter areas. Discussion of completely randomized, randomized complete block, and Latin square designs, analysis of covariance, split--plot designs, factorial and fractional designs, incomplete block designs. Pre: 3006 or 3616 or 4106 or 4706 or 5605 or 5615 or CMDA 2006. (3H,3C)
+
+4214: METHODS OF REGRESSION ANALYSIS Multiple regression including variable selection procedures; detection and effects of multicollinearity; identification and effects of influential observations; residual analysis; use of transformations. Non-linear regression, the use of indicator variables, and logistic regression. Use of SAS. Pre: 3006 or 3616 or 4106 or 4706 or 5606 or 5616 or CMDA 2006. (3H,3C)
+
+4364: INTRODUCTION TO STATISTICAL GENOMICS Statistical methods for bioinformatics and genetic studies, with an emphasis on statistical analysis, assumptions, and problem-solving. Topics include: commonly used statistical methods for gene identification, association mapping and other related problems. Focus on statistical tools for gene expression studies and association studies, multiple comparison procedures, likelihood inference and preparation for advanced study in the areas of bioinformatics and statistical genetics. Pre: (MATH 2224 or MATH 2224H or MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005), (STAT 3104 or STAT 4105 or STAT 4705 or CMDA 2006), (STAT 3006 or STAT 3616 or STAT 4706 or CMDA 2006). (3H,3C)
+
+4444: APPLIED BAYESIAN STATISTICS Introduction to Bayesian methodology with emphasis on applied statistical problems: data displaying, prior distribution elicitation, posterior analysis, models for proportions, means and regression. Pre: (MATH 2224 or MATH 2224H or MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005), (STAT 3104 or STAT 4105 or STAT 4705 or CMDA 2006), STAT 3006 or STAT 3616 or STAT 4 706 or CMDA 2006. (3H,3C)
+
+4504: APPLIED MULTIVARIATE ANALYSIS Non-mathematical study of multivariate analysis. Multivariate analogs of univariate test and estimation procedures. Simultaneous inference procedures. Multivariate analysis of variance, repeated measures, inference for dispersion and association parameters, principal components analysis, discriminate analysis, cluster analysis. Use of SAS. Pre: 3006 or 4706 or CMDA 2006 or STAT 3616. (3H,3C)
+
+4514: INTRODUCTION TO CATEGORICAL DATA ANALYSIS Statistical approaches to analyze categorical data. Probability computation and distribution specification, interval estimation and hypothesis testing, formulating and fitting generalized linear models including logistic and Poisson regression, algorithms used for model fitting, variable selection, and classification trees and supervised learning. Pre: 3006 or 3616 or 4106 or 4706. (3H,3C)
+
+4524: SAMPLE SURVEY METHODS Statistical methods for the design and analysis of survey sampling. Fundamental survey designs. Methods of randomization specific to various survey designs. Estimation of population means, proportions, totals, variances, and mean squared errors. Design of questionnaires and organization of a survey. Pre: 3006 or 3616 or 4106 or 4706 or 5606 or 5616. (3H,3C)
+
+4534: APPLIED STATISTICAL TIME SERIES ANALYSIS Applied course in time series analysis methods. Topics include regression analysis, detecting and address autocorrelation, modeling seasonal or cyclical trends, creating stationary time series, smoothing techniques, forecasting and forecast errors, and fitting autoregressive integrated moving average models. Pre: 3006 or 4104 or 4706 or 4714 or 3616 or BIT 2406 or CMDA 2006. (3H,3C)
+
+4584: ADVANCED CALCULUS FOR STATISTICS Introduction to those topics in advanced calculus and linear algebra needed by statistics majors. Infinite sequences and series. Orthogonal matrices, projections, quadratic forms. Extrema of functions of several variables. Multiple integrals, including convolution and nonlinear coordinate changes. Pre: (MATH 1114 or MATH 2114 or MATH 2114H or MATH 2405H), (MATH 1205 or MATH 1225), (MATH 1206 or MATH 1226), (MATH 2224 or MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005). (3H,3C)
+
+4604: STATISTICAL METHODS FOR ENGINEERS Introduction to statistical methodology with emphasis on engineering applications: probability distributions, estimation, hypothesis testing, regression, analysis of variance, quality control. Only one of the courses 4604, 4705, and 4714 may be taken for credit. STAT 4604 partially duplicates STAT 3005, STAT 3615, STAT 3006, STAT 3616 and STAT 4706. Only one may be taken for credit. Pre: MATH 1206 or MATH 1226. (3H,3C)
+
+4654 (CMDA 4654) (CS 4654): INTERMEDIATE DATA ANALYTICS AND MACHINE LEARNING A technical analytics course. Covers supervised and unsupervised learning strategies, including regression, generalized linear models, regularization, dimension reduction methods, tree-based methods for classification, and clustering. Upper-level analytical methods shown in practice: e.g., advanced naive Bayes and neural networks. Pre: (3654 or CMDA 3654 or CS 3654), (CMDA 2006 or STAT 3104 or STAT 4106 or STAT 470 6). (3H,3C)
+
+4664 (CMDA 4664): COMPUTATIONAL INTENSIVE STOCHASTIC MODLEING Stochastic modeling methods with an emphasis in computing are taught. Select concepts from the classical and Bayesian paradigms are explored to provide multiple perspectives for how to learn from complex, datasets. There is particular focus on nested, spatial, and time series models. Pre: (4106 or CMDA 3605), (CS 1114 or CS 1064 or STAT 2005). (3H,3C)
+
+4705-4706: PROBABILITY AND STATISTICS FOR ENGINEERS Basic concepts of probability and statistics with emphasis on engineering applications. 4705: Probability, random variables, sampling distributions, estimation, hypothesis testing, simple linear regression correlation, one-way analysis of variance. 4706: Multiple regression, analysis of variance, factorial and fractional experiments. Only one of the courses 3704, 4604, 4705, 4714, and 4724 may be taken for credit. Pre: MATH 2224 or MATH 2204 or MATH 2204H or MATH 2406H for 4705; 4705 or 4105 or ISE 2024 for 4706. (3H,3C)
+
+4714: PROBABILITY AND STATISTICS FOR ELECTRICAL ENGINEERS Introduction to the concepts of probability, random variables, estimation, hypothesis testing, regression, and analysis of variance with emphasis on application in electrical engineering. Only one of the courses 3704, 4604, 4705, 4714 and 4724 may be taken for credit. Pre: MATH 2224 or MATH 2204 or MATH 2204H or MATH 2406H. (3H,3C)
+
+4804 (AAEC 4804): ELEMENTARY ECONOMETRICS Economic applications of mathematical and statistical techniques: regression, estimators, hypothesis testing, lagged variables, discrete variables, violations of assumptions, simultaneous equations. Pre: AAEC 1005, (STAT 3615 or STAT 3005 or STAT 3604 or BIT 2405). (3H,3C)
+
+4964: FIELD STUDY Pass/Fail only. Variable credit course.
+
+4974: INDEPENDENT STUDY Variable credit course.
+
+4974H: INDEPENDENT STUDY Honors section. Variable credit course.
+
+4984: SPECIAL STUDY Variable credit course.
+
+4994: UNDERGRADUATE RESEARCH Variable credit course.
+
+4994H: UNDERGRADUATE RESEARCH Honors section. Variable credit course.

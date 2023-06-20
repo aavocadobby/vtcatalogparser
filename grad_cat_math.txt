@@ -1,0 +1,264 @@
+STS 5024 - Introduction to Science and Technology Studies
+Intellectual and institutional history of the field. Key theories, methods, and domains of study. Relation among perspectives from contributing disciplines, and emerging interdisciplinary trends. Emphasis on both solid grounding through classic texts, and discussion of emergent research areas.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5104 (PSCI 5104) (SPIA 5104) - Policy Gateway: Policy and Decision Making in Scientific Domains
+Key concepts in policy making, including policy analysis and decision making in complex social and technical settings. Policy process theories and evaluation tools. Concepts of governance including public values, ethics, and variable impacts across communities. Relationships among public policy decision processes and science, technology, and engineering, including disciplinary norms. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5105 - Contemporary Issues in Science and Technology Studies
+Theoretical and methodological issues addressed in the interdisciplinary social study of contemporary science and technology. 5105: social studies of science; 5106: social studies of technology.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5106 - Contemporary Issues in Science and Technology Studies
+Theoretical and methodological issues addressed in the interdisciplinary social study of contemporary science and technology. 5105: social studies of science; 5106: social studies of technology.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5124 (PSCI 5124) (SPIA 5124) - Decision Making, Reflective Practice, and Engagement in STEM-H Domains
+In-depth case-based exploration of roles of science, technology, engineering, and mathematics in policy-making. Application of theories, concepts and practices for policy decision-making, including stakeholder engagement, human behavior, and organizational development. Critical examination of ethics, and fostering of reflective practice. Implications of big data and modeling in decision-making. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5134 (WGS 5124) - Gender, Bodies, & Technology
+Intersections of gender, bodies, and technologies in multiple contexts and across disciplines. Technology in individual lives and the gendered discourses surrounding bodies and technologies. Feminist and queer theories of technoscience and the impact of technologies on gendered bodies. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5154 (PSCI 5154) (SPIA 5154) - Science, Technology, and Engineering in Policy Seminar
+Seminar for Science, Technology, and Engineering in Policy (STEP) program students. Presentation of research on the intersections of science, technology, engineering, math, and health (STEM-H), public policy, and ethics. Professional development. Research resources and tools. Project management and funding opportunities. Publishing standards and processes across disciplines. STEM-H and policy practitioner engagement. Multidisciplinary communication. May be repeated up to six times, as seminar and presentation topics will change each semester. Pass/Fail only. Pre: Graduate standing.
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5205 (HIST 5205) - Main Themes in the History of Science and Technology
+Methods and concepts in the history of science and technology. 5205: research methods, interpretive approaches, and contemporary issues in the history of science; 5206: research methods, interpretive approaches, and contemporary issues in the history of technology.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5206 (HIST 5206) - Main Themes in the History of Science and Technology
+Methods and concepts in the history of science and technology. 5205: research methods, interpretive approaches, and contemporary issues in the history of science; 5206: research methods, interpretive approaches, and contemporary issues in the history of technology.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5284 (NSEG 5284) (SPIA 5284) - Nuclear Nonproliferation, Safeguards, and Security
+Technical essentials, policy analysis, theoretical perspectives of nuclear energy and nuclear nonproliferation. Fundamentals of the nuclear fuel cycle, management of international safeguards, threat of nuclear terrorism, and challenges for global nuclear industry. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5305 - Main Themes in the Philosophy of Modern Science and Technology
+Problems, literature, and schools in the philosophy of science and technology. 5305: explanation and confirmation; 5306: theory change.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHIL 3505
+Corequisite(s):
+
+STS 5306 (PHIL 5306) - Main Themes in the Philosophy of Modern Science and Technology
+Problems, literature, and schools in the philosophy of science and technology. 5305: explanation and confirmation; 5306: theory change.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5364 (GIA 5364) (PSCI 5364) - Public Ecology
+Examines policy developments and practices that move beyond the conceptual divisions and policy operations begun during the 1970s, which largely divided the more natural science- based environmental sciences from social science-based environmental based studies. Mixes the insights of life science, physical science, social science, applied humanities, and public policy into a cohesive conceptual and operational approach to environmental protection in the 21st century. Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5404 - Science in Modern America
+History of science connected to social and policy issues in modern America. Mutual influence between science and cultural factors such as race and gender, military and corporate funding, scientific communities and professionalization, and federal science policy. Diverse theoretical frameworks and research methods for writing about history of science. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5424 - Topics in Science and Technology Studies
+Variable topics in science and technology studies such as role of values in science and technology, risk assessment, and past and present relations of religion to science and technology. May be repeated to a maximum of 6 hours.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5444 - Issues in Bioethics
+Identification and analysis of ethical issues arising in basic and applied biological, medical, environmental, ecological, and energy studies.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5514 - Research Designs and Practices for Sts
+Examines research designs and practices that uncover historical relationships between knowledge contents and social dimensions of science, technology, and medicine. Includes archival research, archaeology of instruments and physical spaces, interviewing for knowledge content, logical and conceptual analysis, participant observation, questionnaires, and proposal preparation.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5614 (PAPA 5614) - Introduction to Science and Technology Policy
+Strategies for science and technology policy; science education; scientific and technical information for societal uses; government and public policy; resource allocation; economy and global exchanges of science and technology; approaches to policy evaluation.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5974 - Independent Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Independent Study, VI
+Prerequisite(s):
+Corequisite(s):
+
+STS 5984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 5994 - Research and Thesis
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research
+Prerequisite(s):
+Corequisite(s):
+
+STS 6234 - Advanced Topics in the History of Modern Science, Technology and Medicine
+Variable topics in history of science, technology, and medicine after 1800, such as the atomic age; space science; science, technology, and institutions; scientific and technological medicine; and environmental history. May be repeated with a different topic for a maximum of 6 credits.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6244 - History, Culture, and Politics of the Internet
+Explores a variety of social factors, past and present, that have affected the way we make, use, and think about computers and the Internet. Begins with the origins of the Internet and the people who shape this technology, from military strategists to hackers. Examines the ways diverse groups interact and build communities online and how cultural norms about race and gender shape the ways we participate in the world of computing. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6534 - Advanced Topics in Cultural Studies of STEM-H
+Variable topics in cultural studies of science, technology, engineering, mathematics, and health. May include theories of language and science, popular and public knowledges, cultural performances around science and technology, conceptions of health and the body, cultures of quantification, technology and identity, hierarchies and diversity in science and technology, and cross-cultural comparisons. May be repeated with different content up to a maximum of 12 credits.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6564 (SPIA 6564) - Risk in Contemporary Culture
+Conceptual perspectives on social and cultural studies of risk. Qualitative theories and tools for analyzing a wide range of risks in contemporary culture. Definitions of risk as opposed to concepts such as danger, hazard, and uncertainty. Perception of risk and selective bias in risk perception. Efficiency, objectivity, and morality as factors influencing risk assessment and risk management, and affective definitions of safety and reliability. Role of expertise, trust, and communication in risk regulation. Democratic policy instruments to facilitate stable, legitimate decisions about what risks to take or avoid in contemporary societies. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6614 - Advanced Topics in Technology Studies
+Variable topics in technology studies, including development and structure of knowledge in technology and engineering, social construction of technology, knowledge and power in technology, gender and technology, engineering in society, human/nonhuman relations in technology. May be repeated with a different topic for a maximum of 6 credits.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6664 - Advanced Topics in Science and Technology Policy
+Variable topics in science and technology policy. Includes advanced study of science, technology, and economy; science, technology, and power; strategies for research and development policy --public and private sector; transfer of technology; technological forecasting; government regulation and responses; science policy assumptions and challenges, specialist knowledge and expertise; state and academic knowledge production; issues of race, class, gender, and national identity in policy work. May be repeated with a different topic for a maximum of 6 credits.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6674 - Advanced Topics in Alternate Perspectives On Science, Technology & Medicine
+Variable topics in alternate perspectives. Includes science from scientists perspectives, indigenous knowledge forms, alternative medicine, New Age science, cyborg theorizing, heterodox perspectives. May be repeated with a different topic for a maximum of 6 credits.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 6984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+STS 7994 - Research and Dissertation
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research
+Prerequisite(s):
+Corequisite(s):

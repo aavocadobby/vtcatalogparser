@@ -1,0 +1,111 @@
+1004: FIRST YEAR EXPERIENCE IN CHEMISTRY Orientation to the Chemistry Department and to the discipline of chemistry for chemistry majors and for individuals considering CHEM as a major, including transfer students. Resources for success, both generally as a college student and specifically as a chemistry major. Opportunities for mentoring, individual research and community involvement across the university and within the Chemistry Department. Exploration of career pathways for chemistry majors. Interconnections among professional practice, disciplinary progress, accepted standards for ethical use of information, principles of diversity and inclusion, and individual or personal value systems. Scientific communication, professional networking, and chemistry in the public eye. (1H,1C)
+
+1014: CALCULATIONS IN CHEMISTRY Mathematical problem solving skills required for success in general chemistry. Manipulation of symbolic algebraic formulas. Dimensional analysis and narrative mathematical exercises. Application of problem solving techniques to chemical processes and reactions. Generation and interpretation of graphs using computer software. Elementary features of atoms, molecules, and the periodic table of the elements. Molar quantities, chemical nomenclature, reaction stoichiometry, and introductory solution chemistry. (3H,3C)
+
+1015,1016: CHEMISTRY IN CONTEXT Survey of chemistry across areas of specialization for students enrolled in curricula other than science and engineering. History and fundamental concepts and theories of chemistry, including the consequences of changes in parameters on chemical systems. Impact of chemistry in the context of areas of public concern and policy, including best practices for sustainability, rational decision-making, ethical use of scientific information, product and process stewardship. Chemistry as a basis for decision-making in the context of individual values and beliefs, and the roles of values and beliefs in the progress of chemistry as a human endeavor. The foregoing to be based on the concepts of chemistry as follows: 1015: Periodicity and atomic structure; nuclear chemistry; chemical bonding and reactivity; organic chemistry, polymer chemistry, and medicinal chemistry. 1016: Chemical stoichiometry including conservation of matter and energy; acid-base and oxidation-reduction chemistry of solutions; stoichiometry and thermodynamics, agricultural and environmental chemistry, chemistry of household and personal care products (3H,3C)
+
+1025,1026: INTRODUCTION TO CHEMISTRY LABORATORY Virtual laboratory exercises and reading and writing assignments designed to accompany 1015 and 1016, as applicable. Illustrates and elaborates on principles addressed in lecture, including history and fundamental concepts, theories, contexts, with an emphasis on sustainability issues and ethical consequences of decision- making in chemistry. Students will identify foundational concepts in chemistry, enumerate parameters likely to influence the outcome of an experiment, analyze the ways that values and beliefs influence progress in the discipline and communicate chemical concepts to a lay audience. (3L,1C)
+
+1034: GENERAL CHEMISTRY RECITATION A companion course for students needing supplemental help with mathematical and problem-solving skills required for CHEM 1035 General Chemistry. Manipulation of algebraic formulas. Application of problem-solving techniques to chemical processes and reactions. Quantitative methods applied to unit conversions, reaction yields, energy of reactions, and gas properties. Examination of atomic structure, periodicity, and molecular bonding. May not count towards degree requirements; consult advisor. Pass/Fail only. Pass/Fail only. Co: 1035. (1H,1C)
+
+1035-1036: GENERAL CHEMISTRY First chemistry course for students in science curricula. Applications of reasoning in the natural sciences using chemical laws in an applied context and in the student s own discipline. Overview of the universal aspects of chemistry and of application of chemistry to address global challenges. 1035: Problem-solving, elements and periodic table, stoichiometry of chemical reactions, gas phase of matter, energy flow and chemical change, atomic structure, and theories of chemical bonding. 1036: Kinetics, equilibrium, thermodynamics, electrochemistry, transition elements, nuclear chemistry. (Duplicates 1015-1016.) Co: MATH 1025 or MATH 1225. (3H,3C)
+
+1045-1046: GENERAL CHEMISTRY LABORATORY Hands-on, real-world activities that illustrate and elaborate on concepts taught in general chemistry lecture (1035-1036), including acids and bases, heat capacity, ideal gases, states of matter, concentration, mixtures, energy flow and spontaneity in processes, equilibrium, kinetics, colligative properties, and electrochemistry. Use of instrumentation to analyze water and soil contaminants, biofuel mixtures, nanoparticles, and polymer properties. Laboratory safety, chemical hygiene, hazard mitigation, waste management, and the influence of procedure on experimental outcomes. Global challenges, including recycling and sustainable energy sources, water resource management, global warming, and environmentally friendly reagents in chemical contexts. Use of computers in data analysis, collaboration, and report-writing. Co: 1035 for 1045; 1036 for 1046. (3L,1C)
+
+1055-1056: GENERAL CHEMISTRY FOR CHEMISTRY MAJORS In depth treatment of chemical bonding, thermodynamics, chemical equilibrium, reaction kinetics, descriptive chemistry of the elements, acid-base chemistry, chemistry of gases, liquids and solids, and other topics. This class is restricted to chemistry and biochemistry majors. Other students may request consent of instructor. Co: MATH 1025 or 1225 and CHEM 1065 for 1055. Co: 1065 for 1055; 1066, 1066 for 1056. (4H,4C)
+
+1055H-1056H: HONORS GENERAL CHEM FOR MAJORS In depth treatment of chemical bonding, thermodynamics, chemical equilibrium, reaction kinetics, descriptive chemistry of the elements, acid-base chemistry, chemistry of gases, liquids and solids, and other topics. Co: MATH 1025 or 1225 and CHEM 1065 for 1055. Co: 1065 for 1055H; 1066, 1066 for 1056H. (4H,4C)
+
+1065-1066: GENERAL CHEMISTRY FOR CHEMISTRY MAJORS LAB Accompanies 1055-1056. Selected experiments illustrate principles taught in lecture. This class is restricted to chemistry and biochemistry majors. Other students may request consent of instructor. Co: 1055 for 1065; 1056 for 1066. (3L,1C)
+
+2114: ANALYTICAL CHEMISTRY A first course in analytical chemistry. Topics covered include volumetric and gravimetric analysis, and elementary spectroscopy. Pre: 1036 or 1056 or 1056H. Co: 2124. (3H,3C)
+
+2124: ANALYTICAL CHEMISTRY LABORATORY TECHNIQUES AND PRACTICE Practical introduction to wet methods of quantitative chemical analysis based on fundamental chemical principles. Prior credit for OR concurrent registration of 2114 lecture is required for 2124 lab. Pre: (1046 or 1066). Co: 2114. (3L,1C)
+
+2154: ANALYTICAL CHEMISTRY FOR CHEMISTRY MAJORS A one-semester course in analytical chemistry emphasizing the principles of equilibrium with examples from acid-base, complexation, solubility, and redox chemistry. The course also introduces the principles of spectroscopic, electrochemical, and chromatographic instrumentation. Pre: 1036 or 1056 or 1056H. Co: 2164. (4H,4C)
+
+2164: ANALYTICAL CHEMISTRY FOR CHEMISTRY MAJORS LAB A one-semester laboratory course in analytical chemistry that provides practical training in wet chemical methods, atomic and molecular spectroscopy, electrochemistry, and separations. Pre: 1046 or 1066. Co: 2154. (3L,1C)
+
+2424: DESCRIPTIVE INORGANIC CHEMISTRY Application of fundamental principles in a systematic study of bonding and reactivity of the elements and their compounds. Pre: 1036 or 1056. (3H,3C)
+
+2514: SURVEY OF ORGANIC CHEMISTRY Short course in fundamentals of organic chemistry with emphasis on nomenclature, isomerism, and properties of organic compounds. Compounds of importance to biology and biochemistry stressed. (Prior credit for 2535 precludes credit for this course.) One year of Chemistry required. Pre: (1035 or 1055 or 1055H), (1036 or 1056 or 1056H). (3H,3C)
+
+2535-2536: ORGANIC CHEMISTRY Structure, stereochemistry, reactions, and synthesis of organic compounds. Pre: 1036 or 1056 or 1056H or ISC 1106 or ISC 1106H for 2535; 2535 or (2565 or 2565H) for 2536. (3H,3C)
+
+2545-2546: ORGANIC CHEMISTRY LABORATORY The laboratory accompanies lectures in organic chemistry 2535 and 2536. Pre: 1046 or 1066 or ISC 1116 for 2545; 2545 for 2546. Co: 2565, 2535 for 2545; 2536 for 2546. (3L,1C)
+
+2555-2556: ORGANIC SYNTHESIS AND TECHNIQUES LAB Synthesis and characterization of organic compounds using modern laboratory techniques. Pre: 2565 for 2555; 2555 for 2556. (6L,2C)
+
+2565-2566: PRINCIPLES OF ORGANIC CHEMISTRY Organic chemistry for chemistry majors. Structure and reactions of organic compounds, with emphasis on fundamental principles, theories, synthesis, and reaction mechanisms. The subject matter partially duplicates that of 2535-2536; no credit will be given for the duplicated courses. Pre: 1036 or 1056 or 1036H or 1056H for 2565; 2565 for 2566. (3H,3C)
+
+2964: FIELD STUDY Pass/Fail only. Variable credit course.
+
+2974: INDEPENDENT STUDY Variable credit course.
+
+2974H: INDEPENDENT STUDY Honors section. Variable credit course.
+
+2984: SPECIAL STUDY Variable credit course.
+
+3054: POSTCONSUMER MATERIALS Chemistry and global impacts of postconsumer materials including trash, biodegradable, recyclable, and reusable materials. Waste management of metals, ceramics, and polymers in the context of their chemical properties. Reliability and accuracy of information sources on postconsumer materials. Complex contemporary issues involving disposal and repurposing of postconsumer materials including health impacts, energy, cost, water quality, return value, and environmental and cultural considerations. (3H,3C)
+
+3615-3616: PHYSICAL CHEMISTRY Principles of thermodynamics, kinetics, and quantum mechanics applied to chemical equilibria, reactivity, and structure. Partly duplicates 4615, cannot receive credit for both 3615 and 4615. Pre: (1035 or 1055 or 1055H), (1036 or 1056 or 1056H), PHYS 2306, (MATH 2204 or MATH 2204H or MATH 2224) for 3615; MATH 2214, (CHEM 3615 or CHEM 3615H), (CHEM 3615, MATH 2214 or CHEM 3615H) for 3616. (3H,3C)
+
+3615H-3616H: HONORS PHYSICAL CHEMISTRY Principles of thermodynamics, kinetics, and quantum mechanics applied to chemical equilibria, reactivity, and structure. Partially duplicates 4615, cannot receive credit for both 3615H and 4615. 3615H requires additional work; consult the instructor. Pre: (1035 or 1055 or 1055H), (1036 or 1056 or 1056H), PHYS 2306, (MATH 2204 or MATH 2204H or MATH 2224) for 3615H; MATH 2214, (CHEM 3615 or CHEM 3615H), (CHEM 3615, MATH 2214 or CHEM 3615H) for 3616H. (3H,3C)
+
+3625-3626: PHYSICAL CHEMISTRY LABORATORY Laboratory study of selected physico-chemical principles and methods. Data acquisition, data analysis, and report writing are stressed. Pre: 3615 or 3615H or 4615 for 3625; (3616 or 3616H or 4616), 3625, 4014 for 3626. (3L,1C)
+
+3984: SPECIAL STUDY Variable credit course. X-grade allowed.
+
+4014: SURVEY OF CHEMICAL LITERATURE Use of the chemical literature as an aid to professional activities. Pre: Junior Major Standing. (1H,1C)
+
+4054: CAPSTONE IN MATERIALS AND SOCIETY Capstone course for the Materials and Society Pathways Minor. Synthesizes the students preparation in social equity, policy, and fundamental materials science to critically analyze concepts in the modern scientific materials landscape, including the evaluation of scientific information, the reciprocal impact of science and society, and the ethics of extraction & mining, manufacturing & use, and disposal of materials. Cultivates skills in teamwork, written and oral presentations, and proposal development. (3H,3C)
+
+4074 (MSE 4544): LABORATORY IN POLYMER SCIENCE Experimental techniques used in the synthesis of various linear polymers, copolymers, and crosslinked networks. Determination of polymer molecular weights and molecular weight distribution. Methods used in the thermal, mechanical, and morphological characterization of polymeric systems. Pre: 3616, 4534. (1H,3L,2C)
+
+4114: INSTRUMENTAL ANALYSIS Principles of instrumental methods including data analysis, phase equilibrium, spectroscopy, and electrochemistry. Applications of modern instrumentation to chemical analyses using chromatography, electrophoresis, atomic and molecular spectroscopy, potentiometry, and voltammetry. Note: Graduate students will not be expected to take the corequisite lab 4124. Pre: (3615 or 3615H), 2154. Co: 4124. (3H,3C)
+
+4114H: HONORS INSTRUMENTAL ANALYSIS Pre: (3615 or 3615H), 2154. Co: 4124. (3H,3C)
+
+4124: INSTRUMENTAL ANALYSIS LABORATORY Hands-on experience with modern instrumental methods of analysis. Experiments use spectroscopy, electrochemistry, and separations. Co: 4114. (3L,1C)
+
+4404: PHYSICAL INORGANIC CHEMISTRY A study of spectroscopic, bonding, and structural properties of inorganic compounds. Pre: (3616 or 3616H), 2424. (3H,3C)
+
+4414: INORGANIC CHEMISTRY LAB Synthesis and characterization of inorganic compounds using modern laboratory techniques. Pre: 2424, (3616 or 3616H), 4404. Co: 4424, 3616. (6L,2C)
+
+4424 (SBIO 4424): POLYSACCHARIDE CHEMISTRY Structure, properties, and applications of natural polysaccharides. Natural sources and methods of isolation. Synthetic chemistry and important polysaccharide derivatives. Relation of structure and properties to performance in critical applications including pharmaceuticals, coatings, plastics, rheology control, and films. Conversion by chemical and biochemical methods of polysaccharide biomass to fuels and materials. Pre: 2536 or 2566. (3H,3C)
+
+4434: ORGANOMETALLIC CHEMISTRY Synthesis, structure, properties, and reactivity patterns of main-group and transitionmetal organometallic compounds. Applications of organometallic compounds in chemical synthesis and catalysis. Pre: 2424, 2565, 2566, 4404. (3H,3C)
+
+4444: BIOINORGANIC CHEMISTRY Principles underpinning the study of metal ions in biological systems. Review of basic coordination chemistry. Evolution of the distribution of metal ions in biology. Uptake of metal ions from the environment into living organisms. Regulation of metal ion concentrations in cells. Central functions of metal ions in biological systems including modulation of structure, electron transfer reactions, substrate binding and activation, and selective transfer of atoms and groups. Roles of biopolymers in the binding, regulation, and function of metal ions. Physical methods of analysis relevant to bioinorganic chemical research questions. Senior standing. Pre: (2566 or BCHM 4115), BIOL 1105, BIOL 1106. (3H,3C)
+
+4514: GREEN CHEMISTRY Sustainability, waste prevention, conservation of energy resources, avoidance of toxins, pollutants, and hazards in chemical processes and products. Life-cycle analysis applied to case studies involving process development and product stewardship. Applications in chemical industry, process and product design, and public policy. Pre: 2536 or 2566. (3H,3C)
+
+4524: IDENTIFICATION OF ORGANIC COMPOUNDS Structure determination of organic compounds by spectroscopic methods, with an emphasis on mass spectrometry and nuclear magnetic resonance. Course will emphasize problem-solving skills. Pre: (2536 or 2566), (3616 or 3616H or 4616). (3H,3C)
+
+4534: ORGANIC CHEMISTRY OF POLYMERS Structure, synthesis, and basic characteristics of the major classes of polymerization reactions including step-growth (condensation) and chain growth (addition), free radical, and ionic mechanisms. Pre: 2536 or 2566. (3H,3C)
+
+4544: MEDICINAL CHEMISTRY CAPSTONE LABORATORY Laboratory experience tracing a standard pathway that potential drug targets follow in many medicinal chemistry laboratories. Synthesis of potential drug compounds and verification of their purity and structural identity primarily using mass spectrometry and nuclear magnetic resonance (NMR) spectroscopy. Optimization of conditions for a biochemical assay and verification of its reproducibility. Use of an optimized assay to measure the potency of potential drug compounds to achieve a desired biochemical effect. Application of structure-activity relationships to propose new chemical structures that might show further improvements in potency. Best practices in laboratory safety, chemical hygiene, note-keeping, and professional report-writing. Senior standing. Pre: 4584, BIOL 1105, BIOL 1106. (6L,2C)
+
+4554: DRUG CHEMISTRY Structure, synthesis, and physiological effects of major classes of pharmaceutical agents including CNS depressants and stimulants, analgesics, anesthetics, cardiovascular agents, chemotherapeutic drugs, and oral contraceptives. Pre: 2536 or 2566. (3H,3C)
+
+4584: BIOORGANIC CHEMISTRY The organic chemistry underlying the structure and properties of amino acids, peptides, and nucleic acids. Mechanisms of enzyme catalysis and coenzyme-mediated reactions. Mechanisms and thermodynamics of catabolism and anabolism of fats, carbohydrates, and proteins, and of other key biological reactions. Principles of solid-phase synthesis applied to peptides and nucleic acids. Biosynthesis of lipids, sugars, and terpenoids. Pre: 2536 or 2566. (3H,3C)
+
+4615,4616: PHYSICAL CHEMISTRY FOR THE LIFE SCIENCES Principles of thermodynamics, chemical kinetics, and chemical bonding for students in the life sciences. 4615: Laws and applications of thermodynamics. 4616: Chemical kinetics and chemical bonding including spectroscopy. Partly duplicates 3615, cannot receive credit for 3615 and 4615. Pre: (1036 or 1056 or 1056H), (MATH 1026 or MATH 1226), (PHYS 2206 or PHYS 2306). (3H,3C)
+
+4624: MATERIALS CHEMISTRY IN ENERGY SCIENCES Fundamental principles of solid-state materials chemistry in energy sciences. Thermodynamics and kinetics of electron and ion transport in solid materials. Application of electrochemical and photochemical principles to batteries, fuel cells, solar cells, and other energy devices. Analytical tools and characterization methods for elucidating mechanisms within electrochemical and photoelectrochemical cells, with an emphasis on using electrochemical principles to evaluate battery chemistry. Solid-liquid interfacial mechanisms in energy devices. Critical analysis of relevant primary literature. Formulation of hypotheses and experimental design for improving device performance. Pre: Senior standing. Pre: (3615 or 4615). (3H,3C)
+
+4634: POLYMER AND SURFACE CHEMISTRY Physical chemical fundamentals of polymers and surfaces including adhesives and sealants. Pre: 3615 or 4615. (3H,3C)
+
+4734 (CSES 4734) (ENSC 4734): ENVIRONMENTAL SOIL CHEMISTRY Chemistry of inorganic and organic soil components with emphasis on environmental significance of soil solution-solid phase equilibria, sorption phenomena, ion exchange processes, reaction kinetics, redox reactions, and acidity and salinity processes. Pre: CSES 3114 or ENSC 3114 or GEOS 3614, CSES 3124 or ENSC 3124 or GEOS 3624, CHEM 2 514 or CHEM 2535, CHEM 2114, (MATH 1026 or MATH 1226). (3H,3C)
+
+4964: FIELD STUDY Pass/Fail only. Variable credit course.
+
+4974: INDEPENDENT STUDY Variable credit course.
+
+4974H: INDEPENDENT STUDY Honors section. Variable credit course.
+
+4984: SPECIAL STUDY Variable credit course. X-grade allowed.
+
+4994: UNDERGRADUATE RESEARCH Variable credit course.
+
+4994H: UNDERGRADUATE RESEARCH Honors section. Variable credit course.

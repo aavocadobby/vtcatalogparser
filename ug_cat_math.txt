@@ -1,0 +1,67 @@
+1504: INTRODUCTION TO SCIENCE, TECHNOLOGY, AND SOCIETY Examination of the interrelationship among science, technology, and society. Study of how science, technology, and medicine are defined and analyzed by the humanities and social sciences. Examination of topics, theories, and methods of the field of Science and Technology Studies. Depiction of the dynamics of scientific and technological controversies including the roles knowledge, expertise, risk, rhetoric and public understanding play in policy making. (3H,3C)
+
+2034: INTRODUCTION TO TECHNOLOGY AND RACE Examination of the relationship between technology and race. Technology such as information and communication technologies, medical and biometric technologies, transportation, and space travel in contexts of colonialism, indigenous knowledge, and globalization. Role of technology in resistance and emancipation. Assessment of inequity in the design and maintenance of sociotechnical systems including bias in design, surveillance, biopolitics, and the digital divide. (3H,3C)
+
+2054 (HIST 2054): ENGINEERING CULTURES Development of engineering and its cultural values in historical and transnational perspectives. Explores the varying knowledge, identities, and commitments of engineers and engineering across different countries. Examines values in emergent infrastructures of engineering education and work, and the participation of engineers and engineering in evolving forms of capitalism. Helps students learn to reflect critically on their knowledge, identities, and commitments in varying curricula and a globalizing world. (3H,3C)
+
+2154: THE LIFE SCIENCES AND SOCIETY Basic Science, Technology, and Society (STS) perspectives on the life sciences and the ethical issues they raise. Humanistic approaches to analyze how our values and perceptions are informed by the ways that we understand bodies, biology, and life itself. How our hopes, desires, and fears shape the practices and technologies of the life sciences. (3H,3C)
+
+2254: INNOVATION IN CONTEXT Critical examination of diverse definitions and examples of innovation. Discussion of innovation as a process of social change; as technology diffusion; as an economic engine; as an ecosystem; as an ideology; and more. Introduction to methods and ideas from the field of Science and Technology Studies including the analysis of innovation from historical, cultural, and economic perspectives, as well as the study of innovations consequences and its alternatives. Collaborative projects focused on creatively describing and critiquing local cases of innovative work. (3H,3C)
+
+2354: HUMANITIES, TECHNOLOGY, AND THE PHYSICAL SCIENCES Examines the value-laden issues surrounding the professional dimensions of research in the physical sciences and technology, and provides humanistic perspectives on the role and function of science in society. (3H,3C)
+
+2444: GLOBAL SCIENCE AND TECHNOLOGY POLICY Introduction to issues and themes in global science and technology policy, from the perspective of Science and Technology Studies (STS). Comparison of national and international policy agents, institutions, structures, and processes. Integration of key ideas from STS into policy analysis, including regulatory cultures, cultural notions of risk and expertise, large socio-technical systems, and social shaping of technology. Emphasis on international controversies, diverse cultural perspectives, and inclusion in policy processes. Cases may include international controversies over genetically modified foods, transmissible illnesses, nuclear energy, and information security. (3H,3C)
+
+2454: SCIENCE, TECHOLOGY, AND ENVIRONMENT Examines the nature and causes of global environmental challenges. Focuses on the role of science and technology in the causation of environmental problems and provision of solutions. Investigates uneven impacts among different groups and nations. Explores multicultural dimensions and ethical debates in the relationship between humanity and natural world. Considers visions of alternative futures. (3H,3C)
+
+2464 (RLCL 2464): RELIGION AND SCIENCE Exploration of the relationships between religion and science in the western tradition. Basic frameworks for relationships between religion and science in historical and cultural context, types of human knowledge and truth, similarities and differences between science and religion, evolution, the origins of the creationist movement, and contemporary moral and ethical issues. (3H,3C)
+
+2604 (HIST 2604) (SOC 2604): INTRODUCTION TO DATA IN SOCIAL CONTEXT Examines the use of data to identify, reveal, explain, and interpret patterns of human behavior, identity, ethics, diversity, and interactions. Explores the historical trajectories of data to ask how societies have increasingly identified numerical measures as meaningful categories of knowledge, as well as the persistent challenges to assumptions about the universality of categories reducible to numerical measures. (3H,3C)
+
+2715,2716 (HIST 2715, 2716): HISTORY OF TECHNOLOGY Development of technology and engineering in their social and cultural contexts. Examines the interaction of people, cultures, technologies, and institutions such as governments, religious bodies, corporations, and citizens groups. 2715: Examines the creation and modification of technologies to establish the basic structures of civilization, from prehistory to the Industrial Revolution (about 1800). 2716: Examines the nature of technological change and consequences in society, from about 1800 to present. (3H,3C)
+
+2974: INDEPENDENT STUDY Variable credit course.
+
+2974H: INDEPENDENT STUDY Variable credit course.
+
+2984: SPECIAL STUDY Variable credit course.
+
+3104: SCI & TECH IN MODERN SOCIETY Examination of science and technology as social and cultural activities in the modern world. The relationship of science and technology to their social and cultural contexts. Institutions and values in science and technology. The changing relationship of technology to science. Discuss how the domain and objects of scientific investigation have been shaped by changing concepts of nature and the natural. (3H,3C)
+
+3284: TECHNOLOGY AND DISABILITY Technologies and the experience of disability. The ways institutions, laws, and biases influence how disability is interpreted within engineering and design culture. How disability communities resist, negotiate, adopt, make, and change technologies. Development of work on this topic through making, doing, and writing. Conversations about ableism, media portrayals, historical narratives, ideology, and rhetoric surrounding technology and disability. Includes field trips to learn about the law and assistive technology. (3H,3C)
+
+3314: MEDICAL DILEMMAS AND HUMAN EXPERIENCE Provides a humanist perspective on dilemmas of medical ethics. Focus on the varieties of human experience of medical dilemmas. Topics include contemporary controversies, such as assisted reproduction, genetic testing and treatment, clinical trials, end-of-life interventions, and the allocation of health-care resources. (3H,3C)
+
+3334: ENERGY AND SOCIETY Examines the interconnections between energy use and social life. Considers the ways that modern social institutions, such as states, cities, and households are shaped by energy systems, particularly the pervasive use of fossil fuels. Explores the influence of energy extraction and commerce on economic development and global politics. Surveys major contemporary problems related to energy, including climate change and natural resource depletion. Develops an interdisciplinary framework, drawing insights from history, sociology, and economics, for evaluating policies to transition to a sustainable energy system. (3H,3C)
+
+3504: THE PRACTICE OF COLLABORATIVE RESEARCH IN STS Reinforces concepts and perspectives in Science, Technology, and Society through collaborative research projects. Provides experience with major research techniques used in STS, such as interviewing, ethnography, and documentary research. Covers a range of presentation formats for academic communication and public outreach. Research topics involving contemporary problems related to science and technology. Pre: 1504, (2154 or 2444 or 2454 or 2254). (3H,3C)
+
+3705,3706 (HIST 3705, 3706): HISTORY OF SCIENCE Conceptual and institutional development of physical and biological sciences viewed within a cultural and societal context. 3705: Early Science; 3706: Modern Science (3H,3C)
+
+3734 (HIST 3734): HISTORY OF MODERN BIOLOGY This course explores the development of biology from the Enlightenment to the end of the twentieth century, with a particular emphasis on biologys impact on society. (3H,3C)
+
+3984: SPECIAL STUDY Variable credit course.
+
+4304: CONTEMPORARY ISSUES IN SCIENCE, TECHNOLOGY, AND SOCIETY Examination of social and cultural issues that shape, and are shaped by, the conduct of scientific, technological, and medical research and activity. Topics such as human genetic and technological enhancement; surveillance technologies and civil rights; environmental intervention and preservation; precautionary and proactionary approaches to public policy making. Course repeatable up to 12 hours with different topics. Junior Standing. (3H,3C)
+
+4314 (ENGL 4314): NARRATIVE MEDICINE Introduction to the field of narrative medicine, with attention to narrative competencies, the use of narrative medical education, and the function of narratives in the experience of healing. Includes narrative approaches to biomedical ethics. Pre: ENGL 1106 or ENGL 1204H or COMM 1016. (3H,3C)
+
+4314H (ENGL 4314H): NARRATIVE MEDICINE Introduction to the field of narrative medicine, with attention to narrative competence, the use of narrative in medical education, and the function of narratives in the experience of healing. Includes narrative approaches to biomedical ethics. Pre: ENGL 3154 or ENGL 3324. (3H,3C)
+
+4334 (WGS 4334): SEXUAL MEDICINE Discusses sex and medicine in contemporary U.S. society. Explores how notions of sexual behavior and normality are defined and structured by medical discourse. Examines cultural institutions that play significant roles in formulating ideas about and definitions of deviance, perversity, and tolerated marginality. Critiques medical responses to sexual variations. Examines experiences of people who have sought out, or been the unwilling victims of, sexual medicine. Junior standing required. Pre: WGS 1824. (3H,3C)
+
+4704 (WGS 4704): GENDER AND SCIENCE Investigates the gender dimensions of science in both historical and contemporary perspectives. Discusses feminist studies of science, exploring strengths and limitations. Assess implications of cultural assumptions about gender for practicing scientists. A 3000 level course in science or engineering may satisfy the prerequisite. Pre: 1504 or WGS 2244. (3H,3C)
+
+4754: INTERNSHIP Variable credit course.
+
+4964: FIELD STUDY Pass/Fail only. Variable credit course.
+
+4974: INDEPENDENT STUDY Variable credit course.
+
+4974H: INDEPENDENT STUDY Variable credit course.
+
+4984: SPECIAL STUDY Variable credit course.
+
+4994: UNDERGRADUATE RESEARCH Variable credit course.
+
+4994H: UNDERGRADUATE RESEARCH Variable credit course.

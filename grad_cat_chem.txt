@@ -1,0 +1,362 @@
+PHYS 5254G - Advanced Quantum Info Tech
+Quantum computing and other quantum information technologies. Differences between bit and qubit. Quantum logic gates, concept of entanglement, quantum teleportation, quantum cryptography and key distribution, quantum computing algorithms, including Deutsch-Jozsa algorithm, Grover’s search algorithm, Shor’s factoring algorithm. Basics of public-key cryptosystems and number theory as needed to present Shor’s algorithm. Errors in a quantum computer and quantum error correction. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5264G - Advanced Quantum Optics and Qubit Processors
+Quantum optics and quantum bit (qubit) platforms for quantum technology applications. Qubit as physical system, quantum unitary evolution as quantum gate, quantum control using electromagnetic fields, Rabi oscillations, adiabatic theorem, density matrix, Liouville-von Neumann equation, decay and decoherence (T1 and T2), spin echo, Ramsey interferometry, coherent population trapping, entanglement, dynamical maps, electromagnetic field quantization, Jaynes-Cummings Hamiltonian, spontaneous emission, solid-state qubit platforms (spin qubits, superconducting qubits), atomic qubit platforms (trapped ions), color-centers in solids. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5354 - Classical Mechanics
+Theory of classical Lagrangian and Hamiltonian mechanics of particles and rigid bodies, including canonical transformations and Hamilton-Jacobi theory. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5405 - Classical Electromagnetism
+Classical theory of electromagnetism and its applications. 5405: Electrostatics and magnetostatics; Maxwells equations and electromagnetic waves; wave guides, apertures, and antennae. 5406: Special relativity and Lagrangian and Hamiltonian formulations; Lienard-Wiechert potentials, motion, radiation, and energy loss be charged particles; self-fields and radiative damping; magnetic monopoles and field theories. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s): PHYS 5714
+
+PHYS 5406 - Classical Electromagnetism
+Classical theory of electromagnetism and its applications. 5405: Electrostatics and magnetostatics; Maxwells equations and electromagnetic waves; wave guides, apertures, and antennae. 5406: Special relativity and Lagrangian and Hamiltonian formulations; Lienard-Wiechert potentials, motion, radiation, and energy loss be charged particles; self-fields and radiative damping; magnetic monopoles and field theories. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5405
+Corequisite(s): PHYS 5714
+
+PHYS 5455 - Quantum Mechanics
+General principles of nonrelativistic quantum mechanics from the point of view of advanced dynamics, with applications to problems of atomic and nuclear structure. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5456 - Quantum Mechanics
+General principles of nonrelativistic quantum mechanics from the point of view of advanced dynamics, with applications to problems of atomic and nuclear structure. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5455
+Corequisite(s):
+
+PHYS 5464 - Introduction to Quantum Field Theory
+Quantum mechanics in the Schrodinger, Heisenberg, and Interaction pictures. Application of quantum mechanics to a lattice of interacting harmonic oscillators. The zero-lattice-spacing and infinite-space limits of the harmonic oscillator lattice. Quantization of bosonic and fermionic fields. Quantization of scalar, spinor, and vector fields. Gauge theories. Spontaneous symmetry breaking, Goldstone bosons, and the Higgs mechanism. Applications to particle physics and condensed matter physics. Calculation of cross sections and decay rates at the tree level.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5354, PHYS 5406, PHYS 5456
+Corequisite(s):
+
+PHYS 5504 - Nuclear and Particle Physics
+Properties of nuclei, two-nucleon systems, nuclear force, nuclear models, nuclear reactions, alpha and beta decay, and fission. Relativistic kinematics, invariance principles, quantum numbers, strange particles, weak interactions, formation and production reactions, and symmetries. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5514G - Advanced Introduction to Nuclear Physics
+Nuclear properties and nuclear interactions. Nuclear reactions and radioactive decays, including alpha, beta and gamma decays. Theoretical models of the nucleus and their interpretations. Experimental methods in nuclear physics. Applications, including nuclear power production. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5555 - Solid-State Physics
+Solidity, crystal structure, k-space, quantum mechanics of covalent bonding, phonon excitations, thermal energy, the nearly-free-electron approximation, Bloch electrons, E(k) energy bands in semiconductors and metals, density of states, optical properties of solids, donors and acceptors in semiconductors, excitons, plasmons, polaritons, electrical properties, magnetic materials, the percolation model and phase transitions, metal-insulator transitions, and amorphous solids. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5556 - Solid-State Physics
+Solidity, crystal structure, k-space, quantum mechanics of covalent bonding, phonon excitations, thermal energy, the nearly-free-electron approximation, Bloch electrons, E(k) energy bands in semiconductors and metals, density of states, optical properties of solids, donors and acceptors in semiconductors, excitons, plasmons, polaritons, electrical properties, magnetic materials, the percolation model and phase transitions, metal-insulator transitions, and amorphous solids. Consent required. I,II
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5564G - Advanced Polymer Physics
+Introduction to the field of polymer physics. Statistical descriptions of polymers based on Brownian motion and random walk models. Conformation of single chains. Thermodynamics of polymer mixtures, solutions, and melts. Properties of polymer networks. Polymer dynamics in both melt and solution states. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5574G - Intermediate Nanotechnology
+Methods of controlling matter on the nanometer length scale and the applications thereof. Nanolithography, self-assembly, and scanned probe microscopy; nanomaterials including fullerenes, carbon nanotubes, and quantum dots; nanoscale and molecular electronics; nanoelectromechanical systems; nanoscale optoelectronics; and nanobiotechnology. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5614G - Intermediate Optics
+Fundamentals of the ray, wave and quantum models of light, and topics in modern optics with contemporary applications. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5634G - Advanced Modern Classical Physics
+Geometric formulation of classical physics. Applications in relativity, optics, elasticity, fluid mechanics, plasma physics. Real-world examples from fundamental, experimental, and applied physics. Quantum roots of and quantum techniques in classical physics. Geometrical connections between classical mechanics, optics, and quantum physics. Problems in and connections between elasticity, fluid dynamics, magnetohydrodynamics, and plasma physics. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5654G - Advanced Modern Cosmology
+Survey of our current understanding of the origin, evolution, and fate of the Universe. Observational evidence behind the idea of the hot Big Bang, including the linear velocity-distance law, the existence of the cosmic microwave background, and the arguments for dark matter. Physics of a dynamic, expanding Universe via the Friedmann-Lemaitre-Robertson-Walker metric. Physical principles to determine the conditions in the early Universe, introducing the idea of inflation. Mechanisms driving the origin and evolution of galaxies and large-scale structures. Pre: Graduate standing
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5664G - Advanced Astroparticle Physics
+Observations of high-energy photons, cosmic rays, and neutrinos. Energy-loss interactions in astrophysical environments. Propagation of cosmic particles and ultra-high energy cosmic rays. Origins of cosmic rays. Astrophysical neutrinos and neutrino oscillations. Stellar evolution and evolution into supernova explosions. Mechanisms of astrophysical particle acceleration. Multi-messenger astronomy. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5674G - Intermediate General Relativity
+Methods and applications of Einsteins general theory of relativity. Space and time and gravity in Newtonian physics; special theory of relativity; gravity as geometry of curved spacetime; black holes; cosmology; Einsteins gravitational field equations; gravitational waves and relativistic stars. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5705 - Statistical Mechanics
+Theory of classical and quantum statistical mechanics. Derivation of thermodynamics. 5705: ensembles, fluctuations and ideal gas systems. 5706: modern developments and advanced topics.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): , PHYS 5456
+Corequisite(s):
+
+PHYS 5706 - Statistical Mechanics
+Theory of classical and quantum statistical mechanics. Derivation of thermodynamics. 5705: ensembles, fluctuations and ideal gas systems. 5706: modern developments and advanced topics.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5456, PHYS 5705
+Corequisite(s):
+
+PHYS 5714 - Methods of Theoretical Physics
+Selected topics in mathematical physics. Review of analytic function theory. Matrices, spectral theory of operators in Hilbert Space with applications to quantum mechanics. Solution of partial differential equations of mathematical physics, boundary-value problems, and special functions. Distribution theory and Greens functions. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5714G - Biophysics
+Selected topics from the general area of biomechanics, bioelectricity, radiation biophysics, molecular biophysics, and thermodynamics and transport in biological systems. Emphasis on the physical aspects of biological phenomena and biophysical measurement techniques and instrumentation. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5724G - Advanced Soft Matter Physics
+Physical characteristics of various soft matter systems including liquids, liquid crystals, polymers, colloids, surfactants, granular materials, and biological soft materials. Van der Waals and electrostatic interactions in the context of soft matter. Descriptions of soft matter phases, phase diagrams, phase separation, and phase transitions. Theories of self-assembly and self-organization. Problems in and connections between elasticity, viscoelasticity, and mechanics of fluids including capillarity and wetting. Model of random walk and its applications to colloidal systems. Applications of variational methods in soft matter. Computer simulation methods in soft matter. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5794 - Computational Physics
+Survey of computational methods in physics. Applications of Fourier analysis, curve fitting, solving differential equations, solving integral equations, Monte Carlo simulations, symbolic mathematics, and graphic simulations in mechanics, electromagnetism, nuclear physics, atomic physics, molecular physics, and condensed matter physics.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 4455
+Corequisite(s):
+
+PHYS 5894 - Final Examination
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5904 - Project and Report
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5944 - Seminar
+May be repeated one time with different content for a maximum of 2 credits.
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5974 - Independent Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Independent Study
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 5994 - Research and Thesis
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 6455 - Advanced Quantum Theory
+Classical field theory; Noethers theorem and symmetries; second quantization and many-body formalism; free quantum Klein-Gordon, Dirac, and Maxwell fields; and interacting fields, S-matrix and covariant perturbation theory. Feynman diagrams; quantum electrodynamics; renormalization; path-integral formulation; non-Abelian gauge theories; and elements of electro-weak theory.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5354, PHYS 5406, PHYS 5456
+Corequisite(s):
+
+PHYS 6456 - Advanced Quantum Theory
+Classical field theory; Noethers theorem and symmetries; second quantization and many-body formalism; free quantum Klein-Gordon, Dirac, and Maxwell fields; and interacting fields, S-matrix and covariant perturbation theory. Feynman diagrams; quantum electrodynamics; renormalization; path-integral formulation; non-Abelian guage theories; and elements of electro-weak theory.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5354, PHYS 5406, PHYS 5456, PHYS 6455
+Corequisite(s):
+
+PHYS 6555 - Advanced Solid-State Physics
+Applications of field-theory techniques to many-body aspects of solid-state physics. 6555: Green functions, Feynman diagrams, lattice Hamiltonian, neutron scattering, electron gas, Fermi-liquid theory, and linear-response theory. 6556: Electron-phonon interaction in metals and semiconductors, polarons, optical properties, excitons, superconductivity, and excitations in magnetic materials.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5456, PHYS 5555
+Corequisite(s):
+
+PHYS 6556 - Advanced Solid-State Physics
+Applications of field-theory techniques to many-body aspects of solid-state physics. 6555: Green functions, Feynman diagrams, lattice Hamiltonian, neutron scattering, electron gas, Fermi-liquid theory, and linear-response theory. 6556: Electron-phonon interaction in metals and semiconductors, polarons, optical properties, excitons, superconductivity, and excitations in magnetic materials.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5456, PHYS 5555
+Corequisite(s):
+
+PHYS 6676 - General Relativity and Cosmology
+6675: Differential geometry; equivalence principle; general theory of relativity; classical tests; post-Newtonian approximation; special solutions. 6676: Black holes; observational basis of cosmology; relativistic model universes; nucleosynthesis; cosmoic background radiation; dark matter; inflation.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 5354, PHYS 5406
+Corequisite(s):
+
+PHYS 6714 - Selected Topics in Theoretical Physics
+Topics of current interest in theoretical physics as announced in Timetable. May be repeated for credit with permission. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 6725 - Elementary Particle Physics
+Symmetry principles, quark model, scattering-theory and particle-theory processes, weak interactions, quantum chromodynamics, spontaneous symmetry breaking, and unified field theories. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s): PHYS 6455, PHYS 6456
+
+PHYS 6726 - Elementary Particle Physics
+Symmetry principles, quark model, scattering-theory and particle-theory processes, weak interactions, quantum chromodynamics, spontaneous symmetry breaking, and unified field theories. Consent required. I,II
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): PHYS 6725
+Corequisite(s): PHYS 6455, PHYS 6456
+
+PHYS 6984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+PHYS 7994 - Research and Dissertation
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research
+Prerequisite(s):
+Corequisite(s):
+

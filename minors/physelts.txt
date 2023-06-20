@@ -1,0 +1,19 @@
+PHYS 2504 Mathematical Methods in Physics 3
+PHYS 3355 Intermediate Mechanics 3
+PHYS 3356 Intermediate Mechanics 3
+PHYS 3405 Intermediate Electricity and Magnetism 3
+PHYS 3406 Intermediate Electricity and Magnetism 3
+PHYS 3655 Introduction to Astrophysics 3
+PHYS 3656 Introduction to Astrophysics 3
+PHYS 3704 Thermal Physics 3
+PHYS 4254 Quantum Information Technologies 3
+PHYS 4504 Introduction to Nuclear and Particle Physics 3
+PHYS 4554 Introduction to Solid State Physics 3
+PHYS 4564 Polymer Physics 3
+PHYS 4574 Nanotechnology 3
+PHYS 4614 Optics 3
+PHYS 4654 Modern Cosmology 3
+PHYS 4674 Introduction to General Relativity 3
+PHYS 4714 Introduction to Biophysics 3
+PHYS 4755 Intro to Computational Physics 3
+PHYS 4774 Intro to Physics of Galaxies 3
