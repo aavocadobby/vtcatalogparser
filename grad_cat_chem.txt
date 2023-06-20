@@ -1,246 +1,5 @@
-PHYS 5254G - Advanced Quantum Info Tech
-Quantum computing and other quantum information technologies. Differences between bit and qubit. Quantum logic gates, concept of entanglement, quantum teleportation, quantum cryptography and key distribution, quantum computing algorithms, including Deutsch-Jozsa algorithm, Grover’s search algorithm, Shor’s factoring algorithm. Basics of public-key cryptosystems and number theory as needed to present Shor’s algorithm. Errors in a quantum computer and quantum error correction. Pre: Graduate standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5264G - Advanced Quantum Optics and Qubit Processors
-Quantum optics and quantum bit (qubit) platforms for quantum technology applications. Qubit as physical system, quantum unitary evolution as quantum gate, quantum control using electromagnetic fields, Rabi oscillations, adiabatic theorem, density matrix, Liouville-von Neumann equation, decay and decoherence (T1 and T2), spin echo, Ramsey interferometry, coherent population trapping, entanglement, dynamical maps, electromagnetic field quantization, Jaynes-Cummings Hamiltonian, spontaneous emission, solid-state qubit platforms (spin qubits, superconducting qubits), atomic qubit platforms (trapped ions), color-centers in solids. Pre: Graduate standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5354 - Classical Mechanics
-Theory of classical Lagrangian and Hamiltonian mechanics of particles and rigid bodies, including canonical transformations and Hamilton-Jacobi theory. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5405 - Classical Electromagnetism
-Classical theory of electromagnetism and its applications. 5405: Electrostatics and magnetostatics; Maxwells equations and electromagnetic waves; wave guides, apertures, and antennae. 5406: Special relativity and Lagrangian and Hamiltonian formulations; Lienard-Wiechert potentials, motion, radiation, and energy loss be charged particles; self-fields and radiative damping; magnetic monopoles and field theories. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s): PHYS 5714
-
-PHYS 5406 - Classical Electromagnetism
-Classical theory of electromagnetism and its applications. 5405: Electrostatics and magnetostatics; Maxwells equations and electromagnetic waves; wave guides, apertures, and antennae. 5406: Special relativity and Lagrangian and Hamiltonian formulations; Lienard-Wiechert potentials, motion, radiation, and energy loss be charged particles; self-fields and radiative damping; magnetic monopoles and field theories. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5405
-Corequisite(s): PHYS 5714
-
-PHYS 5455 - Quantum Mechanics
-General principles of nonrelativistic quantum mechanics from the point of view of advanced dynamics, with applications to problems of atomic and nuclear structure. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5456 - Quantum Mechanics
-General principles of nonrelativistic quantum mechanics from the point of view of advanced dynamics, with applications to problems of atomic and nuclear structure. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5455
-Corequisite(s):
-
-PHYS 5464 - Introduction to Quantum Field Theory
-Quantum mechanics in the Schrodinger, Heisenberg, and Interaction pictures. Application of quantum mechanics to a lattice of interacting harmonic oscillators. The zero-lattice-spacing and infinite-space limits of the harmonic oscillator lattice. Quantization of bosonic and fermionic fields. Quantization of scalar, spinor, and vector fields. Gauge theories. Spontaneous symmetry breaking, Goldstone bosons, and the Higgs mechanism. Applications to particle physics and condensed matter physics. Calculation of cross sections and decay rates at the tree level.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5354, PHYS 5406, PHYS 5456
-Corequisite(s):
-
-PHYS 5504 - Nuclear and Particle Physics
-Properties of nuclei, two-nucleon systems, nuclear force, nuclear models, nuclear reactions, alpha and beta decay, and fission. Relativistic kinematics, invariance principles, quantum numbers, strange particles, weak interactions, formation and production reactions, and symmetries. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5514G - Advanced Introduction to Nuclear Physics
-Nuclear properties and nuclear interactions. Nuclear reactions and radioactive decays, including alpha, beta and gamma decays. Theoretical models of the nucleus and their interpretations. Experimental methods in nuclear physics. Applications, including nuclear power production. Pre: Graduate standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5555 - Solid-State Physics
-Solidity, crystal structure, k-space, quantum mechanics of covalent bonding, phonon excitations, thermal energy, the nearly-free-electron approximation, Bloch electrons, E(k) energy bands in semiconductors and metals, density of states, optical properties of solids, donors and acceptors in semiconductors, excitons, plasmons, polaritons, electrical properties, magnetic materials, the percolation model and phase transitions, metal-insulator transitions, and amorphous solids. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5556 - Solid-State Physics
-Solidity, crystal structure, k-space, quantum mechanics of covalent bonding, phonon excitations, thermal energy, the nearly-free-electron approximation, Bloch electrons, E(k) energy bands in semiconductors and metals, density of states, optical properties of solids, donors and acceptors in semiconductors, excitons, plasmons, polaritons, electrical properties, magnetic materials, the percolation model and phase transitions, metal-insulator transitions, and amorphous solids. Consent required. I,II
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5564G - Advanced Polymer Physics
-Introduction to the field of polymer physics. Statistical descriptions of polymers based on Brownian motion and random walk models. Conformation of single chains. Thermodynamics of polymer mixtures, solutions, and melts. Properties of polymer networks. Polymer dynamics in both melt and solution states. Pre: Graduate Standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5574G - Intermediate Nanotechnology
-Methods of controlling matter on the nanometer length scale and the applications thereof. Nanolithography, self-assembly, and scanned probe microscopy; nanomaterials including fullerenes, carbon nanotubes, and quantum dots; nanoscale and molecular electronics; nanoelectromechanical systems; nanoscale optoelectronics; and nanobiotechnology. Graduate standing required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5614G - Intermediate Optics
-Fundamentals of the ray, wave and quantum models of light, and topics in modern optics with contemporary applications. Graduate standing required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5634G - Advanced Modern Classical Physics
-Geometric formulation of classical physics. Applications in relativity, optics, elasticity, fluid mechanics, plasma physics. Real-world examples from fundamental, experimental, and applied physics. Quantum roots of and quantum techniques in classical physics. Geometrical connections between classical mechanics, optics, and quantum physics. Problems in and connections between elasticity, fluid dynamics, magnetohydrodynamics, and plasma physics. Pre: Graduate standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5654G - Advanced Modern Cosmology
-Survey of our current understanding of the origin, evolution, and fate of the Universe. Observational evidence behind the idea of the hot Big Bang, including the linear velocity-distance law, the existence of the cosmic microwave background, and the arguments for dark matter. Physics of a dynamic, expanding Universe via the Friedmann-Lemaitre-Robertson-Walker metric. Physical principles to determine the conditions in the early Universe, introducing the idea of inflation. Mechanisms driving the origin and evolution of galaxies and large-scale structures. Pre: Graduate standing
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5664G - Advanced Astroparticle Physics
-Observations of high-energy photons, cosmic rays, and neutrinos. Energy-loss interactions in astrophysical environments. Propagation of cosmic particles and ultra-high energy cosmic rays. Origins of cosmic rays. Astrophysical neutrinos and neutrino oscillations. Stellar evolution and evolution into supernova explosions. Mechanisms of astrophysical particle acceleration. Multi-messenger astronomy. Pre: Graduate standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5674G - Intermediate General Relativity
-Methods and applications of Einsteins general theory of relativity. Space and time and gravity in Newtonian physics; special theory of relativity; gravity as geometry of curved spacetime; black holes; cosmology; Einsteins gravitational field equations; gravitational waves and relativistic stars. Graduate standing required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5705 - Statistical Mechanics
-Theory of classical and quantum statistical mechanics. Derivation of thermodynamics. 5705: ensembles, fluctuations and ideal gas systems. 5706: modern developments and advanced topics.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): , PHYS 5456
-Corequisite(s):
-
-PHYS 5706 - Statistical Mechanics
-Theory of classical and quantum statistical mechanics. Derivation of thermodynamics. 5705: ensembles, fluctuations and ideal gas systems. 5706: modern developments and advanced topics.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5456, PHYS 5705
-Corequisite(s):
-
-PHYS 5714 - Methods of Theoretical Physics
-Selected topics in mathematical physics. Review of analytic function theory. Matrices, spectral theory of operators in Hilbert Space with applications to quantum mechanics. Solution of partial differential equations of mathematical physics, boundary-value problems, and special functions. Distribution theory and Greens functions. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5714G - Biophysics
-Selected topics from the general area of biomechanics, bioelectricity, radiation biophysics, molecular biophysics, and thermodynamics and transport in biological systems. Emphasis on the physical aspects of biological phenomena and biophysical measurement techniques and instrumentation. Graduate standing required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5724G - Advanced Soft Matter Physics
-Physical characteristics of various soft matter systems including liquids, liquid crystals, polymers, colloids, surfactants, granular materials, and biological soft materials. Van der Waals and electrostatic interactions in the context of soft matter. Descriptions of soft matter phases, phase diagrams, phase separation, and phase transitions. Theories of self-assembly and self-organization. Problems in and connections between elasticity, viscoelasticity, and mechanics of fluids including capillarity and wetting. Model of random walk and its applications to colloidal systems. Applications of variational methods in soft matter. Computer simulation methods in soft matter. Pre: Graduate standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5794 - Computational Physics
-Survey of computational methods in physics. Applications of Fourier analysis, curve fitting, solving differential equations, solving integral equations, Monte Carlo simulations, symbolic mathematics, and graphic simulations in mechanics, electromagnetism, nuclear physics, atomic physics, molecular physics, and condensed matter physics.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 4455
-Corequisite(s):
-
-PHYS 5894 - Final Examination
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5904 - Project and Report
-Credit Hour(s): 1 TO 19
-Lecture Hour(s):
-Level: Graduate
-Instruction Type(s): Research
-Prerequisite(s):
-Corequisite(s):
-
-PHYS 5944 - Seminar
-May be repeated one time with different content for a maximum of 2 credits.
+CHEM 5004 - Orientation to Graduate Research
+A survey of topics needed to meet high standards of safety, scholarship, and productivity in research-based chemistry graduate programs. Graduate standing required.
 Credit Hour(s): 1
 Lecture Hour(s): 1
 Level: Graduate
@@ -248,15 +7,206 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-PHYS 5974 - Independent Study
-Credit Hour(s): 1 TO 19
-Lecture Hour(s): 1 TO 19
+CHEM 5014 - Communication Skills and Methods of Presentation
+Methods and style to make effective technical and nontechnic presentations including blackboard presentations, overhead presentations, slide presentations, and research posters. Video presentations with critiques.
+Credit Hour(s): 1
+Lecture Hour(s): 1
 Level: Graduate
-Instruction Type(s): Independent Study
+Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-PHYS 5984 - Special Study
+CHEM 5094 (BMVS 5094) (FST 5094) - Grant Writing and Ethics
+A framework for writing clear, concise grant proposals in a team-oriented, multidisciplinary approach from concept development through submission to a funding agency. Potential ethical dilemmas that may arise in academic, industrial, or federal research settings will be discussed. Pre: Undergraduate courses in one of the following: organic chemistry (CHEM 2565/2566), cell & molecular biology (BIOL 2104), Concepts of Biochemistry (BCHM 2024), or equivalent. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5114 - Advanced Electrochemistry
+Discussion of theory and application of chemical equilibrium, reaction rate methods, and electroanalytical methods in analytical chemistry. One year of physical chemistry required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5124 - Analytical Spectroscopy
+Principles, instrumentation, and applications of atomic and molecular spectroscopy. Theoretical descriptions of electronic and ro-vibrational energy levels, transitions, and energy dynamics. Modern spectroscopic instrumentation and applications in quantitative analyses. Prerequisite or equivalent.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CHEM 3616 (UG) OR CHEM 36616
+Corequisite(s):
+
+CHEM 5134 - Introduction to Single-Crystal X-ray Diffraction
+Overview of single-crystal X-ray crystallographic theory and methods for graduate students who make (or plan to make) occasional use of crystallographic data or measurements in their research. Capabilities and services of the Virginia Tech X-ray Crystallography Service Center (VTX). Preparation and submission of crystalline samples. Typical processes of crystal screening, data collection, structure solution, and data reporting. Current standards for publication of crystallographic data. Crystallography software and structural databases. Ethical standards for reporting crystallographic data. Radiation safety in crystallography. Pre: Graduate standing. Pass/Fail only.
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5144 - Instrument Design
+Design, construction, and operating principles of analytical instrumentation. Topics will include major instrument components (vacuum, optical, charged-particle), instrument construction (spectrometers, chromatographs), electronic data acquisition, and computer data analysis.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5174 (ESM 5174) - Polymer Viscoelasticity
+Constitutive models of linear viscoelastic materials, experimental aspects, polymer response to mechanical and electrical inputs, solid state NMR and microwave interactions with polymers, free volume theories, temperature and environmental effects on polymers, physical aging of glasses. Consent required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5404 - Advanced Inorganic Chemistry
+An advanced coverage of topics in inorganic chemistry: principles of bonding in compounds of the metals and non-metals, applications of group theory to bonding, ligand field theory, inorganic and organometallic reaction mechanisms. Required core course for chemistry graduate students. One semester of undergraduate inorganic chemistry, one year undergraduate physical chemistry required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5414 - Methods & Appl of Inorg Chem
+Physical methods of measurement in modern inorganic chemistry research. Theoretical and practical aspects of spectroscopy, electrochemistry, photo-chemistry, and surface-analytical techniques as applied to inorganic compounds. Intersections of inorganic chemistry with nanotechnology, materials science, heterogeneous catalysis, and biochemistry, as reflected in the primary research literature. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5424G (SBIO 5424G) - Adv Polysaccharide Chemistry
+Structure, properties, and application of natural polysaccharides. Natural sources and methods of isolation. Synthetic chemistry and important polysaccharide derivatives Relation of structure and properties of performance in critical applications including pharmaceuticals, coatings, plastics, rheology control, and films. Conversion by chemical and biochemical methods of polysaccharide biomass to fuels and materials. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5505 - Advanced Organic Chemistry
+Structure, stereochemistry, and bonding in organic compounds and their effects on organic reactivity. Ionic reactions, free radical reactions, and concerted reactions will be discussed. One year of undergraduate organic chemistry required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5506 - Advanced Organic Chemistry
+Structure, stereochemistry, and bonding in organic compounds and their effects on organic reactivity. Ionic reactions, free radical reactions, and concerted reactions will be discussed.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CHEM 5505 (UG) OR CHEM 5505
+Corequisite(s):
+
+CHEM 5514G - Advanced Green Chemistry
+Sustainability, waste prevention, conservation of energy resources, avoidance of toxins, pollutants, and hazards in chemical processes and products. Life-cycle analysis applied to case studies involving process development and product stewardship. Applications in chemical industry, process and product design, and public policy. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5524 - Molecular Structure Determination
+Structure determination of organic compounds by spectroscopic methods, with an emphasis on mass spectrometry and nuclear magnetic resonance. Course will emphasize problem-solving skills. Includes hands-on instruction in nuclear magnetic resonance spectroscopy and other analytical spectroscopic methods. Partially duplicates 4524; students cannot receive credit for both 4524 and 5524.
+Credit Hour(s): 4
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lab, Lecture, Online Lecture
+Prerequisite(s): CHEM 2536 (UG), (CHEM 3616 (UG) OR CHEM 4616 (UG)) OR CHEM 2536, (CHEM 3616 OR CHEM 4616)
+Corequisite(s):
+
+CHEM 5525 (GEOS 5535) - X-ray Crystallography
+5525: Provides a thorough grounding in the principles of the crystalline state including lattices and symmetry, leading to the formal description of structures and surfaces and interpretation of published crystallographic data. 5526: Covers methods of single-crystal and powder X-ray diffraction for the determination of the atomic arrangement of atoms within crystalline materials.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): GEOS 3504 OR CHEM 3615
+Corequisite(s):
+
+CHEM 5526 - X-Ray Crystallography
+5525: Provides a thorough grounding in the principles of the crystalline state including lattices and symmetry, leading to the formal description of structures and surfaces and intrepretation of published crystallographic data. 5526: Covers methods of single-crystal and powder X-ray diffraction for the determination of the atomic arrangement of atoms within crystalline materials.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): GEOS 5535 OR CHEM 5525
+Corequisite(s):
+
+CHEM 5535 - Synthetic Organic Chemistry
+Modern synthetic methods and their applications to the preparation of various classes of organic compounds.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CHEM 5505 (UG) OR CHEM 5505
+Corequisite(s):
+
+CHEM 5614 - Nuclear Magnetic Resonance Methods in Chemistry and Polymer Science
+Theory and methods of nuclear magnetic resonance (NMR). Description and operation of NMR apparatus and experimental techniques. Optimization of NMR experiments with respect to spin relaxation, sensitivity, and resolution. Spin couplings and associated spectral features. Applications in the characterization and analysis of molecules, solids, and polymers. Theory and basic practices of solution, solid-state, and multidimensional NMR methods. Spatial imaging (MRI) and molecular diffusion (diffusometry) methods. Pre: Graduate standing
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5644 - Colloid and Surface Chemistry
+Characterization of interfaces including liquid/gas and liquid/liquid (spread monolayers) interfaces, nature of solid surfaces, gas/solid (thermodynamics), and liquid/solid (wetting, colloidal stability) interfaces. Pre: One year of physical chemistry or consent.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5664 - Chemical Kinetics
+Phenomenological kinetics with emphasis on measurement techniques and the interpretation of kinetic data. Significance of rate laws, activation parameters for mechanisms, catalysis and fast reactions in gas and condensed phase are discussed. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5834 - Food, Energy, and Water Chemistry
+Roles of chemistry in food production, energy utilization, and water management. Integration of sustainable food-energy-water (FEW) chemistry in progress toward environmental stewardship and resource efficiency. Principles of equilibria and speciation, reaction kinetics, wet-analytical and instrumental methods, synthesis, and physical characterization of materials emphasizing applications of FEW chemistry including water-purification materials and green agrochemical production. Analysis of current academic and patent literature describing developing chemical technologies relevant to the food, energy, and water nexus. Pre: Graduate standing
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5854 - Entrepreneurship in Medicinal Chemistry
+History of entrepreneurship in medicinal chemistry. Survey of industrial medicinal chemistry sectors from small ventures to major pharmaceutical companies. Business plan development and venture capitalism. Case studies of medicinal chemistry ventures. Business and legal aspects of translating scientific discovery into intellectual property (IP), industrial processes, and competitive advantage. Academic technology-transfer procedures. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 5894 - Final Examination
+For non-thesis candidates who are required to register for their final examination and have completed their program of study. Not to be included in minimum hours required for degree.
 Credit Hour(s): 1 TO 19
 Lecture Hour(s): 1 TO 19
 Level: Graduate
@@ -264,61 +214,17 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-PHYS 5994 - Research and Thesis
+CHEM 5904 - Project and Report
+A detailed written report on a current topic in chemistry or interdisciplinary areas involving chemistry. Non-thesis M.S. students in chemistry are required to complete 4 credit hours of CHEM 5904. Graduate standing in chemistry required.
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate
-Instruction Type(s): Research
+Instruction Type(s): Research, Online Research
 Prerequisite(s):
 Corequisite(s):
 
-PHYS 6455 - Advanced Quantum Theory
-Classical field theory; Noethers theorem and symmetries; second quantization and many-body formalism; free quantum Klein-Gordon, Dirac, and Maxwell fields; and interacting fields, S-matrix and covariant perturbation theory. Feynman diagrams; quantum electrodynamics; renormalization; path-integral formulation; non-Abelian gauge theories; and elements of electro-weak theory.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5354, PHYS 5406, PHYS 5456
-Corequisite(s):
-
-PHYS 6456 - Advanced Quantum Theory
-Classical field theory; Noethers theorem and symmetries; second quantization and many-body formalism; free quantum Klein-Gordon, Dirac, and Maxwell fields; and interacting fields, S-matrix and covariant perturbation theory. Feynman diagrams; quantum electrodynamics; renormalization; path-integral formulation; non-Abelian guage theories; and elements of electro-weak theory.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5354, PHYS 5406, PHYS 5456, PHYS 6455
-Corequisite(s):
-
-PHYS 6555 - Advanced Solid-State Physics
-Applications of field-theory techniques to many-body aspects of solid-state physics. 6555: Green functions, Feynman diagrams, lattice Hamiltonian, neutron scattering, electron gas, Fermi-liquid theory, and linear-response theory. 6556: Electron-phonon interaction in metals and semiconductors, polarons, optical properties, excitons, superconductivity, and excitations in magnetic materials.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5456, PHYS 5555
-Corequisite(s):
-
-PHYS 6556 - Advanced Solid-State Physics
-Applications of field-theory techniques to many-body aspects of solid-state physics. 6555: Green functions, Feynman diagrams, lattice Hamiltonian, neutron scattering, electron gas, Fermi-liquid theory, and linear-response theory. 6556: Electron-phonon interaction in metals and semiconductors, polarons, optical properties, excitons, superconductivity, and excitations in magnetic materials.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5456, PHYS 5555
-Corequisite(s):
-
-PHYS 6676 - General Relativity and Cosmology
-6675: Differential geometry; equivalence principle; general theory of relativity; classical tests; post-Newtonian approximation; special solutions. 6676: Black holes; observational basis of cosmology; relativistic model universes; nucleosynthesis; cosmoic background radiation; dark matter; inflation.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 5354, PHYS 5406
-Corequisite(s):
-
-PHYS 6714 - Selected Topics in Theoretical Physics
-Topics of current interest in theoretical physics as announced in Timetable. May be repeated for credit with permission. Consent required.
+CHEM 5914 - Literature Review and Research Plan
+Preparation of a written review of a topical research area within chemistry or a closely allied interdisciplinary field. Graduate standing required.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -326,25 +232,24 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-PHYS 6725 - Elementary Particle Physics
-Symmetry principles, quark model, scattering-theory and particle-theory processes, weak interactions, quantum chromodynamics, spontaneous symmetry breaking, and unified field theories. Consent required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
+CHEM 5944 - Graduate Seminar
+Recent advances in various fields of chemistry are covered by means of reports carefully prepared and presented by individual students, under direction of various members of chemistry faculty. Work of each student is judged not only by report he gives but also by an intelligent discussion of reports presented by other students.
+Credit Hour(s): 1
+Lecture Hour(s): 1
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
-Corequisite(s): PHYS 6455, PHYS 6456
+Corequisite(s):
 
-PHYS 6726 - Elementary Particle Physics
-Symmetry principles, quark model, scattering-theory and particle-theory processes, weak interactions, quantum chromodynamics, spontaneous symmetry breaking, and unified field theories. Consent required. I,II
-Credit Hour(s): 3
-Lecture Hour(s): 3
+CHEM 5974 - Independent Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
 Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHYS 6725
-Corequisite(s): PHYS 6455, PHYS 6456
+Instruction Type(s): Independent Study, VI
+Prerequisite(s):
+Corequisite(s):
 
-PHYS 6984 - Special Study
+CHEM 5984 - Special Study
 Credit Hour(s): 1 TO 19
 Lecture Hour(s): 1 TO 19
 Level: Graduate
@@ -352,11 +257,107 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-PHYS 7994 - Research and Dissertation
+CHEM 5994 - Research and Thesis
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate
-Instruction Type(s): Research
+Instruction Type(s): Research, Online Research
 Prerequisite(s):
 Corequisite(s):
 
+CHEM 6434 - Organometallic Chemistry
+Chemistry and applications of organometallic and related compounds.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 6464 - Current Topics in Inorganic Chemistry
+Special topics in frontier areas of inorganic chemistry. Offered when appropriate.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 6504 - Chemistry of Natural Products
+The structures, biosyntheses, reactions, and biomimetic syntheses of natural products, with examples from each of the major classes of polyketides, shikimates, terpenoids, alkaloids, antibiotics, and marine natural products.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CHEM 5506 (UG) OR CHEM 5506
+Corequisite(s):
+
+CHEM 6564 - Current Topics in Organic Chemistry
+Special topics in frontier areas of organic chemistry. Offered when appropriate. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CHEM 5506 (UG) OR CHEM 5506
+Corequisite(s):
+
+CHEM 6624 - Chemical Thermodynamics
+Rigorous application of the laws of thermodynamics to real fluids, solutions, chemical equilibria, and non-equilibrium processes. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 6634 - Quantum Chemistry and Spectroscopy
+Study of basic quantum mechanics followed by some of its applications to chemistry and spectroscopy. Topics include: the variational method; perturbation theory; Hartree-Fock theory; the electronic structures of atoms and molecules; atomic spectra; and molecular rotational, vibrational, and electronic spectra. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 6664 - Current Topics in Physical Chemistry
+Special topics in frontier areas of physical chemistry. Offered when appropriate. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 6904 - Generating Research Ideas
+Process of generating and evaluating novel research ideas in chemistry. Pre: Graduate Standing.
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 6914 - Original Research Proposal
+Preparation of a written original research proposal in chemistry or a closely related interdisciplinary field. Must have passed the Preliminary Oral Exam.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CHEM 5914
+Corequisite(s):
+
+CHEM 6984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CHEM 7994 - Research and Dissertation
+Credit Hour(s): 1 TO 20
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research, Online Research
+Prerequisite(s):
+Corequisite(s):

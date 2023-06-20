@@ -1,41 +1,5 @@
-STAT 5014 - Introduction to Statistical Program Packages
-Introduction to computing facilities (mainframe and microcomputers), conversational monitoring system (CMS), and statistical program computer packages. Restricted to Statistics majors.
-Credit Hour(s): 1
-Lecture Hour(s): 1
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s): null null
-
-STAT 5024 - Effective Communication in Statistical Consulting
-Communication skills necessary to be effective interdisciplinary statistical collaborators. Explaining and presenting statistical concepts to a non-statistical audience, helping scientists answer their research questions, and managing an effective statistical collaboration meeting. Co: 5204 or 5616.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): (STAT 5034, STAT 5044) OR STAT 5615
-Corequisite(s): null null
-
-STAT 5034 - Inference Fundamentals with Applications to Categorical Data
-Fundamental concepts in statistical inference and related methods: point estimation, interval estimation, hypothesis testing, permutation, and resampling-based methods. Emphasizes use of R programming package, visualizing data, computation and interpretation of effect sizes, statistical simulation to compare the performance of available methods, role of sample size in statistical analysis, contingency tables, and use of model contrasts to assess specific hypotheses in the context of larger models.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s): STAT 5014, STAT 5044
-
-STAT 5044 - Regression and Analysis of Variance
-Principles and methods of data analysis employing linear models for continuous response variables. Topics include both classical descriptive measures and modern computer-based techniques for data visualization; simple, multiple and weighted regression; analysis of variance for one-way and higher-way classifications; fixed, mixed, and random effects models; analysis of covariance; detection and correction of modeling flaws; statistical power.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5615, STAT 4584 OR MATH 4584
-Corequisite(s): STAT 5014
-
-STAT 5054 - Introduction to Statistical Computing
-Introduction to modern programming packages for data analysis. Basics of coding, language syntax, and statistical functionality to read in raw data files and data sets, subset data, create variables, and recode data. Summaries in the form of tables and graphs. Data analysis using standard statistical methods and data management and analysis of large data sets. Parallel computing. Applied data analysis is emphasized rather than statistical theory. Pre: Graduate standing.
+CS 5014 - Research Methods in Computer Science
+Preparation for research in computer science. Technical communication skills. Design and evaluation of experiments. The research process.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -43,17 +7,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5104 - Probability and Distribution Theory
-Fundamental concepts of probability, random variables and their distributions, functions of random variables, mathematical expectations, and stochastic convergence.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): MATH 4526
-Corequisite(s):
-
-STAT 5105G - Advanced Theoretical Statistics
-5105G: Probability theory, counting techniques, conditional probability; random variables, moments; moment generating functions; multivariate distributions; transformations of random variables; order statistics. 5106G: Convergence of sequences of random variables; central limit theorem; methods of estimation; hypothesis testing; linear models; analysis of variance. Pre: 5105G: Graduate Standing; 5106G: 5105G.
+CS 5024 - Ethics and Professionalism in Computer Science
+Ethical implications and consequences of computing technology applied to algorithmic decision making, security, privacy, autonomous systems. Ethical frameworks and their application to relevant current topics. Formulating, reasoning, and communicating positions on ethical topics related to computing technology. Diversity and bias as it relates to information technology. Ethical conduct of research and development of intellectual property. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -61,35 +16,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5106G - Advanced Theoretical Statistics
-5105G: Probability theory, counting techniques, conditional probability; random variables, moments; moment generating functions; multivariate distributions; transformations of random variables; order statistics. 5106G: Convergence of sequences of random variables; central limit theorem; methods of estimation; hypothesis testing; linear models; analysis of variance. Pre: 5105G: Graduate Standing; 5106G: 5105G.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5105G
-Corequisite(s):
-
-STAT 5114 - Statistical Inference
-Decision theoretic formulation of statistical inference, concept and methods of point and confidence set estimation, notion and theory of hypothesis testing, relation between confidence set estimation and hypothesis testing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s): STAT 5104
-
-STAT 5124 - Linear Models Theory
-A study of the theory underlying the general linear model and general linear hypothesis. Applications in linear regression (full rank) and analysis of variance.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114, MATH 5524
-Corequisite(s):
-
-STAT 5134 (SPIA 5134) (PSCI 5134) - Tools and Approaches for Policy-Making in STEM-H Domains
-Techniques for translating theory-driven, qualitative concepts into quantitative data-focused modeling to address policy problems. Quantitative and computational tools including statistical inference and hypothesis testing, system dynamics, and economic analysis. Modeling paradigms and common challenges in modeling. Modern data analytic practices, including good collection, storage and visualization techniques. Problem definitions and application to real-world policy-related problems and implementation in modern software packages. Understanding complexity. Critical evaluation of challenges and common pitfalls in quantitative modeling. Pre: Graduate standing.
+CS 5040 - Intermediate Data Structures and Algorithm Analysis
+Data structures and analysis of data structure and algorithm performance. Sorting, searching, hashing, and advanced tree structures and algorithms. File system organization and access methods. Course projects develop advanced problem-solving, design, and implementation skills. Pre: Graduate standing in Computer Science and an undergraduate second semester programming course.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -97,116 +25,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5154 - Statistical Computing for Data Analytics
-Computational techniques for advanced applied statistical analyses and machine learning methods. Project management for larger data projects including computational constraints, pitfalls, and techniques related to different data types. Advanced report generation across different media, efficient R programming, advanced statistical function writing, parallel statistical computing with R, handling missing data, numerical optimization methods, the EM algorithm, and Monte Carlo methods.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5054
-Corequisite(s):
-
-STAT 5204 - Experimental Design and Analysis I
-Principles and concepts of experimental design; systematic overview and discussion of basic designs from the point of view of blocking, error reduction, and treatment structure; and development of analysis based on linear models.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5104 OR STAT 5616
-Corequisite(s):
-
-STAT 5204G - Experimental Design: Concepts and Applications
-Fundamental principles of designing and analyzing experiments with application to problems in various subject matter areas. Completely randomized, randomized complete block and Latin square designs, analysis of covariance, split-plot designs, factorial and fractional factorial designs, incomplete block designs, repeated measures, power and sample size, mean separation procedures.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5605 OR STAT 5615
-Corequisite(s):
-
-STAT 5214G - Advanced Methods of Regression Analysis
-Multiple regression including variable selection procedures; detection and effects of multicollinearity; identification and effects of influential observations; residual analysis; use of transformations. Non-linear regression, the use of indicator variables, and logistic regression. Use of SAS.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5605 OR STAT 5615
-Corequisite(s):
-
-STAT 5234 - Experimental Design for Data Science
-Understanding data, data collection, and proper data analysis for knowledge discovery and decision-making. Randomization, replication, blocking, data quality evaluations (e.g., representativeness of training data), analysis quality assessment (e.g., robustness of the machine learning algorithm to representativeness of training data). Strengths and weaknesses of experimental designs for data science. Modern qualitative and quantitative techniques for constructing experimental designs and analyzing experimental data. Interpretation and reporting of results.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): (STAT 5615, STAT 5616) OR STAT 5525 OR CS 5525
-Corequisite(s):
-
-STAT 5314 - Monte Carlo Methods in Stats
-Theoretical and applied aspects of simulation-based sampling methodology. Monte Carlo integration, importance sampling, Markov chain Monte Carlo, particle methods, Kalman filtering. Programming in Matlab, R, or SAS.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114
-Corequisite(s):
-
-STAT 5364 - Hierarchical Modeling
-Hierarchical modeling techniques as applied to assess data with atypical features, such as non-normal responses (e.g., binary, discrete survival, continuous mixtures), censored/missing observations, multivariate responses, repeated measures, and nested structures. Classical and Bayesian techniques for assessing models. Programming experience in R, S+, or Matlab required.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5044, STAT 5104, STAT 5444
-Corequisite(s):
-
-STAT 5364G - Advanced Statistical Genomics
-Statistical methods for bioinformatics and genetic studies, with an emphasis on statistical analysis, assumptions and problem-solving. Topics include: basic concepts of genes and genomes, commonly used statistical methods for gene identification, association mapping and other related problems. Focus on statistical tools for gene expression studies and association studies, multiple comparison procedures, likelihood inference and preparation for advanced study in the areas of bioinformatics and statistical genetics.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5616
-Corequisite(s):
-
-STAT 5374 - Statistical Epidemiology and Observation Studies
-Statistical methodology for epidemiology and observational studies. Statistical evaluation and inference for risk and prevalence of population safety and disease risk factors. Epidemiology and observational study design. Emphasis on casual inference and statistical models. Pre: 5034 or 5124 or 5615.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5034 OR STAT 5124 OR STAT 5615
-Corequisite(s):
-
-STAT 5414 - Time Series Analysis I
-Analysis of data when observations are not mutually independent, stationary and nonstationary time series, linear filtering, trend elimination, prediction, and applications in economics and engineering. Even years.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114
-Corequisite(s):
-
-STAT 5434 - Applied Stochastic Processes
-Stochastic processes in statistical applications including Markov chains, Poisson processes, renewal processes, branching processes, random walks, martingales, Brownian motion and related stationary Gaussian processes.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5104
-Corequisite(s):
-
-STAT 5444 - Bayesian Statistics
-Introductory course of Bayesian statistics on basic concepts of probability, Bayesian inference of Normal, Binomial, Poisson, Uniform and other common distributions, selections of prior information, Bayesian decision theory, Bayesian analysis of regression and analysis of variance and Bayesian foundation. Even years.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114
-Corequisite(s):
-
-STAT 5444G - Advanced Applied Bayesian Statistics
-Bayesian methodology with emphasis on applied statistical problems: data displaying, prior distribution elicitation, posterior analysis, models for proportions, means and regression. Pre: Graduate Standing.
+CS 5044 - Object-Oriented Programming with Java
+Object-oriented programming concepts and the Java programming language. The application of design strategies, notations, and patterns related to object-oriented systems. Techniques and libraries for developing applications related to the World Wide Web. Credit will not be given for both 2704 and 5044. Not for Computer Science major or minor credit; not for graduate credit for CSA or INFS programs. Pre: Proficiency in a high-level programming language (e.g., FORTRAN, C, C++, or Java) equivalent to 1044 and prior course work, practical training, or work experience related to developing computer software and systems.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -214,26 +34,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5454 - Reliability Theory
-Basic concepts of lifetime distributions, types of censoring, inference procedures for exponential, Weibull and extreme value distributions, nonparametric estimation of survival function, kernel density estimation, accelerated life testing, and goodness of fit tests.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 4106
-Corequisite(s):
-
-STAT 5474 (ISE 5474) - Statistical Theory of Quality Control
-Development of statistical concepts and theory underlying procedures used in quality control applications. Sampling inspection procedures, the sequential probability ratio test, continuous sampling procedures, process control procedures, and experimental design.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5104, STAT 5114
-Corequisite(s):
-
-STAT 5484 (AAEC 5484) - Applied Economic Forecasting
-Forecasting economic, agricultural and environmental data using basic linear and non-linear time series models. Emphasis on programming and computational implementation of time series model-selection techniques and practical applications. Pre: Graduate Standing.
+CS 5045 - Computation for the Data Sciences
+Covers fundamentals of computer science and background in data sciences needed by graduate students without a computer science background. 5045: Programming language syntax and semantics for data science; abstraction and object-oriented programming; data structures; databases; visualization; ethics and data manipulation. 5046: Software engineering; data preprocessing; and machine learning. Pre: Graduate standing for 5045; 5045 for 5046.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -241,35 +43,53 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5504 - Multivariate Statistical Methods
-Methods of inference for multivariate distributions. Multivariate distributions, location and dispersion problems for one and two samples, multivariate analysis of variance, linear models, repeated measurements, inference for dispersion and association parameters, principal components, discriminant and cluster analysis, and simultaneous inference. R will be used.
+CS 5046 - Computation for the Data Sciences
+Covers fundamentals of computer science and background in data sciences needed by graduate students without a computer science background. 5045: Programming language syntax and semantics for data science; abstraction and object-oriented programming; data structures; databases; visualization; ethics and data manipulation. 5046: Software engineering; data preprocessing; and machine learning. Pre: Graduate standing for 5045; 5045 for 5046.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): (STAT 5104 OR STAT 5616)
+Prerequisite(s): CS 5045
 Corequisite(s):
 
-STAT 5504G - Advanced Applied Multivariate Analysis
-Non-mathematical study of multivariate analysis. Multivariate analogs of uinivariate test and estimation procedures. Simultaneous inference procedures. Multivariate analysis of variance, repeated measures, inference for dispersion and association parameters, principle components analysis, discriminant analysis, cluster analysis. Prerequisite: Graduate Standing required
+CS 5054 - Programming Models for Big Data
+Survey of computer science concepts and tools that enable efficient computational science and data analytics with big data. Ethical issues in computing. Data structure design and implementation. Analysis of data structure and algorithm performance. Introduction to high-performance computer architectures and parallel computation. Basic operating systems concepts that influence the performance of large-scale computational modeling and data analytics. Software tools for computational modeling. Co:5046 or 5525
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5616 OR STAT 5606
+Prerequisite(s): CS 5045
 Corequisite(s):
 
-STAT 5514 - Regression Analysis
-Classical and modern techniques in regression analysis. Use of modern regression techniques to diagnose collinearity, leverage, and outliers. Model discrimination using cross validation techniques. The study of transformations, biased estimation, and nonlinear regression.
+CS 5104 - Computability and Formal Languages
+Formal theory of computability, the halting problem, models of computation, and Churchs thesis, and formal languages.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5124 OR STAT 5616
+Prerequisite(s): CS 5034
 Corequisite(s):
 
-STAT 5514G - Advanced Introduction to Categorial Data Analysis
-Statistical approaches to analyze categorical data. Probability computation and distribution specification, interval estimation and hypothesis testing, formulating and fitting generalized linear models including logistic and Poisson regression, algorithms used for model fitting, variable selection, and classification trees and supervised learning. Pre: Graduate Standing.
+CS 5114 - Theory of Algorithms
+Methods for constructing and analyzing algorithms. Measures of computational complexity, determination of efficient algorithms for a variety of problems such as searching, sorting and pattern matching. Geometric algorithms, mathematical algorithms, and theory of NP-completeness. Pre: Graduate standing in the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 2604
+Corequisite(s):
+
+CS 5124 - Algorithms in Bioinformatics
+Algorithms to solve problems found in biology, especially molecular biology. A variety of current problems in computational molecular biology will be introduced, investigated, analyzed for computational complexity, and solved with efficient algorithms, when feasible. A number of such problems will be shown to be intractable or other evidence of their difficulty will be presented. Pre: Graduate standing in the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): (CS 5046, PPWS 5314)
+Corequisite(s):
+
+CS 5204 - Operating Systems
+Issues in the design and functioning of operating systems. Emphasis on synchronization of concurrent activity in both centralized and distributed systems. Deadlock, scheduling, performance analysis, operating system design, and memory systems including distributed file systems. Pre: Background in Operating Systems required and Graduate standing in the CSA program.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -277,7 +97,151 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5525 (CS 5525) - Data Analytics
+CS 5214 - Modeling and Evaluation of Computer Systems
+An overview of modeling, simulation, and performance evaluation of computer systems, i.e., operating systems, database management systems, office automation systems, etc. Fundamentals of modeling, the life cycle of a simulation study, workload characterization, random number and variate generation, procurement, measurement principles, software and hardware monitors, capacity planning, system and program tuning, and analytic modeling. Duplication of subject matter of 4214 and 4224. Maximum of 6 hours credit may be obtained from 4214, 4224, 5214. Pre: Graduate standing the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5234 - Advanced Parallel Computation
+Survey of leading high-end computing systems and their programming environments. Advanced models of parallel computation. Mapping of parallel algorithms to architectures. Performance programming and tools for performance optimization on parallel systems. Execution environments and system software for large-scale parallel computing. Case studies of parallel applications. Graduate standing required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 4234 (UG) OR CS 4234
+Corequisite(s):
+
+CS 5244 - Web Application Development
+Languages and technologies needed to develop modern data- centric web applications. Commonly used protocols and standards. Client-side technologies such as HTML, CSS, and JavaScript; server-side technologies such as Servlets and JSP; and database access with SQL. Principles and technologies for web application architecture, electronic commerce, and web application security.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5044
+Corequisite(s):
+
+CS 5254 - Mobile Application Development
+Languages and technologies needed to develop applications for modern mobile devices. Mobile infrastructure and devices. Interactive graphical user interfaces for mobile devices. Protocols and standards for using mobile device features such as sensors, networking, location, camera, and audio. Mobile app architecture, performance considerations, and asynchronous programming. Principles and technologies for mobile security.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5044
+Corequisite(s):
+
+CS 5264 (ECE 5414) - Advanced Linux Kernel Programming
+Design and internal organization of the Linux operating system kernel. Kernel subsystems, boot process, memory management, process and thread model, scheduling, interrupt and exception handling, virtual file system and the concrete file system, block I/O and I/O scheduler, network stack, and device drivers. Modification of existing kernel code. Design, implementation, test, and evaluation of new kernel modules. Kernel and full software stack debugging techniques, and virtualization as an aid for operating system development and debug. Software engineering techniques to analyze, modify and run a large, complex open-source code base. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5304 - Translator Design and Construction
+Fundamental theory of parsing and translation and practical applications of this theory. Lexical analysis, parsing techniques based on top-down (LL, Recursive Descent) and bottom-up (LR, Precedence), code generation, code optimization techniques, and runtime systems. Pre: Graduate standing in the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5314 - Programming Languages
+In depth investigation of the principles of programming systems, not necessarily restricted to programming languages, both from the point of view of the user and implementer. Algorithms of implementation, syntax and semantic specification systems, block structures and scope, data abstraction and aggregates, exception handling, concurrency, and applicative/functional/data-flow languages.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 3304 (UG) OR CS 3304
+Corequisite(s):
+
+CS 5424 (BIOL 5424) (GBCB 5424) - Computational Cell Biology
+Use of mathematical models (nonlinear ordinary differential equations and stochastic processes) and simulation algorithms to explore the complex feedback circuits that control the behavior of living cells. Concepts and techniques from dynamical systems theory, bifurcation analysis, numerical methods, SBML (systems biology makeup language) and Matlab programming. Applications in gene regulatory networks, cell cycle control, circadian rhythms, cell signaling.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 5515
+Corequisite(s):
+
+CS 5465 - Numerical Analysis
+A survey of the construction, analysis, and implementation of numerical algorithms in linear algebra, nonlinear equations and optimization, approximation by polynomials, quadrature, and ordinary differential equations.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5466 - Numerical Analysis
+A survey of the construction, analysis, and implementation of numerical algorithms in linear algebra, nonlinear equations and optimization, approximation by polynomials, quadrature, and ordinary differential equations.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5474 (MATH 5474) - Finite Difference Methods for Partial Differential Equations
+Finite difference methods for initial and boundary value problems for partial differential equations. Consistency, stability, convergence, dispersion, and dissipation. Methods for linear and nonlinear elliptic and parabolic equations, first- and second-order hyperbolic equations, and nonlinear conservation laws. Pre: Graduate standing in the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5484 (MATH 5484) - Finite Element Methods for Partial Differential Equations
+Weak formulations of boundary-value problems for elliptic partial differential equations. Finite element spaces. Approximation theory for finite element spaces. Error estimates. Effects of numerical integration and curved boundaries. Nonconforming methods. Concrete examples of the application of the finite element method. Efficient implementation strategies. Time dependent problems.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 3414 (UG) OR CS 3414
+Corequisite(s):
+
+CS 5485 (MATH 5485) - Numerical Analysis and Software
+Presentation and analysis of numerical methods for solving common mathematical and physical problems. Methods of solving large sparse linear systems of equations, algebraic eigenvalue problems, and linear least squares problems. Numerical algorithms for solving constrained and unconstrained optimization problems. Numerical solutions of nonlinear algebraic systems. Convergence, error analysis. Hardware and software influences. Efficiency, accuracy, and reliability of software. Robust computer codes.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): (MATH 4445 (UG), MATH 4446 (UG)) OR (MATH 4445, MATH 4446)
+Corequisite(s):
+
+CS 5486 (MATH 5486) - Numerical Analysis and Software
+Presentation and analysis of numerical methods for solving common mathematical and physical problems. Methods of solving large sparse linear systems of equations, algebraic eigenvalue problems, and linear least squares problems. Numerical algorithms for solving constrained and unconstrained optimization problems. Numerical solutions of nonlinear algebraic systems. Convergence, error analysis. Hardware and software influences. Efficiency, accuracy, and reliability of software. Robust computer codes.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): (MATH 4445 (UG), MATH 4446 (UG)) OR (MATH 4445, MATH 4446)
+Corequisite(s):
+
+CS 5504 (ECE 5504) - Computer Architecture
+Advanced computer architectures, focusing on multiprocessor systems and the principles of their design. Parallel computer models, programming and interconnection network properties, principles of scaleable designs. Case studies and example applications of pipeline processors, interconnection networks, SIMD and MIMD processors.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 4504 (UG) OR CS 4504
+Corequisite(s):
+
+CS 5510 (ECE 5510) - Multiprocessor Programming
+Principle and practice of multiprocessor programming. Illustration of multiprocessor programming principles through the classical mutual exclusion problem, correctness properties of concurrency (e.g., linearizability), shared memory properties (e.g. register constructions), and synchronization primitives for implementing concurrent data structures (e.g., consensus protocols). Illustration of multiprocessor programming practice through programming patterns such as spin locks, monitor locks, the work-stealing paradigm and barriers. Discussion of concurrent data structures (e.g., concurrent linked lists, queues, stacks, hash maps, skiplists) through synchronization patterns ranging from coarse-grained locking to fine-grained locking to lock-free structures atomic synchronization primitives, elimination, and transactional memory.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): ECE 4534 OR ECE 4550
+Corequisite(s):
+
+CS 5525 (STAT 5525) - Data Analytics
 5525: Basic techniques in data analytics including the preparation and manipulation of data for analysis and the creation of data files from multiple and dissimilar sources. The data mining and knowledge discovery process. Overview of data mining algorithms in classification, clustering, association analysis, probabilistic modeling, and matrix decompositions. Detailed study of classification methods including tree-based methods, Bayesian methods, logistic regression, ensemble, bagging and boosting methods, neural network methods, use of support vectors and Bayesian networks. Detailed study of clustering methods including k-means, hierarchical and self-organizing map methods. Prerequisite: Graduate Standing required. 5526: Techniques in unsupervised and visualized learning in high dimension spaces. Theoretical, probabilistic, and applied aspects of data analytics. Methods include generalized linear models in high dimensional spaces, regularization, lasso and related methods, principal component regression (pca), tree methods, and random forests. Clustering methods including k-means, hierarchical clustering, biclustering, and model-based clustering will be thoroughly examined. Distance-based learning methods include multi dimensional scaling, the self organizing map, graphical/network models, and isomap. Supervised learning will consist of discriminant analyses, supervised pca, support vector machines, and kernel methods.
 Credit Hour(s): 3
 Lecture Hour(s): 3
@@ -286,53 +250,17 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5526 (CS 5526) - Data Analytics
+CS 5526 (STAT 5526) - Data Analytics
 5525: Basic techniques in data analytics including the preparation and manipulation of data for analysis and the creation of data files from multiple and dissimilar sources. The data mining and knowledge discovery process. Overview of data mining algorithms in classification, clustering, association analysis, probabilistic modeling, and matrix decompositions. Detailed study of classification methods including tree-based methods, Bayesian methods, logistic regression, ensemble, bagging and boosting methods, neural network methods, use of support vectors and Bayesian networks. Detailed study of clustering methods including k-means, hierarchical and self-organizing map methods. Prerequisite: Graduate Standing required. 5526: Techniques in unsupervised and visualized learning in high dimension spaces. Theoretical, probabilistic, and applied aspects of data analytics. Methods include generalized linear models in high dimensional spaces, regularization, lasso and related methods, principal component regression (pca), tree methods, and random forests. Clustering methods including k-means, hierarchical clustering, biclustering, and model-based clustering will be thoroughly examined. Distance-based learning methods include multi dimensional scaling, the self organizing map, graphical/network models, and isomap. Supervised learning will consist of discriminant analyses, supervised pca, support vector machines, and kernel methods.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5525 OR CS 5525
+Prerequisite(s): CS 5525 OR STAT 5525
 Corequisite(s):
 
-STAT 5544 - Spatial Statistics
-Spatial data structures: geostatistical data, lattices and point patterns. Stationary and isotropic random fields. Autocorrelated data structures. Semivariogram estimation and spatial prediction for geostatistical data. Mapped and sampled point patterns. Regular, completely random and clustered point processes. Spatial regression and neighborhood analyses for data on lattices.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5124
-Corequisite(s):
-
-STAT 5554 - Functional Data Analysis
-Functional summary statistics, phase-plane plots, functional principal component analysis, functional regression models, principal differential analysis, dynamic models, analysis of manifold data, topological data analysis, data analysis of complex objects.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5124, STAT 5114, STAT 5044
-Corequisite(s):
-
-STAT 5574 - Response Surface Design and Analysis I
-Use of response surface analysis to design and analyze industrial experiments. First and second order models. First and second order experimental designs. Use of model diagnostics for finding optimum operating conditions. Even years.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5204
-Corequisite(s):
-
-STAT 5594 - Topics in Biostatistics
-Course with variable content; specialized application of statistical theory and methodology to biological and medical sciences; topics include bioassay, epidemiology, survival analysis, and statistical ecology. May be repeated for credit with different topics. Odd years.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114
-Corequisite(s):
-
-STAT 5605 - Biometry
-5605: The normal distribution, estimation, hypothesis testing, simple linear regression, and one-way analysis of variance with applications to the biological sciences. 5606: Experimental design, nested and factorial analysis of variance, linear regression and correlation, and the use of SAS, with applications to the biological sciences.
+CS 5544 (ECE 5544) - Compiler Optimizations
+Overview of compilation and compiler optimizations. Design and internal organization of the Low-Level Virtual Machine compiler infrastructure. Static Single Assignment. Data-flow analysis and techniques for reaching definitions, live variable analysis, and available expressions. Lattice theory and iterative algorithms for general frameworks. Non-separable dataflow analysis including constant propagation and folding, faint variable analysis, and points-to may/must analysis. Loop-invariant code motion and lazy code motion. Static Single Assignment construction and optimizations. Register allocation and coalescing. Pointer analysis using Anderson’s and Steensgaard’s algorithms, and liveness analysis of heap data. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -340,8 +268,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5606 - Biometry
-5605: The normal distribution, estimation, hypothesis testing, simple linear regression, and one-way analysis of variance with applications to the biological sciences. 5606: Experimental design, nested and factorial analysis of variance, linear regression and correlation, and the use of SAS, with applications to the biological sciences. Knowledge of CMS required.
+CS 5560 (ECE 5560) - Fundamentals of Info Security
+Principles of information security and relevant mathematical concepts. Classical ciphers, relevant abstract algebra and number theory, symmetric-key ciphers, cipher modes of operation, and asymmetric-key ciphers. Cryptographic hash functions and message authentication codes. Elliptic curve cryptography and cryptosystems. Applications and standards relevant to network and computer security. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -349,8 +277,35 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5615 - Statistics in Research
-5615: Concepts in statistical inference, including basic probability, estimation, and test of hypothesis, point and interval estimation and inferences; categorical data analysis; simple linear regression; and one-way analysis of variance. 5616: Multiple linear regression; multi-way classification analysis of variance; randomized block designs; nested designs; and analysis of covariance. One year of Calculus. CMS.
+CS 5565 (ECE 5565) - Network Architecture and Protocols
+5565: Principles and concepts of networking and protocols, with emphasis on data link, network, and transport protocols. Contemporary and emerging networks and protocols to illustrate concepts and to provide insight into practical networks including the Internet. Quantitative and qualitative comparisons of network architectures and protocols. 5566: Performance evaluation, design, and management of networks. Use of queuing and other analytical methods, simulation, and experimental methods to evaluate and design networks and protocols. Network management architectures and protocols. Graduate standing in EE, ECE, CS, or IT required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): STAT 4714 (UG) OR STAT 4714
+Corequisite(s):
+
+CS 5566 (ECE 5560) - Network Architecture and Protocols
+5565: Principles and concepts of networking and protocols, with emphasis on data link, network, and transport protocols. Contemporary and emerging networks and protocols to illustrate concepts and to provide insight into practical networks including the Internet. Quantitative and qualitative comparisons of network architectures and protocols. 5566: Performance evaluation, design, and management of networks. Use of queuing and other analytical methods, simulation, and experimental methods to evaluate and design networks and protocols. Network management architectures and protocols. Graduate standing in EE, ECE, or IT is required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5565 (UG) OR CS 5565
+Corequisite(s):
+
+CS 5580 - Cryptographic Engineering
+Implementation of cryptographic operations and protocols in contemporary computing platforms. Mapping of cryptographic operations, evaluation and optimization of performance and implementation cost, analysis of security against brute- force cryptanalysis and implementation-level attacks. Design of countermeasures against implementation-level attacks, security-testing procedures, and architectures to support a trusted computing base.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): ECE 5560 OR CS 5560
+Corequisite(s):
+
+CS 5584 (ECE 5584) - Network Security
+Fundamentals of network security. Network security architecture, user and attacker perspective. Practical applications and security standards. Protocol design principles and their impact on computer and network security. Authentication systems. Email security. Firewalls and intrusion detection. Security for wireless systems. Pre: Graduate standing in CSA.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -358,8 +313,17 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5616 - Statistics in Research
-5615: Concepts in statistical inference, including basic probability, estimation, and test of hypothesis, point and interval estimation and inferences; categorical data analysis; simple linear regression; and one-way analysis of variance. 5616: Multiple linear regression; multi-way classification analysis of variance; randomized block designs; nested designs; and analysis of covariance. One year of Calculus and knowledge of CMS required.
+CS 5590 (ECE 5590) - System and Software Security
+Secure software design, memory and file system security, operating system security for various platforms. Program classification, anomaly detection, malware detection and analysis. Technical challenges and problems in securing operating systems and software. Classic and modern algorithms, models, principles, and tools for system and application software security. Actual security examples.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5560 OR ECE 5560
+Corequisite(s):
+
+CS 5594 - Blockchain Technologies
+Principles of an open, distributed ledger. Underlying data structures and algorithms such as cryptographic hashing and Merkle trees, consensus algorithms, and Byzantine agreement. Bitcoin as an exemplar. Proof of work and proof of stake. Applications including cryptocurrencies, financial ledgers, and smart contracts. Pre: Graduate standing in Computer Science.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -367,34 +331,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5664 - Applied Statistical Time Series Analysis for Reseach Scientists
-Applied course in time series analysis methods. Topics include regression analysis, detecting and addressing autocorrelation, modeling seasonal or cyclical trends, creating stationary time series, smoothing techniques, forecasting errors, and fitting autoregressive integrated moving average models.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5616 OR STAT 5606
-Corequisite(s):
-
-STAT 5684 - Survival Analysis
-Models and methods for time-to-event data with focus on biological and biomedical applications. Topics includes types of censoring and truncation; likelihood construction; survival function estimation; nonparametric two or more samples tests; Cox semiparametric regression, time-dependent covariates; regression diagnostics; competing risks; frailty model. Pre-requisite: Working knowledge of statistical software.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5044, STAT 5104, STAT 5114
-Corequisite(s):
-
-STAT 5754 - Internship in Statistics
-Full time, supervised internship experience at a company or government agency performing statistical analysis. May be repeated for a maximum of 3 hours toward an M.S. degree and 6 hours toward a Ph.D. degree. Graduate standing in statistics and permission of department required.
-Credit Hour(s): 1 TO 6
-Lecture Hour(s): 1 TO 6
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5024
-Corequisite(s):
-
-STAT 5894 - Final Examination
+CS 5604 - Information Storage and Retrieval
+Analyzing, indexing, representing, storing, searching, retrieving, processing and presenting information and documents using fully automatic systems. The information may be in the form of text, hypertext, multimedia, or hypermedia. The systems are based on various models, e.g., Boolean logic, fuzzy logic, probability theory, etc., and they are implemented using inverted files, relational thesauri, special hardware, and other approaches. Evaluation of the systems efficiency and effectiveness. Pre: Graduate standing in the CSA program.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -402,16 +340,194 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5904 - Project and Report
+CS 5614 - Database Management Systems
+Emphasizes concepts, data models, mechanisms, and language aspects concerned with the definition, organization, and manipulation of data at a logical level. Concentrates on relational model, along with introduction to design of relational systems using Entity-relationship modeling. Functional dependencies and normalization of relations. Query languages, relational algebra, Datalog, and SQL. Query processing, logic and databases, physical database tuning. Concurrency control, OLTP, active and rule-based elements. Data Warehousing, OLAP. Pre: Graduate standing in the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5644 - Machine Learning with Big Data
+Basic principles and techniques for big data analytics, including methods for storing, searching, retrieving, and processing large datasets; introduction to basic machine learning libraries for analyzing large datasets; data visualization; case studies with real-world datasets. Not for graduate credit for degrees for MS and PhD degrees in Computer Science and Applications (CSA); MEng degrees in CSA allowed to receive credit.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5044
+Corequisite(s):
+
+CS 5664 - Social Media Analytics
+Social media platforms, media feeds, and data formats; machine learning and graph theory foundations of social media analytics; Forms of social media analytics - text analytics, network analytics, and action analytics; Forecasting models and applications, including in marketing, event tracking, surveying, and A/B testing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5644
+Corequisite(s):
+
+CS 5704 - Software Engineering
+Study of the principles and tools applicable to the methodical construction and controlled evolution of complex software systems. All phases of the life cycle are presented; particular attention focuses on the design, testing, and maintenance phases. Introduction to software project management. Attention to measurement models of the software process and product which allow quantitative assessment of cost, reliability, and complexity of software systems.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5044
+Corequisite(s):
+
+CS 5714 (ISE 5714) - Usability Engineering
+Design and evaluation of effective user interfaces, beginning with principles for designing the product. Development process for user interaction separate from interactive software development. Development process includes iterative life cycle management, systems analysis, design, usability specifications, design representation techniques, prototyping, formative user-based evaluation. Integrative and cross-disciplinary approach with main emphasis on usability methods and the user interaction development process.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5724 - Models and Theories of Human-computer Interaction
+Survey of models and theories of users and their use of computer equipment; conditions of application for various approaches. Task analysis, task modeling, representations and notations.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5734 - Social Computing and Computer-Supported Cooperative Work
+Social computing and cooperative work situations. Design implementation, use and analysis of computing systems concerned with multiple users and stakeholders. Analytic practices and application of human behavior theories for social computing. Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5744 - Software Design and Quality
+This course focuses on critical aspects of the software lifecycle that have significant influence on the overall quality of the software system including techniques and approaches to software design, quantitative measurement and assessment of the system during implementation, testing, and maintenance, and the role of verification and validation in assuring software quality.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5704 (UG) OR CS 5704
+Corequisite(s):
+
+CS 5754 - Virtual Environments
+Introduction to the theory and practice of three-dimensional virtual environments (VEs). 3D input and output devices, applications of VEs, 3D user interfaces and human-computer interaction, 3D graphics techniques for VEs, 3D modeling and level of detail, evaluation of VEs, VE software systems and standards, collaborative and distributed VEs. Includes hands-on experience with VE hardware and software.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5764 - Information Visualization
+Examine computer-based strategies for interactive visual presentation of information that enable people to explore, discover, and learn from vast quantities of data. Learn to analyze, design, develop, and evaluate new visualizations and tools. Discuss design principles, interaction strategies, information types, and experimental results. Research-oriented course surveys current literature, and group projects contribute to the state of the art. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5774 - User Interface Software
+Survey of software architectures to build user interfaces, particularly focused on graphical user interfaces. Includes the design and implementation of user interfaces, the use of object-oriented application frameworks, software architecture for command undo, document management, layout managers, customized components, and separation of concerns in user interface software architectures. Discussion of research and advanced topics in User Interface Software.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): 1L, Lecture, Online Lecture
+Prerequisite(s): CS 2704 (UG) OR CS 2704
+Corequisite(s):
+
+CS 5804 - Introduction to Artificial Intelligence
+A graduate level overview of the areas of search, knowledge representation, logic and deduction, learning, planning, and artificial intelligence applications. Pre: Graduate standing in the CSA program.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5814 - Introduction to Deep Learning
+History and basic concepts of artificial neural networks. Activation functions, optimization methods and regularization strategies used in deep multi-layered networks. Network architectures such as convolutional networks and recurrent neural networks. Deep reinforcement learning algorithms including deep Q-learning and policy gradient methods. Deep unsupervised models such as auto-encoders, and deep generative models including variational auto-encoders and generative adversarial networks. Encoder-decoder architectures and their applications in real-world problems such as machine translation, image captioning, visual question answering, and text summarization. Duplicates ECE 6524 (CS 6524).
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5525 OR STAT 5525 OR CS 5824 OR ECE 5424
+Corequisite(s):
+
+CS 5824 (ECE 5424) - Advanced Machine Learning
+Algorithms and principles involved in machine learning; focus on perception problems arising in computer vision, natural language processing and robotics; fundamentals of representing uncertainty, learning from data, supervised learning, ensemble methods, unsupervised learning, structured models, learning theory and reinforcement learning; design and analysis of machine perception systems; design and implementation of a technical project applied to real-world datasets (images, text, robotics). Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5834 - Introduction to Urban Computing
+Computational approaches to address urban challenges; sensor network testbeds; algorithms for storing, processing, and mining data from urban settings; communicating patterns to decision makers; special focus on epidemiology, sustainability, transportation, social science, urban economics; case studies with applications. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5844 (ME 5824) - Algorithmic Human-Robot Interaction
+Formalizing interaction between robots and humans. Developing learning and control algorithms that enable robots to seamlessly and intelligently collaborate with humans. Mathematical approaches to human-robot interaction, learning from demonstration, Bayesian inference, intent detection, safe and optimal control, assistive autonomy, and user study design. Students review and present existing literature, conduct a research project. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5854 - Computational Systems Biology
+Phenomenological and data-driven models of molecular interaction networks. Applications of graph theory, discrete algorithms, data mining, and machine learning to the modeling and analysis of molecular interaction networks. Biological applications. Interaction between biological and computational disciplines in systems biology. Must have GBCB pre-requisite and CS pre-requisites or graduate standing in CSA or equivalent.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 4104 (UG) OR CS 4104 OR CS 5046, GBCB 5314
+Corequisite(s):
+
+CS 5894 - Final Examination
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5904 - Project and Report
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate
-Instruction Type(s): Research, Online Research
+Instruction Type(s): Research
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5924 - Graduate Seminar
-Special topics in statistical theory and applications. May be taken for credit two times (max. 2C).
+CS 5914 - Emerging Topics in Computer Science
+Emerging topics in computer science. Covers contemporary and often rapidly changing topics from the theory, practice, or application of computing. May be repeated 2 times with different content for up to 9 credit hours. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5934 - Capstone Project
+Design, implementation, and communication of a software system throughout the product lifecycle. Current software product development models. Product ideation, end-user and stakeholder analysis. Product development targeted to market need. Communication of design and goals. Use of appropriate development tools. Pre: Graduate standing in Computer Science.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 5944 - Graduate Seminar
 Credit Hour(s): 1
 Lecture Hour(s): 1
 Level: Graduate
@@ -419,7 +535,7 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5974 - Independent Study
+CS 5974 - Independent Study
 Credit Hour(s): 1 TO 19
 Lecture Hour(s): 1 TO 19
 Level: Graduate
@@ -427,7 +543,7 @@ Instruction Type(s): Independent Study, VI
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5984 - Special Study
+CS 5984 - Special Study
 Credit Hour(s): 1 TO 19
 Lecture Hour(s): 1 TO 19
 Level: Graduate
@@ -435,7 +551,7 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 5994 - Research and Thesis
+CS 5994 - Research and Thesis
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate
@@ -443,98 +559,53 @@ Instruction Type(s): Research, Online Research
 Prerequisite(s):
 Corequisite(s):
 
-STAT 6105 - Measure and Probability
-Development of measure theoretic foundations of probability theory. 6105: sigma fields, probability, and general measures; random variables, measurability and distributions, integration, and expectation; product measures; Radon-Nikodym theorem and conditioning. 6106: Random variables and strong and weak laws of large numbers; characteristic functions, central limit theorem and martingales; stochastic processes and Brownian motion. 6105 partially duplicates Math 5225. Must be enrolled in PhD program.
+CS 6104 - Advanced Topics in Theory of Computation
+This course treats a specific, advanced topic of current research interest in the area of theory of computation. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5104 OR MATH 4525
+Prerequisite(s): CS 5104 (UG) OR CS 5114 (UG) OR CS 5104 OR CS 5114
 Corequisite(s):
 
-STAT 6114 - Advanced Topics in Statistical Inference
-Advanced course in the theory of inference for graduate students in statistics and other qualified graduate students. Develops foundations, sufficiency, information, estimation, hypothesis testing, invariance, and unbiasedness.
+CS 6204 - Advanced Topics in Systems
+This course treats a specific advanced topic of current research interest in the area of systems. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114
+Prerequisite(s): CS 5204 (UG) OR CS 5214 (UG) OR CS 5204 OR CS 5214
 Corequisite(s):
 
-STAT 6344 - Modeling for High Dimensional and Sparse Data
-Statistical methods and modern computational methods for analyzing high dimensional data and sparse data, methods applied to complex data structures in various fields (e.g., genomics, epidemiology, and data mining), screening tools and matrix approximation, modeling strategies for high dimensional sparse data (parametric, nonparametric, and semiparametric regression models), statistical inference, graphical modeling methods, signal approximation methods, method limitations, functional analysis, causal inference, and data integration.
+CS 6304 - Advanced Topics in Languages and Translation
+This course treats a specific advanced topic of current research interest in the area of languages and translation. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114, STAT 5514
+Prerequisite(s): CS 5304 (UG) OR CS 5314 (UG) OR CS 5304 OR CS 5314
 Corequisite(s):
 
-STAT 6424 - Multivariate Statistical Analysis
-Foundations of multivariate analysis. Distribution theory of vectors and matrices, inequalities, limit theory, the structure of some multivariate location-scale parameter families, derived distributions, invariant distributions, the principle of invariance in estimation and testing for multivariate location and scale parameters, and robust aspects of normal-theory multivariate procedures.
+CS 6404 - Advanced Topics in Mathematical Software
+This course treats a specific advanced topic of current research interest in the area of mathematical software. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5504
+Prerequisite(s): CS 5485 (UG) OR CS 5485
 Corequisite(s):
 
-STAT 6474 - Adv Topics Bayesian Statistics
-Advanced concepts and methods in Bayesian analysis, including specifying priors, large sample theory, adaptive rejection sampling, adaptive rejection metropolis Hastings sampling, reverse jump Markov Chain Monte Carlo, model selection, nonparametric and semiparametric Bayesian methods using nonparametric priors, and Bayesian survival models.
+CS 6424 - PGMs and Structured Prediction
+Advanced concepts in machine learning. Probabilistic graphical models and structured output prediction. Directed models (Bayes Nets), undirected models (Markov/Conditional Random Fields), exact inference (junction tree), approximate inference (belief propagation, dual decomposition), parameter learning (MLE, MAP, EM, max-margin), structure learning.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114, STAT 5514, STAT 5444
+Prerequisite(s): ECE 5424G OR CS 5824
 Corequisite(s):
 
-STAT 6494 - Advanced Topics in Mathematical Statistics
-Advanced treatment beyond standard course offerings in topics such as theory of inference, nonparametrics, sequential analysis, and limit theory. May be repeated for credit with different topics.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5114
-Corequisite(s):
-
-STAT 6504 - Experimental Design and Analysis II
-Theoretical treatment of construction and analysis of various types of incomplete block and factorial designs.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5124, STAT 5204
-Corequisite(s):
-
-STAT 6514 - Advanced Topics in Regression
-Advanced notions in modern regression techniques and diagnostics. The underlying theory and concepts associated with estimation methods for handling collinearity. Theory behind modern criteria for selection of candidate models. The development of single and multiple outlier and influence diagnostics. Odd years.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5124, STAT 5514
-Corequisite(s):
-
-STAT 6544 - Surrogate Modeling
-Statistical techniques at the interface between mathematical modeling via computer simulation, computer model meta-modeling (i.e., emulation/surrogate modeling), calibration to field data, and geometric and model-based sequential design, and Bayesian optimization. Historical literature, canoncial examples, and modern nonparametric methods like Gaussian processes. Computation and implementation, fidelity enhancements and approximate methods for big data. Real-world field experiments and computer model simulations from the physical and engineering sciences.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5044, STAT 5204, STAT 5304, STAT 5444
-Corequisite(s):
-
-STAT 6554 - Advanced Statistical Computing
-A second course on statistical and scientific computing. Hands-on, statistical implementation leveraging modern desktop computing (multiple cores), cluster computing (multiple nodes) and distributed computing (hadoop/Amazon EC2) and the coming wave of exascale computing (GPU/TPU/Xeon Phi). Fundamentals of the Unix shell, manipulating data therein, compiling libraries with make, version control (e.g., Git), good habits/best practice with code development and data management. Using advanced R skills to design statistical applications and bind together other languages (e.g., C, C++, Fortran, awk, sed, Cuda, etc.), databases, computing architectures and interfaces to address statistical problems.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5054
-Corequisite(s):
-
-STAT 6564 (ECON 6564) (AAEC 6564) - Bayesian Econometric Analysis
-Bayesian estimation of economic models, with focus on Gibbs sampling, hierarchical modeling, data augmentation, and model search. Strong emphasis on programming and computational implementation.
+CS 6444 (ME 6444) (AOE 6444) - Verification and Validation in Scientific Computing
+Applicable to scientific and engineering models described by partial differential or integral equations. Software engineering, code verification, and the method of manufactured solutions for generating exact solutions. Estimation of numerical approximation errors in scientific computing. Design and execution of experiments for model validation and model accuracy assessment. Propagation of aleatory and epistemic uncertainty through models. Estimation of total prediction uncertainty in scientific computing simulations. Graduate Standing required
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -542,33 +613,88 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 6574 - Response Surface Design and Analysis II
-Advanced techniques and theory in response surface analysis and design. Robustness of designs. Thorough study of the notion of rotatability. Optimal design criteria and designs for estimating slopes of response surfaces. Mixture designs. Study of model misspecification. Even years.
+CS 6504 - Advanced Topics in Computer Architecture
+This course treats a specific advanced topic of current research interest in the area of architecture. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5574
+Prerequisite(s): CS 5515 (UG) OR CS 5516 (UG) OR CS 5515 OR CS 5516
 Corequisite(s):
 
-STAT 6634 (EDRE 6634) - Advanced Statistics for Education
-Multiple regression procedures for analyzing data as applied in educational settings, including curvilinear regressions, dummy variables, multicollinearity, and introduction to path analysis.
+CS 6524 (ECE 6524) - Deep Learning
+Advanced concepts in Machine Learning and Deep Learning. Models (multi-layer perceptrons, convolutional neural networks, memory networks), learning algorithms (backpropagation, stochastic sub-gradient descent, dropout), connections to structured predictions (Boltzmann machines, unrolled belief propagation), and applications to perception and Artificial Intelligence (AI) problems (image classification, detection, and segmentation; image captioning; visual question answering; automatic game playing).
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): STAT 5634
+Prerequisite(s): ECE 5424G OR CS 5824
 Corequisite(s):
 
-STAT 6984 - Special Study
-Credit Hour(s): 1 TO 19
-Lecture Hour(s): 1 TO 19
+CS 6564 (ECE 6564) - Multimedia Networking
+This course examines and explores recent advances in multimedia networking technologies. Major topics include multimedia compression and standards, quality of service (QoS) support mechanisms and protocols, performance analysis, network calculus, IP multicasting, Internet multimedia applications, and multimedia transport over wireless networks.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5565 (UG) OR CS 5565
+Corequisite(s):
+
+CS 6604 - Advanced Topics in Data and Information
+This course treats a specific advanced topic of current research interest in the area of data and information. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5604 (UG) OR CS 5614 (UG) OR CS 5604 OR CS 5614
+Corequisite(s):
+
+CS 6704 - Advanced Topics in Software Engineering
+This course treats a specific advanced topic of current research interest in the area of software engineering. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5704 (UG) OR CS 5714 (UG) OR CS 5704 OR CS 5714
+Corequisite(s):
+
+CS 6724 - Advanced Topics in Human-computer Interaction
+Addresses a specific advanced topic of current research interest in the area of human-computer interaction (HCI). Research monographs and papers from the current literature will be used as a source of material too new yet to be in a textbook. Student participation in a seminar-style format. Each offering of this course will address a different subtopic area of HCI. May be repeated for credit.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5714 (UG) OR CS 5724 (UG) OR CS 5734 (UG) OR CS 5714 OR CS 5724 OR CS 5734
+Corequisite(s):
+
+CS 6804 - Advanced Topics in Intelligent Systems
+This course treats a specific advanced topic of current research interest in the area of intelligent systems. Papers from the current literature or research monographs are likely to be used instead of a textbook. Student participation in a seminar style format may be expected. May be repeated with different content for a maximum of nine credit hours.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): CS 5804 (UG) OR CS 5814 (UG) OR CS 5804 OR CS 5814
+Corequisite(s):
+
+CS 6814 - Science-Guided Machine Learning
+Addresses specific advanced topics in science-guided machine learning (SGML). Seminal papers, book chapters, and recent developments in the field will be used as a source of material too new to yet be in a textbook. Detailed study of science-guided learning, science-guided model design, science-guided initialization, and hybrid-science-machine learning modeling. Student participation is in a seminar style format. Pre: Graduate standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STAT 7994 - Research and Dissertation
+CS 6824 - Adv Topics Comp Biol & Bioinf
+Addresses a specific advanced topic of current research interest in the area of computational biology and bioinformatics (CBB). Research monographs and papers from the current literature used as a source of material too new to be discussed in a textbook. Student participation in a seminar-style format. Each offering of this course will address a different subtopic area of CBB. May be repeated with different content for a maximum of 12 credit hours. Pre: Graduate standing; other prerequisites may apply.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+CS 7994 - Research and Dissertation
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate

@@ -1,39 +1,239 @@
-mathematical methods in physics
-intermediate mechanics
-intermediate mechanics
-intermediate electricity and magnetism
-intermediate electricity and magnetism
-introduction to astrophysics
-introduction to astrophysics
-thermal physics
-quantum information technologies
-introduction to nuclear and particle physics
-introduction to solid state physics
-polymer physics
-nanotechnology
-optics
-modern cosmology
-introduction to general relativity
-introduction to biophysics
-intro to computational physics
-intro to physics of galaxies
+MUS 5314 - Instrumental Ensemble Music
+Instruction and participation in the various instrumental musical performance ensembles under direction of members of the music faculty. May be repeated. Consent and audition required.
+Credit Hour(s): 1
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
 
-2504
-3355
-3356
-3405
-3406
-3655
-3656
-3704
-4254
-4504
-4554
-4564
-4574
-4614
-4654
-4674
-4714
-4755
-4774
+MUS 5414 - Choral Ensemble Music
+Instruction and participation in the various choral ensembles under the direction of the music faculty. May be repeated. Consent and audition required.
+Credit Hour(s): 1
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5514 - Graduate Individual Applied Voice
+Individual instruction in voice at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5524 - Graduate Individual Applied Keyboard
+Individual instruction in keyboard at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5534 - Graduate Individual Applied Violin
+Individual instruction in violin at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5544 - Graduate Individual Applied Viola
+Individual instruction in viola at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5554 - Graduate Individual Applied Cello
+Individual instruction in cello at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5564 - Graduate Individual Applied Bass
+Individual instruction in bass at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5574 - Graduate Individual Applied Flute
+Individual instruction in flute at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5584 - Graduate Individual Applied Oboe
+Individual instruction in oboe at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5594 - Graduate Individual Applied Clarinet
+Individual instruction in clarinet at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5614 - Graduate Individual Applied Saxophone
+Individual instruction in saxophone at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5624 - Graduate Individual Applied Bassoon
+Individual instruction in bassoon at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5634 - Graduate Individual Applied Horn
+Individual instruction in horn at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5644 - Graduate Individual Applied Trumpet
+Individual instruction in trumpet at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5654 - Graduate Individual Applied Trombone
+Individual instruction in trombone at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5664 - Graduate Individual Applied Baritone
+Individual instruction in baritone at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5674 - Graduate Individual Applied Tuba
+Individual instruction in tuba at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5684 - Graduate Individual Applied Percussion
+Individual instruction in percussion at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5714 - Graduate Individual Applied Historical Wind Instruments
+Individual instruction in historical wind instruments at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5724 - Graduate Individual Applied Historical String Instruments
+Individual instruction in historical string instruments at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5734 - Graduate Individual Applied Composition
+Individual instruction in composition at an advanced level. May be repeated. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5744 - Graduate Individual Applied Conducting
+Individual instruction in conducting at an advanced level. Consent required.
+Credit Hour(s): 1 TO 3
+Lecture Hour(s): 1 TO 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5754 - Band Directors Institue and Conducting Workshop
+An intensive study for graduate students in conducting, rehearsal techniques, program development, and repertory designed for wind band teachers of all levels. Pre: Graduate standing.
+Credit Hour(s): 1
+Lecture Hour(s): 1
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5974 - Independent Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Independent Study
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5984 - Special Study
+Credit Hour(s): 1 TO 19
+Lecture Hour(s): 1 TO 19
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MUS 5994 - Research and Thesis
+Credit Hour(s): 1 TO 19
+Lecture Hour(s):
+Level: Graduate
+Instruction Type(s): Research
+Prerequisite(s):
+Corequisite(s):

@@ -1,236 +1,35 @@
-1004 (TA 1004): SCHOOL OF PERFORMING ARTS FIRST YEAR EXPERIENCE Orientation to the School of Performing Arts philosophy and the resources of the School, the College, and the University. Cultivate a common intellectual, analytical, and creative conversation among first-year students. Enhance student participation in the creative and scholarly life of the Schools programs. Foster a sense of community and understanding across disciplines. (1H,1C)
+1984: SPECIAL STUDY Variable credit course.
 
-1005-1006: THEORY/FUNDAMENTALS Development of understanding the basic components of the composition of music through reading and writing the symbolic notation as it appears on the page, and realizing the experimental and expressive content of music performance through singing, ear training, and practice at a keyboard instrument. (3H,3C)
+2005-2006: INTEGRATED QUANTITATIVE SCIENCES 2005: Integrated topics from quantitative sciences that prepare students for advanced computational modeling and data analytics courses. Topics include: probability and statistics, infinite series, multivariate calculus, linear algebra. 2006: Intermediate linear algebra, regression, differential equations, and model validation. Pre: MATH 1226 for 2005; 2005, MATH 2114 or MATH 2114H, CMDA 2206 for 2006. Co: MATH 2114 for 2005. (6H,6C)
 
-1104: MUSIC APPRECIATION Survey of the art of music encompassing a variety of music styles and historical eras in both the western and non- western world. Students will develop strategies to contextualize music, via listening, from the perspective of the listener, composer, and performer. (3H,3C)
-
-1114: LISTENING IN THE DIGITAL AGE An introduction to musical access and listening in the digital age. Introduces basic elements of music and the creative process together with important musicians and their works. Explores historical, social, and cultural forces and trends that influence the creation and interpretation of various musical styles, including classical, blues, jazz, popular, and world music. (3H,3C)
-
-1124: LIVING A MUSICAL LIFE Embrace a wide variety of music and ways to make music. Learn about the health benefits of lifelong music-making. Units include regional, national, and international traditions in historical, political, and cultural contexts. No prior musical training required. (3H,3C)
-
-2025-2026: EUROPEAN-AMERICAN MUSIC THEORY Fundamental elements of music and conventions of genre and style in a global context. 2025: pitch & harmony, rhythm & meter, timbre, texture, and movement. Emphasis on rote learning of pitch notation, intervals, key signatures, chords vs non-chord tones, and pitch collections. Methods to analyze harmony, phrase structure, and meter. Develop vocabulary for timbre and texture. Basic skills of score reading and transposition. 2026: form, as well as more complex harmonic and rhythmic processes, such as harmonic rhythm, syntax and metric dissonance. Increase complexity of score reading to include larger ensembles. In-depth study of genre, considering elements of harmony, rhythm & meter, and form in European and North-American classical, jazz, and popular musics. (3H,3C)
-
-2045-2046: SIGHTSINGING LABORATORY Study and practice of techniques involved in the sight reading and sightsinging of printed music. Majors and minors only. Co: 2025 for 2045; 2026 for 2046. (3L,1C)
-
-2054: INTRODUCTION TO MUSIC TECHNOLOGY History, theory, and applications of music technology. Techniques for notating music and for recording and editing audio, using computer software and digital audio equipment. Consent Required. Design lab. (3L,2C)
-
-2055-2056: AUDIO TECHNOLOGY FOR MUSIC Develops basic understanding of audio technology for musical applications, focusing on todays digital audio recording and editing technologies including microphone use, live recording, and studio session recording. Develops critical listening skills through lab experimentation and recording. Pre: 2054 and permission of instructor required. Pre: 2054 for 2055; 2055 for 2056. (3H,3C)
-
-2065-2066: MUSIC COMPOSITION Organizing the basic elements of music: pitch, rhythm, timbre, articulation, and dynamics. Composing pieces for solo instruments and duos. Preparing scores and parts, for performances and recordings of the compositions. Knowledge of basic music theory required. Consent Required. (2H,2C)
-
-2115,2116: SURVEY OF WESTERN MUSIC Survey and study of the historical evolution of Western art music. MUS 2115: classical music from Antiquity into the Classical era. MUS 2116: classical and other music from the Romantic era through the 20th century to music of today. Investigation of the materials of music. Exploration of music as it both reflects and impacts history, including historical considerations of gender, race, culture, and other extramusical factors. Relevance of historical and contemporary music to our society today. (3H,3C)
-
-2124 (APS 2124): MUSIC TRADITIONS IN APPALACHIA Survey and study of music traditions in Appalachia. Investigation of the formal elements of this music, including instruments and musical terms and forms. Exploration of style as a reflection of many cultural influences. Study of the impact and development of these traditions in contemporary musical practices. (3H,3C)
-
-2134: DISABILITY CULTURE & THE ARTS Disability as an identity, community, and culture through a study of music and the arts. Overview of the disability rights and disability justice movements in the United States, as told through music, film, literature, and performance art. Analyze creative works, confront obstacles to inclusion, and discover disability cultural values. No previous musical training required. (3H,3C)
-
-2214: CLASS APPLIED PIANO Group piano lessons for beginners or for students at an early stage of keyboard development. May be repeated for 1 credit. Consent required. (3L,1C)
-
-2224: CLASS APPLIED VOICE Group voice lessons for beginners or for students at an early stage of vocal development. May be repeated for 1 credit. Consent required. (3L,1C)
-
-2234: CLASS APPLIED STRINGS Group string lessons for beginners or for students at an early stage of string development. May be repeated for 1 credit. Consent required. (3L,1C)
-
-2244: CLASS APPLIED WOODWINDS Group woodwind lessons for beginners or for students at an early stage of woodwind development. May be repeated for 1 credit. Consent required. (3L,1C)
-
-2254: CLASS APPLIED BRASS Group brass lessons for beginners or for students at an early stage of brass development. May be repeated for 1 credit. Consent required. (3L,1C)
-
-2264: CLASS APPLIED PERCUSSION Group percussion lessons for beginners or for students at an early stage of development. May be repeated for 1 credit. Consent required. (3L,1C)
-
-2274: MUSIC EDUCATION LAB ENSEMBLE Music education laboratory ensemble. Performance techniques, teaching methods, management procedures, materials and literature for school music ensembles. May be repeated for credit. (1L,1C)
-
-2284: PIANO ACCOMPANYING Examine and practice the skills necessary for successful piano accompanying. Develop keyboard skills such as sightreading, transposition, choral score reading, and harmonization. Learn principles of accompanying vocal repertoire, instrumental repertoire, including large ensemble repertoire; adapt orchestral reductions for piano. Instructor consent required. (2H,2C)
-
-2314: WOODWIND TECHNIQUES I FLUTE, CLARINET, SAXOPHONE Instruction in basic performing skills and practices for woodwind instruments (flute, clarinets, saxophone). Study of pedagogy for woodwind instruction in K-12 music education settings. Survey of repertoire, resources, and materials for use in woodwind instruction. (3L,1C)
-
-2324: WOODWIND TECHNIQUES II OBOE AND BASSOON Instruction in basic performing skills and practices for woodwind instruments (oboe, bassoon). Study of pedagogy for woodwind instruction in K-12 music education settings. Survey of repertoire, resources, and materials for use in woodwind instruction. (3L,1C)
-
-2334: HIGH BRASS TECHNIQUES Instruction in basic performing skills and practices for high brass instruments (trumpet and horn). Study of pedagogy for teaching brass in K-12 music education settings. Survey of repertoire, resources, and materials for use in brass instruction. (3L,1C)
-
-2344: LOW BRASS TECHNIQUES Instruction in basic performing skills and practices for low brass instruments (trombone, euphonium, and tuba). Study of pedagogy for teaching brass in K-12 music education settings. Survey of repertoire, resources, and materials for use in brass instruction. (3L,1C)
-
-2364: INTRODUCTION TO MUSIC EDUCATION Principles and practices fundamental to music learning and teaching. Philosophical bases for teaching music. Major educational learning theories (e.g., behaviorism, cognitivism, social constructivism, multiple intelligences, spiral learning theory, Bloom s taxonomy, etc.). Pedagogical approaches, culturally responsive teaching, and technology integration in the music classroom. Field observation for real world public-school music instruction. (2H,2C)
-
-2514: INDIVIDUAL APPLIED VOICE Individual instruction in voice. May be repeated. Consent and audition required. Variable credit course.
-
-2515,2516: VOCAL DICTION An introduction to principles of vocal diction for singing using the International Phonetic Alphabet and standard foreign-language pronunciation techniques. Two semesters. Fall semester: Italian, Latin, and English. Spring semester: French and German. One credit hour. Pre: 2514 or 4514. (1L,1C)
-
-2524: INDIVIDUAL APPLIED KEYBOARD Individual instruction in keyboard. May be repeated. Consent and audition required. Variable credit course.
-
-2534: INDIVIDUAL APPLIED VIOLIN Individual instruction in violin. May be repeated. Consent and audition required. Variable credit course.
-
-2544: INDIVIDUAL APPLIED VIOLA Individual instruction in viola. May be repeated. Consent and audition required. Variable credit course.
-
-2554: INDIVIDUAL APPLIED CELLO Individual instruction in cello. May be repeated. Consent and audition required. Variable credit course.
-
-2564: INDIVIDUAL APPLIED BASS Individual instruction in bass. May be repeated. Consent and audition required. Variable credit course.
-
-2574: INDIVIDUAL APPLIED FLUTE Individual instruction in flute. May be repeated. Consent and audition required. Variable credit course.
-
-2584: INDIVIDUAL APPLIED OBOE Individual instruction in oboe. May be repeated. Consent and audition required. Variable credit course.
-
-2594: INDIVIDUAL APPLIED CLARINET Individual instruction in clarinet. May be repeated. Consent and audition required. Variable credit course.
-
-2604 (TA 2604): INTRODUCTION TO ARTS MARKETING An introduction to the theories and practice of marketing and building community engagement as applied to arts activities and professional not-for-profit arts organizations, through a survey of standard marketing approaches, examination of current practices in the field and direct hands-on experience. (3H,3C)
-
-2614: INDIVIDUAL APPLIED SAXOPHONE Individual instruction in saxophone. May be repeated. Consent and audition required. Variable credit course.
-
-2624: INDIVIDUAL APPLIED BASSOON Individual instruction in bassoon. May be repeated. Consent and audition required. Variable credit course.
-
-2634: INDIVIDUAL APPLIED HORN Individual instruction in horn. May be repeated. Consent and audition required. Variable credit course.
-
-2644: INDIVIDUAL APPLIED TRUMPET Individual instruction in trumpet. May be repeated. Consent and audition required. Variable credit course.
-
-2654: INDIVIDUAL APPLIED TROMBONE Individual instruction in trombone. May be repeated. Consent and audition required. Variable credit course.
-
-2664: INDIVIDUAL APPLIED BARITONE Individual instruction in baritone. May be repeated. Consent and audition required. Variable credit course.
-
-2674: INDIVIDUAL APPLIED TUBA Individual instruction in tuba. May be repeated. Consent and audition required. Variable credit course.
-
-2684: INDIVIDUAL APPLIED PERCUSSION Individual instruction in percussion. May be repeated. Consent and audition required. Variable credit course.
-
-2714: INDIVIDUAL APPLIED HISTORICAL WIND INSTRUMENTS Individual instruction in historical wind instruments. May be repeated. Consent and audition required. Variable credit course.
-
-2724: INDIVIDUAL APPLIED HISTORICAL STRING INSTRUMENTS Individual instruction in historical string instruments. May be repeated. Consent and audition required. Variable credit course.
-
-2734: INDIVIDUAL APPLIED COMPOSITION Individual instruction in composition. May be repeated. Consent and audition required. Variable credit course.
-
-2754: INDIVIDUAL APPLIED RECORDING Individual instruction through directed experiential learning of music recording and production. Integration of critical listening, acoustics, audio recording, and signal processing with music theory and performance. An emphasis on hands-on exploratory research in the use of instruments, acoustics, and microphone techniques combined with traditional methods and emerging technologies to capture and produce recordings of musical performances and works in a natural and effective manner. Permission required. May be repeated for a maximum of 8 hours. Variable credit course. Pre: 2055.
-
-2815-2816: JAZZ IMPROVISATION Fundamental principles of jazz improvisation. Topics include interval relationships, chord identification, modes and modality, blues and ii-V-I chord progressions. Pre: Permission of instructor required. (2H,2C)
-
-2974: INDEPENDENT STUDY Variable credit course.
-
-2974H: INDEPENDENT STUDY Variable credit course.
+2014: DATA MATTER This course develops fundamental analytical and programming skills to complete the analytic pipeline , including specifying research questions, selecting/collecting data ethically and responsibly, processing and summarizing datasets, and stating findings, while considering all assumptions made. Students will identify vulnerabilities in analyses, including sources of bias and ethical implications. Some programming skills recommended, but not required. Some prior use of data recommended, but not required. Pre: MATH 1014. (3H,3C)
 
 2984: SPECIAL STUDY Variable credit course.
 
-3024: COUNTERPOINT Study of the development and aesthetics of contrapuntal techniques throughout the common practice period. Pre: 2026. (3H,3C)
+2984E: SPECIAL STUDY Variable credit course.
 
-3025-3026: EUROPEAN-AMERICAN MUSIC ANALYSIS Extended compositional techniques in late-nineteenth and twentieth-century music, and analysis of larger works. 3025: chromatic harmony, twentieth-century techniques of pitch organization (e.g., set theory), grouping and displacement dissonance, large-scale musical forms. Analysis complemented by model composition and performance to demonstrate mastery of theoretical concepts and stylistic competency. 3026: synthesis of analytical techniques while navigating musical ambiguity in complete works of various sizes (miniatures to multi-part). Analytical observations connected to expressive or narrative meaning in musics from various styles and genres. Refine ability to write about music through research project. Pre: 2026 for 3025; 3025 for 3026. (3H,3C)
+2994: UNDERGRADUATE RESEARCH Variable credit course.
 
-3034: FORM AND ANALYSIS IN THE COMMON-PRACTICE PERIOD Domains of rhythm and meter, harmony, and cadence as related to musical form. Score-based and aural analysis of formal functions of common theme-types and large-scale forms in selected works from the mid-eighteenth through nineteenth centuries using William Caplin s theory. Identification of deviations from stylistic norms. Analysis complemented by model composition to demonstrate mastery of theoretical concepts and stylistic competency. Pre: 3026. (3H,3C)
+3605-3606: MATHEMATICAL MODELING: METHODS AND TOOLS 3605: Mathematical modeling with ordinary differential equations and difference equations. Numerical solution and analysis of ordinary differential equations and difference equations. Stochastic modeling, and numerical solution of stochastic differential equations. 3606: Concepts and techniques from numerical linear algebra, including iterative methods for solving linear systems and least squares problems, and numerical approaches for solving eigenvalue problems. Ill-posed inverse problems such as parameter estimation, and numerical methods for computing solutions to inverse problems. Numerical optimization. Emphasis on large-scale problems. Pre: (CS 1114 or CS 1064 or MATH 3054), (MATH 2114 or MATH 2114H or MATH 2405H), (MAT H 2204 or MATH 2204H or MATH 2406H or CMDA 2006), (MATH 2214 or MATH 2214H or MATH 24 06H or CMDA 2006) for 3605; 3605 for 3606. (3H,3C)
 
-3035-3036: ADVANCED CLASS PIANO Develop keyboard skills such as sightreading, harmonization, transposition, learn all scales/arpeggios and important keyboard progressions. A grade of C or better required in prerequisite. Pre: 2214 for 3035; 3035 for 3036. (3L,1C)
+3634 (CS 3634): COMPUTER SCIENCE FOUNDATIONS FOR COMPUTATIONAL MODELING & DATA ANALYT ICS Survey of computer science concepts and tools that enable computational science and data analytics. Data structure design and implementation. Analysis of data structure and algorithm performance. Introduction to high-performance computer architectures and parallel computation. Basic operating systems concepts that influence the performance of large-scale computational modeling and data analytics. Software development and software tools for computational modeling. Not for CS major credit. Pre: CS 2114. (3H,3C)
 
-3044: ORCHESTRATION & ANALYSIS An introduction to the craft of scoring and arranging of music for full orchestra. Analysis of scores, small projects and a full orchestration project. Pre: 3034. (3H,3C)
+3654 (CS 3654) (STAT 3654): INTRODUCTORY DATA ANALYTICS & VISUALIZATION Basic principles and techniques in data analytics; methods for the collection of, storing, accessing, and manipulating standard-size and large datasets; data visualization; and identifying sources of bias. Pre: (CS 1114 or CS 1044 or CS 1054 or CS 1064), (MATH 2224 or MATH 2224H or MATH 220 4 or MATH 2204H or MATH 2406H or CMDA 2005), (STAT 3006 or STAT 4105 or STAT 4705 or STAT 4714 or CMDA 2006). (3H,3C)
 
-3045-3046: ADVANCED EAR TRAINING 3045: Hearing chromatic chord function in melodic and harmonic contexts. Sight-singing chromatic melodies and performing chromatic progressions. Aurally recognizing musical form (binary, ternary, strophic). Discovering markedness in common practice era music and recognizing commonalities with and differences from other music cultures A grade of C or better required in prerequisite. 3046: Hearing chord function in advanced chromatic melodic and harmonic contexts. Sight-singing advanced chromatic melodies and performing highly chromatic progressions. Aurally recognizing musical form (sonata, rondo, other forms). Hypothesizing about evolution of style and articulating intertextual experience. A grade of C or better required in prerequisite. Pre: 2046 for 3045; 3045 for 3046. (3L,1C)
+4314 (ECON 4314): BIG DATA ECONOMICS Applied econometrics dealing with big data. Theoretical, computational, and statistical underpinnings of big data analysis. The use of econometric models and deep machine learning algorithms to analyze the high-dimensional data sets. Implications in research focusing on economic questions that arise from rapid changes in data availability and computational technology. Materials are hands-on tutorials that come with Python codes and real-world data sets. Pre: ECON 3254 or ECON 4304 or CMDA 3654 or STAT 3006. (3H,3C)
 
-3054: INTRODUCTION TO VOCAL/CHORAL ARRANGING Techniques of arranging music for vocal/choral ensembles. Emphasis on transcription from recordings to develop rhythmic, melodic, and harmonic dictation skills. Discussion, transcription, listening, small writing exercises, final project. Pre: 3035, 3036. (3H,3C)
+4604: INTERMEDIATE TOPICS IN MATHEMATICAL MODELING Introduction to partial differential equations, including modeling and classification of partial differential equations. Finite difference and finite elements methods for the numerical solution of partial differential equations including function approximation, interpolation, and quadrature. Numerical solution of nonlinear systems of equations. Uncertainty quantification, prediction. Pre: 3606. (3H,3C)
 
-3055-3056: MUSIC AND MEDIA PRODUCTION Develops advanced knowledge of music production through practical application of music recording and production technologies, including advanced microphone techniques, critical listening, and critical artistic evaluation skills. Individual and group production projects. Hands-on experience with a variety of expressive media technologies including CD and DVD production in a collaborative, inter- disciplinary team approach. Pre: 2056 for 3055; 3055 for 3056. (3H,3C)
+4654 (CS 4654) (STAT 4654): INTERMEDIATE DATA ANALYTICS AND MACHINE LEARNING A technical analytics course. Covers supervised and unsupervised learning strategies, including regression, generalized linear models, regularization, dimension reduction methods, tree-based methods for classification, and clustering. Upper-level analytical methods shown in practice: e.g., advanced naive Bayes and neural networks. Pre: (STAT 3654 or CMDA 3654 or CS 3654), (CMDA 2006 or STAT 3104 or STAT 4106 or STA T 4706). (3H,3C)
 
-3064: DIGITAL SOUND MANIPULATION Study of recording technology and its effects on music. Aesthetics of electronic music. Recording and editing digital sound. Visual programming for live sound synthesis and processing. Acoustic compilers for programmatic sound processing and synthesis. Individual creative applications of tools learned in class. Team-based work on creative projects. (3H,3C)
+4664 (STAT 4664): COMPUTATIONAL INTENSIVE STOCHASTIC MODELING Stochastic modeling methods with an emphasis in computing are taught. Select concepts from the classical and Bayesian paradigms are explored to provide multiple perspectives for how to learn from complex, datasets. There is particular focus on nested, spatial, and time series models. Pre: (STAT 4106 or CMDA 3605), (CS 1114 or CS 1064 or STAT 2005). (3H,3C)
 
-3065-3066: COMPUTER MUSIC AND MULTIMEDIA DESIGN A two-semester study of interactive multimedia composition and performance software as a foundation for creative work and research endeavors. Also provides an in-depth study of digital sound synthesis, algorithmic creation of multimedia content, and the design of audio-visual interactive systems using latest technologies. Must meet pre-requisite or have permission of the instructor Pre: 2054 for 3065; 2054, 3065 for 3066. (3H,3C)
+4864: COMPUTATIONAL MODELING AND DATA ANALYTICS CAPSTONE PROJECT Capstone research project for Computational Modeling and Data Analytics majors. Cultivates skills including reviewing the literature, creative problem solving, teamwork, critical thinking, and oral, written, and visual communications. Quantitative and computational thinking, informed throughout by ethical reasoning. Pre: 3605, 3634 or CS 3634, CMDA 3654 or CS 3654 or STAT 3654. (3H,3C)
 
-3074: CURRENT TRENDS IN MUSIC ANALYSIS Contemporary methods of music analysis. Readings from landmark music theory texts and top music theory journals. Analysis of complementary music. Formulating unique research projects to demonstrate mastery of theoretical frameworks. Pre: 3136, 3146. (3H,3C)
-
-3114: SYMPHONIC LITERATURE Study of representative works of symphonic music from the eighteenth, nineteenth, and twentieth centuries, with corollary readings in the history of musical ideas. Consent required. (3H,3C)
-
-3124: 20TH CENTURY MUSIC LITERATURE An introduction to music in Europe and America since 1945; supplementary study in the aesthetics of contemporary music. Consent required. Pre: 3135, 3136. (3H,3C)
-
-3134: VOCAL MUSIC LITERATURE Covers vocal music of Europe and America, especially music composed the eighteenth century. Examines differences in style and forms of choral and solo-vocal expression characteristic of the Baroque, Classic, Romantic, and Modern eras. Discusses issues of vocal performance practice. Ability to read music required. (3H,3C)
-
-3135-3136: HISTORY AND ANALYSIS OF MUSICAL STYLES The history of Western music from 1100 to the present as an evolution of musical styles. Extensive analysis of the music, stylistic attributes, normative forms, and representative literature of each period. Historical and philosophical background of each period. The study of analytical techniques to improve comprehension and performance. Pre: 2026 for 3135; 2026, 3135 for 3136. Co: 3145 for 3135; 3146 for 3136. (3H,3C)
-
-3144: EARLY MUSIC LITERATURE Covers vocal and instrumental music from the Middle Ages to the eighteenth century. Examines differences in style and forms of expression characteristic especially of Medieval, Renaissance, and early Baroque music. Discusses issues of performance practice. Ability to read music required. (3H,3C)
-
-3145-3146: MUSICAL STYLES LITERACY LABORATORY Aural study of Western music from 1100 to the present as an evolution of musical styles. Extensive listening to the music of each stylistic period. Supervised as well as self-paced study using HyperMedia technology. Automated examinations. Co: 3136, 3135 for 3145. (1L,1C)
-
-3154: PIANO LITERATURE Study of representative works of keyboard repertoire from the 17th century to the works of contemporary composers. Extensive stylistic analysis and discussion of performance practice. Pre: consent required. (3H,3C)
-
-3164: HISTORY OF ELECTRONIC MUSIC Seminal electronic music works in historical context. Electronic music practices of the 20th and 21st centuries. The technologies of electronic music. Analysis of electronic music. Historical origins and trends in electronic music. Connections between experimental and popular electronic music forms. (3H,3C)
-
-3164H: HISTORY OF ELECTRONIC MUSIC Seminal electronic music works in historical context. Electronic music practices of the 20th and 21st centuries. The technologies of electronic music. Analysis of electronic music. Historical origins and trends in electronic music. Connections between experimental and popular electronic music forms. (3H,3C)
-
-3214: TEACHING MUSIC IN THE ELEMENTARY SCHOOL Methods of teaching elementary school music. Emphasis on Kodaly, Orff, and traditional music textbook series approaches to teaching music in elementary schools. Pre: Instructor permission and successful completion of sophomore music continuation exam. Co: 4964. (3H,3C)
-
-3225-3226: CONDUCTING An introduction to the practice and theory of ensemble conducting and leadership. 3225: Basic conducting skills, and choral conducting. 3226: Intermediate conducting skills, and instrumental conducting. Consent required. (3H,3C)
-
-3234: PIANO PEDAGOGY Examination of principles and practice of piano pedagogy. Covers teaching methods, materials and literature for the independent studio teacher. Pre: consent required. (3H,3C)
-
-3244: VOCAL PEDAGOGY Exploration of historical and modern treatises. Implementation of technical methods to build vocal technique. Experimentation with biofeedback in pedagogical context. Practical application of pedagogical methods. Pre: Successful completion of continuation exam. (3H,3C)
-
-3314: INSTRUMENTAL ENSEMBLE MUSIC Instruction and participation in instrumental music performance ensembles under direction of members of the music faculty. Attention to technical proficiency, stylistic elements, musical design and interpretation in the works to be performed. Addresses ethical obligations and practice in a music ensemble setting. May be repeated for a combined maximum of 8 hours. Consent and audition required. (3L,1C)
-
-3414: CHORAL ENSEMBLE MUSIC Instruction and participation in choral music performance ensembles under direction of members of the music faculty. Attention to technical proficiency, stylistic elements, musical design and interpretation in the works to be performed. Addresses ethical obligations and practice in a music ensemble setting. May be repeated for a combined maximum of 8 hours. Consent and audition required. (3L,1C)
-
-3814: JAZZ HISTORY A survey and analysis of jazz music, including traditional jazz, big band, bebop, rhythm and blues, free jazz/avant garde, fusion, and hip-hop. Exploration of historical, social, and cultural forces and trends that influence the creation and interpretation of jazz music. (3H,3C)
-
-3815-3816: ADVANCED JAZZ IMPROVISATION Topics will include in-depth analysis of the great improvisers in multiple genres with a focus on developing professional-level skills. Pre: 2816 for 3815; 3815 for 3816. (2H,2C)
-
-3984: SPECIAL STUDY Variable credit course.
-
-4014: TOPICS IN ADVANCED ELECTROACOUSTIC RESEARCH Rotating advanced research topics in electroacoustic music. Sonification, spatialization, algorithmic music, electronic music instrument design, digital performance ensembles, and advanced computer music composition. Repeatable with different content up to a maximum of 12 credit hours. Pre: 3066, 3164. (3H,3C)
-
-4014H: TOPICS ADV ELECTROACOUSTIC RES Rotating advanced research topics in electroacoustic music. Sonification, spatialization, algorithmic music, electronic music instrument design, digital performance ensembles, and advanced computer music composition. Repeatable with different content up to a maximum of 12 credit hours. Pre: 3066, 3164. (3H,3C)
-
-4055-4056: MUSIC TECHNOLOGY SENIOR SEMINAR Weekly seminars in music technology with group discussion of progress in current student projects, the current state of artistic and business practices in the recording industry, and guest lecturers drawn from the professional world. Pre: 3056. (1H,1C)
-
-4124: SPECIAL TOPICS IN MUSIC HISTORY AND LITERATURE Specific, in depth study of one of several topics in music history and or literature. Pre: 3135, 3136. (3H,3C)
-
-4204: REHEARSAL TECHNIQUES AND MATERIALS Techniques and materials for rehearsing secondary school music performance ensembles. Pre: Instructor permission and successful completion of the sophomore music continuation exam. (3H,3C)
-
-4214: INSTRUMENTAL METHODS: ELEMENTARY Develop skills and practices to direct an elementary instrumental music program in a school setting. Learn practices, procedures, and strategies for leading rehearsals and lessons, developing curriculum, assessing student learning, and administering a school instrumental program. Pre: 2364. (2H,2C)
-
-4234: TOPICS IN MUSIC EDUCATION Study of specialized areas of pedagogy, instruction, administration, and classroom management in music education. Prepares students to lead specialized ensembles and courses in school music contexts. Course can only be taken one time for credit toward degree requirements. Pre: 2364. (2H,2C)
-
-4514: ADVANCED INDIVIDUAL APPLIED VOICE Individual instruction in voice at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2514.
-
-4524: ADVANCED INDIVIDUAL APPLIED KEYBOARD Individual instruction in keyboard at an advanced level. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2524.
-
-4534: ADVANCED INDIVIDUAL APPLIED VIOLIN Individual instruction in violin at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2534.
-
-4544: ADVANCED INDIVIDUAL APPLIED VIOLA Individual instruction in viola at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2544.
-
-4554: ADVANCED INDIVIDUAL APPLIED CELLO Individual instruction in cello at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2554.
-
-4564: ADVANCED INDIVIDUAL APPLIED BASS Individual instruction in bass at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2564.
-
-4574: ADVANCED INDIVIDUAL APPLIED FLUTE Individual instruction in flute at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2574.
-
-4584: ADVANCED INDIVIDUAL APPLIED OBOE Individual instruction in oboe at an advanced level. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2584.
-
-4594: ADVANCED INDIVIDUAL APPLIED CLARINET Individual instruction in clarinet at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2594.
-
-4614: ADVANCED INDIVIDUAL APPLIED SAXOPHONE Individual instruction in saxophone at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2614.
-
-4624: ADVANCED INDIVIDUAL APPLIED BASSOON Individual instruction in bassoon at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2624.
-
-4634: ADVANCED INDIVIDUAL APPLIED HORN Individual instruction in horn at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2634.
-
-4644: ADVANCED INDIVIDUAL APPLIED TRUMPET Individual instruction in trumpet at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2644.
-
-4654: ADVANCED INDIVIDUAL APPLIED TROMBONE Individual instruction in trombone at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2654.
-
-4664: ADVANCED INDIVIDUAL APPLIED BARITONE Individual instruction in baritone at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2664.
-
-4674: ADVANCED INDIVIDUAL APPLIED TUBA Individual instruction in tuba at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2674.
-
-4684: ADVANCED INDIVIDUAL APPLIED PERCUSSION Individual instruction in percussion at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2684.
-
-4714: ADVANCED INDIVIDUAL APPLIED HISTORICAL WIND INSTUMENTS Individual instruction in historical wind instruments at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2714.
-
-4724: ADVANCED INDIVIDUAL APPLIED HISTORICAL STRING INSTRUMENTS Individual instruction in historical string instruments at an advanced level. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2724.
-
-4734: ADVANCED INDIVIDUAL APPLIED COMPOSITION Individual instruction in composition at an advanced level. Majors only. May be repeated. Performance continuation exam required. Variable credit course. Pre: 2734.
-
-4744: ADVANCED INDIVIDUAL APPLIED CONDUCTING Individual instruction in conducting at an advanced level. May be repeated. Consent required. Variable credit course. Pre: 2744.
-
-4754: ADVANCED INDIVIDUAL APPLIED RECORDING Individual instruction through directed experiential learning in music recording and production at an advanced level. Integration of critical listening, acoustics, audio recording, signal processing, audio mixing, and audio mastering with music theory and performance. An emphasis in hands-on exploratory research in the use of instruments, acoustics, microphones, recording, and production techniques combined with traditional methods and emerging technologies to capture and produce recordings in an artistic manner suitable for use in a senior portfolio. Permission required. May be repeated for a maximum of 12 hours. Variable credit course. Pre: 2754.
-
-4764: ADVANCED INDIVIDUAL APPLIED ELECTROACOUSTICS Individual instruction and completion of a major project in electroacoustic composition, performance, or research, at an advanced level. Repeatable up to three times for a maximum of 3 credit hours. Pre: 3064, 3066. (1H,1C)
-
-4964: FIELD STUDY Pass/Fail only. Variable credit course.
+4964: FIELD STUDY Variable credit course.
 
 4974: INDEPENDENT STUDY Variable credit course.
-
-4974H: INDEPENDENT STUDY Variable credit course.
 
 4984: SPECIAL STUDY Variable credit course.
 
 4994: UNDERGRADUATE RESEARCH Variable credit course.
-
-4994H: UNDERGRADUATE RESEARCH Variable credit course.
-

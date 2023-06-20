@@ -205,7 +205,7 @@ public class Course
       
       boolean honors = isHonors(numPrelim); //honors
       if(honors)
-         n += "HONORS ";
+         n += " HONORS";
          
       Course c = new Course(prefix, n, number, honors);  
       c.setDesc(d.trim());  
@@ -216,6 +216,31 @@ public class Course
       return c;
    }
    
+   
+   
+   private void splitDescI()
+   {
+      if(desc.contains(":") && desc.indexOf(":") < desc.lastIndexOf(":"))
+      {
+         String unison = "";
+         unison = desc.substring(0, desc.indexOf(":")-4);
+         desc = desc.substring(unison.length(), desc.lastIndexOf(":")-4);
+         desc = unison + desc;
+      }
+   }
+   
+   private void splitDescII()
+   {
+      if(desc.contains(":") && desc.indexOf(":") < desc.lastIndexOf(":"))
+      {
+         String unison = "";
+         unison = desc.substring(0, desc.indexOf(":")-4);
+         desc = desc.substring(desc.lastIndexOf(":"));
+         desc = unison + desc;
+      }
+   }
+   
+  
    public static Course createUnpairedI(String line, String prefix)
    {
       String n = getName(line).trim(); //name
@@ -227,10 +252,11 @@ public class Course
      
       boolean honors = isHonors(numPrelim); //honors
       if(honors)
-         n += "HONORS ";
+         n += " HONORS";
        
       Course c = new Course(prefix, n+" I", number, honors);
       c.setDesc(d.trim());    
+      c.splitDescI();
       c.setCreditString(line); 
       c.setCredits();
       c.setPrereqString(getPrereq(line));
@@ -253,10 +279,11 @@ public class Course
       String d = line.substring(line.indexOf(n)+n.length()); //desc
      
       if(honors) //honors
-         n += "HONORS ";
+         n += " HONORS";
       
       Course c = new Course(prefix, n+" II", number, honors);
       c.setDesc(d.trim()); 
+      c.splitDescII();
       c.setCreditString(line);    
       c.setCredits();
       c.setPrereqString(getPrereq(line));

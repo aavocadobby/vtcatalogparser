@@ -1,5 +1,41 @@
-STS 5024 - Introduction to Science and Technology Studies
-Intellectual and institutional history of the field. Key theories, methods, and domains of study. Relation among perspectives from contributing disciplines, and emerging interdisciplinary trends. Emphasis on both solid grounding through classic texts, and discussion of emergent research areas.
+MATH 5114 - Specialized Topics in Algebra
+Various graduate level topics in algebra such as field theory, non-commutative ring theory, group representation theory, Lie algebras. May be taken for credit more than once with departmental permission.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4124
+Corequisite(s):
+
+MATH 5125 - Abstract Algebra
+Groups, rings and ideals, modules, brief introduction to homological algebra.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4124
+Corequisite(s):
+
+MATH 5126 - Abstract Algebra
+Groups, rings and ideals, modules, brief introduction to homological algebra.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4124, MATH 5125
+Corequisite(s):
+
+MATH 5144 (GEOS 5144) - Inverse Theory and Geoscience Applications
+Overview of inverse theory, utilizing geophysical examples to illustrate the concepts of model construction, parameter estimation, resolution, and non-uniqueness. Emphasis is on the linear problem, concluding with an overview of nonlinear inversion.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 2214, MATH 2224
+Corequisite(s):
+
+MATH 5214 - Topics in Analysis
+Topics in mathematical analysis. Algebraic structures in analysis. Function spaces. Approximation schemes. This course may be repeated for credit, without limit on the number of credits earned, if the topic subtitle is not repeated. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -7,8 +43,80 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5104 (PSCI 5104) (SPIA 5104) - Policy Gateway: Policy and Decision Making in Scientific Domains
-Key concepts in policy making, including policy analysis and decision making in complex social and technical settings. Policy process theories and evaluation tools. Concepts of governance including public values, ethics, and variable impacts across communities. Relationships among public policy decision processes and science, technology, and engineering, including disciplinary norms. Pre: Graduate standing.
+MATH 5225 - Real Analysis
+Basic set theoretic and topological notions, fundamental theorems of measure and integration, differentiation, applications to linear analysis.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4226
+Corequisite(s):
+
+MATH 5226 - Real Analysis
+Basic set theoretic and topological notions, fundamental theorems of measure and integration, differentiation, applications to linear analysis.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4226, MATH 5225
+Corequisite(s):
+
+MATH 5235 - Complex Analysis
+Holomorphic functions, complex integration and residues, series expansions, normal families and the Riemann mapping theorem, entire functions, power series in the unit disk.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 3224 OR MATH 4225
+Corequisite(s):
+
+MATH 5236 - Complex Analysis
+Holomorphic functions, complex integration and residues, series expansions, normal families and the Riemann mapping theorem, entire functions, power series in the unit disk.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 3224 OR MATH 4225, MATH 5235
+Corequisite(s):
+
+MATH 5245 - Ordinary Differential Equations
+Existence theorems, linear theory, stability theory, periodic solutions, Poincare-Bendixon theory, boundary-value problems, functional differential equations.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4225
+Corequisite(s):
+
+MATH 5246 - Ordinary Differential Equations
+Existence theorems, linear theory, stability theory, periodic solutions, Poincare-Bendixon theory, boundary-value problems, functional differential equations.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4225, MATH 5245
+Corequisite(s):
+
+MATH 5254 - Nonlinear Systems
+Dynamics of conservative and nonconservative systems; phase planes; local and global stability; damping mechanisms; self-excited oscillators. Forced oscillations of one-degree-of-freedom systems; primary, secondary, and multiple resonances; period-multiplying bifurcations; strange attractors; chaos. Parametric excitations; Floquet theory; influence of damping and nonlinearity. Multi-degree-of-freedom systems; concepts of internal and external resonances; Hopf bifurcation. Applications to continuous systems; strings, beams, plates, and shells.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): ESM 5754, ESM 5304
+Corequisite(s):
+
+MATH 5344 - Specialized Topics in Topology and Geometry
+Various graduate level topics in topology and geometry. May be taken for credit more than once with department consent.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4324
+Corequisite(s):
+
+MATH 5414 - Topics in Applied Mathematics
+Various graduate level topics in applied mathematics such as discontinuous Galerkin methods for partial differential equations, stochastic differential equations and advanced partial differential equations. May be repeated with different topics and department consent. Pre: Graduate Standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -16,8 +124,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5105 - Contemporary Issues in Science and Technology Studies
-Theoretical and methodological issues addressed in the interdisciplinary social study of contemporary science and technology. 5105: social studies of science; 5106: social studies of technology.
+MATH 5424 - Numerical Linear Algebra
+Matrix factorizations and iterative algorithms. Stability analysis, accuracy, and problem conditioning. Solving large systems of linear equations, linear least-squares, and eigenvalue problems. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -25,8 +133,26 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5106 - Contemporary Issues in Science and Technology Studies
-Theoretical and methodological issues addressed in the interdisciplinary social study of contemporary science and technology. 5105: social studies of science; 5106: social studies of technology.
+MATH 5425 - Applied Partial Differential Equations
+Partial differential equations of first and second order, hyperbolic equations, elliptic equations and Greens functions, parabolic equations, canonic forms, application to physics and engineering.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4426 OR MATH 4564
+Corequisite(s):
+
+MATH 5426 - Applied Partial Differential Equations
+Partial differential equations of first and second order, hyperbolic equations, elliptic equations and Greens functions, parabolic equations, canonic forms, application to physics and engineering.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4426 OR MATH 4564, MATH 5425
+Corequisite(s):
+
+MATH 5444 - Numerical Methods for Ordinary Differential Equations
+Computational procedures for ordinary differential equations including Runge-Kutta methods, variable-step Runge-Kutta methods, predictor-corrector methods, applications to two-point boundary-value problems and parameter estimation. Error control, relative and absolute stability, methods for stiff equations; with computer assignments. Senior standing in engineering, science, or mathematics, and some programming ability required.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -34,8 +160,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5124 (PSCI 5124) (SPIA 5124) - Decision Making, Reflective Practice, and Engagement in STEM-H Domains
-In-depth case-based exploration of roles of science, technology, engineering, and mathematics in policy-making. Application of theories, concepts and practices for policy decision-making, including stakeholder engagement, human behavior, and organizational development. Critical examination of ethics, and fostering of reflective practice. Implications of big data and modeling in decision-making. Pre: Graduate standing.
+MATH 5454 - Graph Theory
+Graphs, trees, connectivity, Euler tours, matching, independent sets and cliques, planar graphs, directed graphs. Consent required.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -43,8 +169,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5134 (WGS 5124) - Gender, Bodies, & Technology
-Intersections of gender, bodies, and technologies in multiple contexts and across disciplines. Technology in individual lives and the gendered discourses surrounding bodies and technologies. Feminist and queer theories of technoscience and the impact of technologies on gendered bodies. Pre: Graduate Standing.
+MATH 5464 - Combinatorics
+Counting problems, generating functions, recurrence relations, principle of inclusion and exclusion, experimental designs. Consent required.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -52,17 +178,26 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5154 (PSCI 5154) (SPIA 5154) - Science, Technology, and Engineering in Policy Seminar
-Seminar for Science, Technology, and Engineering in Policy (STEP) program students. Presentation of research on the intersections of science, technology, engineering, math, and health (STEM-H), public policy, and ethics. Professional development. Research resources and tools. Project management and funding opportunities. Publishing standards and processes across disciplines. STEM-H and policy practitioner engagement. Multidisciplinary communication. May be repeated up to six times, as seminar and presentation topics will change each semester. Pass/Fail only. Pre: Graduate standing.
-Credit Hour(s): 1
-Lecture Hour(s): 1
+MATH 5465 - Numerical Analysis
+A survey of the construction, analysis, and implementation of numerical algorithms in linear algebra, nonlinear equations and optimization, approximation by polynomials, quadrature, and ordinary differential equations. High-level programming language required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
+Prerequisite(s): MATH 4525
 Corequisite(s):
 
-STS 5205 (HIST 5205) - Main Themes in the History of Science and Technology
-Methods and concepts in the history of science and technology. 5205: research methods, interpretive approaches, and contemporary issues in the history of science; 5206: research methods, interpretive approaches, and contemporary issues in the history of technology.
+MATH 5466 - Numerical Analysis
+A survey of the construction, analysis, and implementation of numerical algorithms in linear algebra, nonlinear equations and optimization, approximation by polynomials, quadrature, and ordinary differential equations. High-level programming language required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4525, MATH 5465
+Corequisite(s):
+
+MATH 5474 (CS 5474) - Finite Difference Methods for Partial Differential Equations
+Finite difference methods for initial and boundary value problems for partial differential equations. Consistency, stability, convergence, dispersion, and dissipation. Methods for linear and nonlinear elliptic and parabolic equations, first- and second-order hyperbolic equations, and nonlinear conservation laws. High-level programming language required.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -70,8 +205,35 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5206 (HIST 5206) - Main Themes in the History of Science and Technology
-Methods and concepts in the history of science and technology. 5205: research methods, interpretive approaches, and contemporary issues in the history of science; 5206: research methods, interpretive approaches, and contemporary issues in the history of technology.
+MATH 5484 (CS 5484) - Finite Element Methods for Partial Differential Equations
+Weak formulations of boundary-value problems for elliptic partial differential equations. Finite element spaces. Approximation theory for finite element spaces. Error estimates. Effects of numerical integration and curved boundaries. Nonconforming methods. Concrete examples of the application of the finite element method. Efficient implementation strategies. Time dependent problems. High-level programming language required.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 3414, MATH 4525
+Corequisite(s):
+
+MATH 5485 (CS 5485) - Numerical Analysis and Software
+Presentation and analysis of numerical methods for solving common mathematical and physical problems. Methods of solving large sparse linear systems of equations, algebraic eigenvalue problems, and linear least squares problems. Numerical algorithms for solving constrained and unconstrained optimization problems. Numerical solutions of nonlinear algebraic systems. Convergence, error analysis. Hardware and software influences. Efficiency, accuracy, and reliability of software. Robust computer codes.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4445, MATH 4446
+Corequisite(s):
+
+MATH 5486 (CS 5486) - Numerical Analysis and Software
+Presentation and analysis of numerical methods for solving common mathematical and physical problems. Methods of solving large sparse linear systems of equations, algebraic eigenvalue problems, and linear least squares problems. Numerical algorithms for solving constrained and unconstrained optimization problems. Numerical solutions of nonlinear algebraic systems. Convergence, error analysis. Hardware and software influences. Efficiency, accuracy, and reliability of software. Robust computer codes.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4445, MATH 4446
+Corequisite(s):
+
+MATH 5514 - Topics in Mathematical Biology
+Various graduate level topics in mathematics as they apply to biological problems. Representation of biological phenomena as mathematical models, and derivation of model features with analytical techniques and numerical simulation. Depending on the semester, may cover the following topics: applied stochastic modeling and Markov chains; multi-scale dynamics of infectious disease; or network systems. May be repeated 2 times with different content for a maximum of 9 credits. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -79,8 +241,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5284 (NSEG 5284) (SPIA 5284) - Nuclear Nonproliferation, Safeguards, and Security
-Technical essentials, policy analysis, theoretical perspectives of nuclear energy and nuclear nonproliferation. Fundamentals of the nuclear fuel cycle, management of international safeguards, threat of nuclear terrorism, and challenges for global nuclear industry. Pre: Graduate standing.
+MATH 5515 (GBCB 5515) - Mathematical Methods for Modeling and Simulation of Biological Systems
+Introduction to mathematical techniques for modeling and simulation, parameter identification and analysis of biological systems. Emphasis on both theoretical and practical issues and methods of computation, with concrete applications. Suitable for students from the mathematical and life sciences who have a basic foundation in multivariate calculus and ordinary differential equations. 5515: Continuous models and methods. 5516: Discrete models and methods.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -88,17 +250,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5305 - Main Themes in the Philosophy of Modern Science and Technology
-Problems, literature, and schools in the philosophy of science and technology. 5305: explanation and confirmation; 5306: theory change.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s): PHIL 3505
-Corequisite(s):
-
-STS 5306 (PHIL 5306) - Main Themes in the Philosophy of Modern Science and Technology
-Problems, literature, and schools in the philosophy of science and technology. 5305: explanation and confirmation; 5306: theory change.
+MATH 5516 - Mathematical Methods for Modeling and Simulation of Biological Systems
+Introduction to mathematical techniques for modeling and simulation, parameter identification and analysis of biological systems. Emphasis on both theoretical and practical issues and methods of computation, with concrete applications. Suitable for students from the mathematical and life sciences who have a basic foundation in multivariate calculus and ordinary differential equations. 5515: Continuous models and methods. 5516: Discrete models and methods.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -106,8 +259,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5364 (GIA 5364) (PSCI 5364) - Public Ecology
-Examines policy developments and practices that move beyond the conceptual divisions and policy operations begun during the 1970s, which largely divided the more natural science- based environmental sciences from social science-based environmental based studies. Mixes the insights of life science, physical science, social science, applied humanities, and public policy into a cohesive conceptual and operational approach to environmental protection in the 21st century. Graduate standing.
+MATH 5524 - Matrix Theory
+Determinants, rank, linear systems, eigenvalues, diagonalization, Gram-Schmidt process, Hermitian and unitary matrices, Jordan canonical form, variational principles, perturbation theory, Courant minimax theorem, Weyls inequality, numerical methods for solving linear systems and for determining eigenvalues. science or engineering.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -115,8 +268,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5404 - Science in Modern America
-History of science connected to social and policy issues in modern America. Mutual influence between science and cultural factors such as race and gender, military and corporate funding, scientific communities and professionalization, and federal science policy. Diverse theoretical frameworks and research methods for writing about history of science. Pre: Graduate standing.
+MATH 5544 - Mathematical Optimization for Machine Learning
+Formulation and analyses of mathematical problems to minimize or maximize functions. Convex, nonlinear, constrained, largescale, and stochastic optimization problems. Gradient based and higher order optimization methods. Convergence analysis and implementation of optimization strategies. Accuracy and performance trade-offs. Introduction to neural networks, backpropagation, supervised learning, and machine and deep learning strategies, including stochastic approximation and sample average approximation. Regression and classification applications. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -124,8 +277,26 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5424 - Topics in Science and Technology Studies
-Variable topics in science and technology studies such as role of values in science and technology, risk assessment, and past and present relations of religion to science and technology. May be repeated to a maximum of 6 hours.
+MATH 5545 - Calculus of Variations and Optimal Control Theory
+Unified course in the calculus of variations and control theory including multiple integral problems and distributed parameter control systems. Necessary conditions, sufficient conditions, nonclassical problems, optimal control, distributed parameter control, computational methods.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4525, MATH 4425
+Corequisite(s):
+
+MATH 5546 - Calculus of Variations and Optimal Control Theory
+Unified course in the calculus of variations and control theory including multiple integral problems and distributed parameter control systems. Necessary conditions, sufficient conditions, nonclassical problems, optimal control, distributed parameter control, computational methods.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s): MATH 4525, MATH 4425, MATH 5545
+Corequisite(s):
+
+MATH 5554 - Approximation Theory
+Algorithms for calculating the best approximations in the uniform norm and in inner-product spaces. Weierstrass and Jackson theorems. Lagrange and Hermite interpolation. Function approximation by piecewise and rational polynomial approximation. Approximation of linear functionals including numerical differentiation and numerical integration rules. Applications include numerical methods for approximating solutions to differential equations and linear systems theory. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -133,8 +304,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5444 - Issues in Bioethics
-Identification and analysis of ethical issues arising in basic and applied biological, medical, environmental, ecological, and energy studies.
+MATH 5564 - Model Reduction: System-Theoretic Methods
+Transfer functions, reachability and observability, Gramians. Balanced truncation. Interpolatory model reduction and optimal interpolation. Data-driven modeling. Parametric Systems. Balanced truncation for nonlinear systems. Interpolatory model reduction for nonlinear systems. Pre: Graduate standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -142,8 +313,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5514 - Research Designs and Practices for Sts
-Examines research designs and practices that uncover historical relationships between knowledge contents and social dimensions of science, technology, and medicine. Includes archival research, archaeology of instruments and physical spaces, interviewing for knowledge content, logical and conceptual analysis, participant observation, questionnaires, and proposal preparation.
+MATH 5614 - Topics for In-Service Teachers
+Various topics in mathematics and its applications to real-life problems, presented in light of contemporary instructional technologies and standards of learning. The course is designed for in-service mathematics teachers at the high and middle school levels and is suitable for recertification credit. The specific topics covered will be tailored to the location and delivery mode of the course, as well as evolving standards and methodology. May be repeated for credit with different content. May not be applied toward graduate degrees in mathematics. In-service status required.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -151,8 +322,8 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5614 (PAPA 5614) - Introduction to Science and Technology Policy
-Strategies for science and technology policy; science education; scientific and technical information for societal uses; government and public policy; resource allocation; economy and global exchanges of science and technology; approaches to policy evaluation.
+MATH 5624 - Research on Mathematical Knowing and Learning
+Methods for conducting scientific research on how K-12 students learn mathematics. Students will develop skills for designing and conducting such research across various domains of mathematical learning, such as whole numbers, fractions, algebra, and calculus. Pre: Graduate Standing.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
@@ -160,15 +331,24 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5974 - Independent Study
+MATH 5634 - Research in Undergraduate Mathematics Education
+Research on undergraduate mathematics education. Student understanding of particular concepts from undergraduate math courses, from calculus to abstract algebra. Student engagement in mathematical practices, such as proving and defining, that transcend particular course concepts. Pre: Graduate Standing.
+Credit Hour(s): 3
+Lecture Hour(s): 3
+Level: Graduate
+Instruction Type(s): Lecture, Online Lecture
+Prerequisite(s):
+Corequisite(s):
+
+MATH 5974 - Independent Study
 Credit Hour(s): 1 TO 19
 Lecture Hour(s): 1 TO 19
 Level: Graduate
-Instruction Type(s): Independent Study, VI
+Instruction Type(s): Independent Study
 Prerequisite(s):
 Corequisite(s):
 
-STS 5984 - Special Study
+MATH 5984 - Special Study
 Credit Hour(s): 1 TO 19
 Lecture Hour(s): 1 TO 19
 Level: Graduate
@@ -176,7 +356,7 @@ Instruction Type(s): Lecture, Online Lecture
 Prerequisite(s):
 Corequisite(s):
 
-STS 5994 - Research and Thesis
+MATH 5994 - Research and Thesis
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate
@@ -184,78 +364,34 @@ Instruction Type(s): Research
 Prerequisite(s):
 Corequisite(s):
 
-STS 6234 - Advanced Topics in the History of Modern Science, Technology and Medicine
-Variable topics in history of science, technology, and medicine after 1800, such as the atomic age; space science; science, technology, and institutions; scientific and technological medicine; and environmental history. May be repeated with a different topic for a maximum of 6 credits.
+MATH 6255 - Functional Analysis
+Banach spaces, Hilbert spaces, linear operators on Banach and Hilbert spaces, Riesz Representation Theorems, spectral theory, topological vector spaces, other topics in functional analysis.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
+Prerequisite(s): MATH 5226
 Corequisite(s):
 
-STS 6244 - History, Culture, and Politics of the Internet
-Explores a variety of social factors, past and present, that have affected the way we make, use, and think about computers and the Internet. Begins with the origins of the Internet and the people who shape this technology, from military strategists to hackers. Examines the ways diverse groups interact and build communities online and how cultural norms about race and gender shape the ways we participate in the world of computing. Graduate standing required.
+MATH 6256 - Functional Analysis
+Banach spaces, Hilbert spaces, linear operators on Banach and Hilbert spaces, Riesz Representation Theorems, spectral theory, topological vector spaces, other topics in functional analysis.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
+Prerequisite(s): MATH 5226, MATH 6255
 Corequisite(s):
 
-STS 6534 - Advanced Topics in Cultural Studies of STEM-H
-Variable topics in cultural studies of science, technology, engineering, mathematics, and health. May include theories of language and science, popular and public knowledges, cultural performances around science and technology, conceptions of health and the body, cultures of quantification, technology and identity, hierarchies and diversity in science and technology, and cross-cultural comparisons. May be repeated with different content up to a maximum of 12 credits.
+MATH 6324 - Topics in Topology and Geometry
+Advanced topics in topology and geometry. May be taken for credit more than once with department consent, with different content.
 Credit Hour(s): 3
 Lecture Hour(s): 3
 Level: Graduate
 Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
+Prerequisite(s): MATH 5344
 Corequisite(s):
 
-STS 6564 (SPIA 6564) - Risk in Contemporary Culture
-Conceptual perspectives on social and cultural studies of risk. Qualitative theories and tools for analyzing a wide range of risks in contemporary culture. Definitions of risk as opposed to concepts such as danger, hazard, and uncertainty. Perception of risk and selective bias in risk perception. Efficiency, objectivity, and morality as factors influencing risk assessment and risk management, and affective definitions of safety and reliability. Role of expertise, trust, and communication in risk regulation. Democratic policy instruments to facilitate stable, legitimate decisions about what risks to take or avoid in contemporary societies. Pre: Graduate Standing.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-STS 6614 - Advanced Topics in Technology Studies
-Variable topics in technology studies, including development and structure of knowledge in technology and engineering, social construction of technology, knowledge and power in technology, gender and technology, engineering in society, human/nonhuman relations in technology. May be repeated with a different topic for a maximum of 6 credits.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-STS 6664 - Advanced Topics in Science and Technology Policy
-Variable topics in science and technology policy. Includes advanced study of science, technology, and economy; science, technology, and power; strategies for research and development policy --public and private sector; transfer of technology; technological forecasting; government regulation and responses; science policy assumptions and challenges, specialist knowledge and expertise; state and academic knowledge production; issues of race, class, gender, and national identity in policy work. May be repeated with a different topic for a maximum of 6 credits.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-STS 6674 - Advanced Topics in Alternate Perspectives On Science, Technology & Medicine
-Variable topics in alternate perspectives. Includes science from scientists perspectives, indigenous knowledge forms, alternative medicine, New Age science, cyborg theorizing, heterodox perspectives. May be repeated with a different topic for a maximum of 6 credits.
-Credit Hour(s): 3
-Lecture Hour(s): 3
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-STS 6984 - Special Study
-Credit Hour(s): 1 TO 19
-Lecture Hour(s): 1 TO 19
-Level: Graduate
-Instruction Type(s): Lecture, Online Lecture
-Prerequisite(s):
-Corequisite(s):
-
-STS 7994 - Research and Dissertation
+MATH 7994 - Research and Dissertation
 Credit Hour(s): 1 TO 19
 Lecture Hour(s):
 Level: Graduate
