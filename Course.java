@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Course
+public class Course implements Comparable<Course>
 {
    private String dept;
    private String name;
@@ -36,6 +36,11 @@ public class Course
    
    
    //getters (accessor)
+   
+   public String getDept()
+   {
+      return dept;
+   }
    public String getName()
    {
       return name;
@@ -290,6 +295,11 @@ public class Course
     
       return c;
    }   
+   
+   @Override public int compareTo(Course c)
+   {
+      return number-c.getNumber();
+   }
    
    public String toString()
    {

@@ -20,12 +20,9 @@ public class Department implements Comparable<Department>
    {
       return prefix;
    }
-   public Course[] getCourseArray()
+   public ArrayList<Course> getCourseArrayList()
    {
-      Course[] c = new Course[list.size()];
-      for(int x = 0; x < c.length; x++)
-         c[x] = list.get(x);
-      return c;
+      return list;
    }
    public boolean containsNumber(int n)
    {

@@ -71,7 +71,6 @@ public class CatalogDriver
       }
    }
   
-  
    private static class GradListener implements ActionListener
    {
       public void actionPerformed(ActionEvent e)
@@ -79,7 +78,6 @@ public class CatalogDriver
          System.out.println("not yet implemented");
       }
    }
-  
   
    private static class AllListener implements ActionListener
    {

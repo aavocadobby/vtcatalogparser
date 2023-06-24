@@ -21,9 +21,9 @@ public class CatalogPanel extends JPanel
    private JButton loadDescButton, prereqButton; //button to load prereqs + course descs
  
    private JButton pinButton; //button to pin courses to a new window
-   int pinned;
-   Course[] pinArray;
-   boolean[] isPinned;
+   private int pinned;
+   private Course[] pinArray;
+   private boolean[] isPinned;
  
    private JFrame descFrame, prereqFrame; //frames for new windows
    private JPanel descPanel, prereqPanelWindow; //panel in descFrame to display course descs + prereqs
@@ -179,9 +179,9 @@ public class CatalogPanel extends JPanel
       
       titleModel = new DefaultListModel();
       
-      Course[] deptCourses = depts.get(deptIndex).getCourseArray();
-      for(int x = 0; x < deptCourses.length; x++)
-         titleModel.addElement(deptCourses[x]);
+      ArrayList<Course> deptCourses = depts.get(deptIndex).getCourseArrayList();
+      for(int x = 0; x < deptCourses.size(); x++)
+         titleModel.addElement(deptCourses.get(x));
    
       titles = new JList();
       titles.setModel(titleModel);
@@ -306,13 +306,7 @@ public class CatalogPanel extends JPanel
       prereqs.setWrapStyleWord(true);
       prereqs.setEditable(false);
       
-   
-      prereqPanelWindow.add(prereqs);
-      
-      
-      
-      
-     
+      prereqPanelWindow.add(prereqs);  
    }
  
    private int findIndex(String dept)
@@ -334,8 +328,18 @@ public class CatalogPanel extends JPanel
       //if number and keyword searches are empty
       if(!hasNumber && !hasKeyword)
       {
-         Course[] deptCourses = depts.get(deptIndex).getCourseArray();
-         titles.setListData(deptCourses);
+         ArrayList<Course> deptCourses = depts.get(deptIndex).getCourseArrayList();
+         titleModel.clear();
+         for(int v = 0; v < deptCourses.size(); v++)
+            titleModel.addElement(deptCourses.get(v));
+         
+         for(int x = 0; x < pinned; x++)
+         { 
+            if(titleModel.contains(pinArray[x]))
+               titleModel.removeElement(pinArray[x]);
+            titleModel.add(x, pinArray[x]);
+         }
+         titles.setModel(titleModel);
       }
    
       if(hasNumber && !hasKeyword)
@@ -356,6 +360,8 @@ public class CatalogPanel extends JPanel
       int n = 0;
       
       titleModel.clear();
+      for(int x = 0; x < pinned; x++)
+         titleModel.add(x, pinArray[x]);
       try
       {
          n = Integer.parseInt(numField.getText());
@@ -377,7 +383,10 @@ public class CatalogPanel extends JPanel
          JOptionPane.showMessageDialog(null, "Entered dialog was not a number.\n"+
                "Please enter a valid number."); 
       }
-    
+      
+      for(int y = 0; y < pinned; y++)
+         if(titleModel.lastIndexOf(pinArray[y]) != y)
+            titleModel.remove(titleModel.lastIndexOf(pinArray[y]));
       
       return found;
    }
@@ -387,14 +396,16 @@ public class CatalogPanel extends JPanel
       String keyword = keyField.getText();
       titleModel.clear();
       
-      Course[] c = depts.get(deptIndex).getCourseArray();
+      ArrayList<Course> c = depts.get(deptIndex).getCourseArrayList();
+      for(int x = 0; x < pinned; x++)
+         titleModel.add(x, pinArray[x]);
          
       boolean found = false;
          
-      for(int x = 0; x < c.length; x++)
-         if(c[x].getName().toLowerCase().contains(keyword.toLowerCase()))
+      for(int x = 0; x < c.size(); x++)
+         if(c.get(x).getName().toLowerCase().contains(keyword.toLowerCase()))
          {
-            titleModel.addElement(c[x]);
+            titleModel.addElement(c.get(x));
             found = true;
          }
       
@@ -406,36 +417,81 @@ public class CatalogPanel extends JPanel
             
       return found;
    }
-   
 
 
-   private void reloadPins()
+   private void addPin()
    { 
+      System.out.println("pinning");
+      pinArray[pinned] = (Course)titles.getSelectedValue();
+      isPinned[pinned] = true;
+      
+      pinned++;
+      System.out.println("reloading");
+      for(int x = 0; x < pinned; x++)
+      {
+         titleModel.removeElement(pinArray[x]);
+         titleModel.add(x, pinArray[x]);
+      }
+      titles.setModel(titleModel);
+   }
    
-   
+   private void removePin()
+   {
+      pinned--;
+      isPinned[pinned] = false;
+     
+      System.out.println("removing");
+      Course c = (Course)titles.getSelectedValue();
+      int index = titles.getSelectedIndex();
+      
+      System.out.println("shifting");
+      int w;
+      for(w = index; w < pinned+1; w++)
+      {
+         pinArray[w] = pinArray[w+1];
+         titleModel.remove(index);
+      } 
+      System.out.println("removing "+titleModel.get(w+1));
+      //titleModel.remove(w+1);
+      
+      
+      for(int x = pinned; x < titleModel.getSize(); x++)
+      {
+         if(!((Course)titleModel.getElementAt(x)).getDept().equals(c.getDept()))
+            break;
+         if(((Course)(titleModel.getElementAt(x))).compareTo(c) > 0)
+         {
+            titleModel.add(x, c);
+            break;
+         }
+      }
+      
+      titleModel.removeElement(c);
+      
+      for(int y = index; y < pinned; y++)
+         titleModel.add(y, pinArray[y]);
+     
+      System.out.println("element removed");
+      titles.setModel(titleModel);
    }
 
    private class PinCourseListener implements ActionListener
    {
       public void actionPerformed(ActionEvent e)
       {
-         if(pinned >= 5)
-            pinButton.setEnabled(false);
-            
-         if(pinButton.getText().equals("Pin"))
+         System.out.println("pin button clicked");
+        
+         if(pinButton.getText().equals("Unpin"))
+            removePin();   
+         
+         if(pinned >= 5 && pinButton.getText().equals("Pin Course"))
          {
-            if(!pinArray[pinned].equals(titles.getSelectedValue()))
-            {
-               pinArray[pinned] = (Course)titles.getSelectedValue();
-               isPinned[pinned] = true;
-               pinned++;
-               reloadPins();
-            }
+            pinButton.setEnabled(false);
+            return;
          }
             
-         if(pinButton.getText().equals("Unpin"))
-         {}
-         
+         if(pinButton.getText().equals("Pin Course"))
+            addPin();
       }
    }
  
@@ -446,24 +502,30 @@ public class CatalogPanel extends JPanel
          if(titles.getSelectedIndex() == -1)
          {
             System.out.println("out of bounds -1");
+            pinButton.setEnabled(false);
             return;
          }
-         
          
          if( (e.getFirstIndex() >= 0) && (e.getLastIndex() >= 0) )
          {
             int i = titles.getSelectedIndex();
             System.out.println(titles.getSelectedIndex());
-            
             if(i < isPinned.length && isPinned[i])
                pinButton.setText("Unpin");
             else
                pinButton.setText("Pin Course");
-             
             pinButton.setEnabled(true);
          }
          else
             System.out.println("first: "+e.getFirstIndex()+", last: "+e.getLastIndex()+", model size: "+titles.getModel().getSize());
+                        
+         if(pinned >= 5 && pinButton.getText().equals("Pin Course"))
+         {
+            pinButton.setEnabled(false);
+            return;
+         }
+         
+        
         
       }
    }
@@ -499,7 +561,6 @@ public class CatalogPanel extends JPanel
       descFrame.setVisible(true);
    }
  
- 
    private class DescriptionListener implements ActionListener
    {
       public void actionPerformed(ActionEvent e)
@@ -507,7 +568,6 @@ public class CatalogPanel extends JPanel
          loadDesc();
       }
    }
- 
  
    private void loadPrereq()
    {
@@ -529,7 +589,6 @@ public class CatalogPanel extends JPanel
       }
    }
  
-
    private class DescKeyListener extends KeyAdapter
    {
       public void keyPressed(KeyEvent e)
@@ -542,3 +601,4 @@ public class CatalogPanel extends JPanel
       }
    }
 }
+
