@@ -30,5 +30,5 @@ a%\011uml_doc%s	b-version -author	c1	d1!125;g
 %\011Department.java
 %\011Course.java
 %\011Restriction.java
-!205;t
-jgrCheckstyle0xr	%\011CatalogPanel.java	1688657128218:F	%\011CatalogDriver.java	1688657128218:F	%\011Department.java	1688657128218:F	%\011Course.java	1688657128218:F	%\011Restriction.java	1688657128218:F	
+!239;t
+jgrCheckstyle0xr	%\011CatalogPanel.java	1689698232337:F	%\011Catalog.java	1689698232337:F	%\011CatalogDriver.java	1689698232337:F	%\011Department.java	1689698232337:F	%\011Course.java	1689698232337:F	%\011Restriction.java	1689698232337:F	

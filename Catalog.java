@@ -1,5 +1,7 @@
 import java.util.*;
 
+/** contains all departments: centralized object for information (at the price of constant embedded accesses),
+* will be important for course lookup when implementing prereqs specs in the future */
 public class Catalog
 {
    private ArrayList<Department> catalog;
@@ -29,5 +31,6 @@ public class Catalog
       catalog.add(d);
    }
    
+
 
 }

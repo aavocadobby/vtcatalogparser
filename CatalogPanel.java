@@ -56,7 +56,7 @@ public class CatalogPanel extends JPanel
    private int deptIndex = 0;
    
  
-    /** helper method to load a Department from a plaintext file */
+    /** helper method to load undergrad Department from a plaintext file */
    private Department loadUG(String prefix)
    {
       Scanner s;
@@ -90,6 +90,7 @@ public class CatalogPanel extends JPanel
       return d;
    }
    
+    /** loads grad department helper */
    private Department loadGrad(String prefix)
    {
       Scanner s;
