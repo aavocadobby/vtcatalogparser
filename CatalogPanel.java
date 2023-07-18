@@ -57,12 +57,13 @@ public class CatalogPanel extends JPanel
    
  
     /** helper method to load a Department from a plaintext file */
-   private Department load(String prefix, String level)
+   private Department loadUG(String prefix)
    {
       Scanner s;
+      
       try
       {
-         s = new Scanner(new File(level+"_cat_"+prefix.toLowerCase()+".txt"));      
+         s = new Scanner(new File("ug_cat_"+prefix.toLowerCase()+".txt"));      
       } 
       catch(Exception e)
       {
@@ -70,9 +71,9 @@ public class CatalogPanel extends JPanel
          return null;
       }
    
-      Department d = new Department(prefix, level); 
+      Department d = new Department(prefix, "Undergraduate"); 
+      
       String line = "";
-   
       while(s.hasNext())
       {
          line = s.nextLine();
@@ -85,31 +86,135 @@ public class CatalogPanel extends JPanel
                d.addCourse(Course.createUnpairedII(line, prefix));
             }
       }
+      
+      return d;
+   }
+   
+   private Department loadGrad(String prefix)
+   {
+      Scanner s;
+      
+      try
+      {
+         s = new Scanner(new File("grad_cat_"+prefix.toLowerCase()+".txt"));      
+      } 
+      catch(Exception e)
+      {
+         System.out.print("oops");
+         return null;
+      }
+   
+      Department d = new Department(prefix, "Graduate");
+      
+      String line = "";
+      while(s.hasNext())
+      {
+         line = s.nextLine(); //name and title
+         if(!line.equals(""))
+         {
+            int n = Integer.parseInt(line.substring(prefix.length()+1, prefix.length()+5));
+            String t = line.substring(line.indexOf("-")+2);
+            Course c = new Course(prefix, n, t.toUpperCase(), false); //no grad courses have honors
+            line = s.nextLine();
+            if(!line.contains("Credit Hour(s)"))
+            {
+               c.setDesc(line); //desc
+               line = s.nextLine(); //credits
+            }
+            
+            if(line.contains("TO"))
+               c.setCredits(-1);
+            else
+               try
+               {
+                  c.setCredits(Integer.parseInt(""+line.charAt(line.length()-1)));
+               }
+               catch(Exception e)
+               {
+                  c.setCredits(-1);
+               }
+            
+            s.nextLine(); //lecture hours
+            s.nextLine(); //level
+            s.nextLine(); //mode of instruction
+            line = s.nextLine(); //prereqs
+            if(line.indexOf(":")+2 < line.length())
+               c.setPrereqString(line.substring(line.indexOf(":")+2));
+            s.nextLine(); //coreqs
+            
+            d.addCourse(c);
+         }
+      }
    
       return d;
    }
 
    /** calls load for all desired Departments */
-   private void loadDepartments()
+   private void loadDepartments(String level)
    {
       depts = new ArrayList<Department>();
-      depts.add(load("CHEM", "ug"));
-      //depts.add(load("CMDA", "ug"));
-      depts.add(load("CS", "ug"));
-      depts.add(load("ENGR", "ug"));
-      depts.add(load("MATH", "ug"));
-      deptIndex = depts.size()-1; //catalog will always default to math, even if 
+      if(level.equals("ug"))
+      {
+         depts.add(loadUG("CHEM"));
+         //depts.add(loadUG("CMDA", "ug"));
+         depts.add(loadUG("CS"));
+         depts.add(loadUG("ENGR"));
+         depts.add(loadUG("MATH"));
+         deptIndex = depts.size()-1; //catalog will always default to math, even if 
                         //other catalogs are not loaded
-      depts.add(load("MUS", "ug"));
-      depts.add(load("PHYS", "ug"));
-      depts.add(load("STAT", "ug"));
-      depts.add(load("STS", "ug"));
+         depts.add(loadUG("MUS"));
+         depts.add(loadUG("PHYS"));
+         depts.add(loadUG("STAT"));
+         depts.add(loadUG("STS"));
+      }
+      else if(level.equals("grad"))
+      {
+         depts.add(loadGrad("CHEM"));
+         depts.add(loadGrad("CS"));
+         depts.add(loadGrad("MATH"));
+         deptIndex = depts.size()-1; 
+         depts.add(loadGrad("MUS"));
+         depts.add(loadGrad("PHYS"));
+         depts.add(loadGrad("STAT"));
+         depts.add(loadGrad("STS"));
+      }
+      
+      else
+      {   
+         //first, load undergraduate classes
+         depts.add(loadUG("CHEM"));
+         //depts.add(loadUG("CMDA", "ug"));
+         depts.add(loadUG("CS"));
+         depts.add(loadUG("ENGR"));
+         depts.add(loadUG("MATH"));
+         deptIndex = depts.size()-1; 
+         depts.add(loadUG("MUS"));
+         depts.add(loadUG("PHYS"));
+         depts.add(loadUG("STAT"));
+         depts.add(loadUG("STS"));
+         
+         
+         ArrayList<Department> clone = new ArrayList<Department>();
+         clone.add(loadGrad("CHEM"));
+         clone.add(loadGrad("CS"));
+         clone.add(loadGrad("MATH"));
+         clone.add(loadGrad("MUS"));
+         clone.add(loadGrad("PHYS"));
+         clone.add(loadGrad("STAT"));
+         clone.add(loadGrad("STS"));
+         
+         for(int x = 0; x < clone.size(); x++)
+            for(int y = 0; y < clone.get(x).getCourseArrayList().size(); y++)
+               depts.get(findIndex(clone.get(x).getDept())).addCourse(clone.get(x).getCourseArrayList().get(y));
+                       //index of prefix     get prefix               dep          courselist        course
+      }
+      
    }
 
 
-   public CatalogPanel()
+   public CatalogPanel(String level)
    { 
-      loadDepartments();
+      loadDepartments(level);
    
       //setting layout of host CatalogPanel
       setLayout(new FlowLayout());

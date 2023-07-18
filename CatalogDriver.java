@@ -23,7 +23,7 @@ public class CatalogDriver
     /** main method */
    public static void main(String[] args) 
    {
-      /*choose = new JFrame("Startup");
+      choose = new JFrame("Startup");
       choose.setSize(400, 200);
       choose.setLocation(500,200);
       choose.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -55,24 +55,24 @@ public class CatalogDriver
             
       choose.setContentPane(p);
       
-      choose.setVisible(true);*/
+      choose.setVisible(true);
       
       
-      launch();
+      //launch();
    }
    
    /** 
    * private helper method to launch the catalog
    */   
-   private static void launch()
+   private static void launch(String level)
    {
-      //choose.setVisible(false);
+      choose.setVisible(false);
       
       JFrame j = new JFrame("Catalog");
       j.setSize(700, 595);
       j.setLocation(100, 50);
       j.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-      j.setContentPane(new CatalogPanel());
+      j.setContentPane(new CatalogPanel(level));
       j.setVisible(true);
    }
    
@@ -84,7 +84,7 @@ public class CatalogDriver
    {
       public void actionPerformed(ActionEvent e)
       {
-         launch();
+         launch("ug");
       }
    }
   
@@ -96,7 +96,7 @@ public class CatalogDriver
    {
       public void actionPerformed(ActionEvent e)
       {
-         System.out.println("not yet implemented");
+         launch("grad");
       }
    }
   
@@ -109,7 +109,7 @@ public class CatalogDriver
    {
       public void actionPerformed(ActionEvent e)
       {
-         System.out.println("not yet implemented");
+         launch("both");
       }
    }
 }

@@ -51,7 +51,7 @@ public class Course implements Comparable<Course>
       number = -1;
    }
    
-   public Course(String dep, String nam, int num, boolean h)
+   public Course(String dep, int num, String nam, boolean h)
    {
       dept = dep;
       name = nam;
@@ -109,36 +109,9 @@ public class Course implements Comparable<Course>
    }
 
    
-   //setters (instance)
+   //public setters (instance)
    
-   private void setPrereqString(String s)
-   {
-      prereqString = s;
-   }
-   private void setDesc(String main)
-   {
-      if(main.contains("Pre:"))
-         main = main.substring(0, main.lastIndexOf("Pre:"));
-      desc = main;
-      if(desc.contains(Restriction.VAR_CREDIT))
-      {
-         credits = - 1;
-         desc = desc.substring(desc.indexOf(Restriction.VAR_CREDIT), desc.indexOf(Restriction.VAR_CREDIT)+Restriction.VAR_CREDIT.length());
-      }
-   }
-   private void setAsLab()
-   {
-      isLab = true;
-   }
-   private void setCreditString(String s)
-   {
-      int openParen = s.lastIndexOf("(");
-      int closeParen = s.lastIndexOf(")");
-      if(closeParen == -1 || closeParen != s.length()-1 ) //there are parens in the course
-         return;                       //desc that is not actually the credit
-      creditString = s.substring(openParen+1, closeParen);
-   }
-   private void setCredits()
+   private void parseCredits()
    {
       if(credits != 0)
          return;
@@ -151,8 +124,42 @@ public class Course implements Comparable<Course>
          else
             credits = Integer.parseInt(creditString.substring(creditString.indexOf("C")-1, creditString.indexOf("C")));
    }
+   public void setDesc(String main)
+   {
+      if(main.contains("Pre:"))
+         main = main.substring(0, main.lastIndexOf("Pre:"));
+      desc = main;
+      if(desc.contains(Restriction.VAR_CREDIT))
+      {
+         credits = - 1;
+         desc = desc.substring(desc.indexOf(Restriction.VAR_CREDIT), desc.indexOf(Restriction.VAR_CREDIT)+Restriction.VAR_CREDIT.length());
+      }
+   }
+   public void setPrereqString(String s)
+   {
+      prereqString = s;
+   }
+   public void setCredits(int c)
+   {
+      credits = c;
+   }
    
    
+   //private instance
+  
+   private void setAsLab()
+   {
+      isLab = true;
+   }
+   private void setCreditString(String s)
+   {
+      int openParen = s.lastIndexOf("(");
+      int closeParen = s.lastIndexOf(")");
+      if(closeParen == -1 || closeParen != s.length()-1 ) //there are parens in the course
+         return;                       //desc that is not actually the credit
+      creditString = s.substring(openParen+1, closeParen);
+   }
+  
    
    //other instance field modifiers
    public void addPreReqs(Course p)
@@ -255,10 +262,10 @@ public class Course implements Comparable<Course>
       if(honors)
          n += " HONORS";
          
-      Course c = new Course(prefix, n, number, honors);  
+      Course c = new Course(prefix, number, n, honors);  
       c.setDesc(d.trim());  
       c.setCreditString(line);
-      c.setCredits();
+      c.parseCredits();
       c.setPrereqString(getPrereq(line));   
      
       return c;
@@ -307,11 +314,11 @@ public class Course implements Comparable<Course>
       if(honors)
          n += " HONORS";
        
-      Course c = new Course(prefix, n+" I", number, honors);
+      Course c = new Course(prefix, number, n+" I", honors);
       c.setDesc(d.trim());    
       c.splitDescI();
       c.setCreditString(line); 
-      c.setCredits();
+      c.parseCredits();
       c.setPrereqString(getPrereq(line));
      
       return c;
@@ -334,11 +341,11 @@ public class Course implements Comparable<Course>
       if(honors) //honors
          n += " HONORS";
       
-      Course c = new Course(prefix, n+" II", number, honors);
+      Course c = new Course(prefix, number, n+" II", honors);
       c.setDesc(d.trim()); 
       c.splitDescII();
       c.setCreditString(line);    
-      c.setCredits();
+      c.parseCredits();
       c.setPrereqString(getPrereq(line));
     
       return c;
