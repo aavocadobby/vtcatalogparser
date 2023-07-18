@@ -52,7 +52,7 @@ public class CatalogPanel extends JPanel
    
    private JButton duplicateDesc, duplicatePrereq;
    
-   private ArrayList<Department> depts;
+   private Catalog catalog;
    private int deptIndex = 0;
    
  
@@ -152,46 +152,46 @@ public class CatalogPanel extends JPanel
    /** calls load for all desired Departments */
    private void loadDepartments(String level)
    {
-      depts = new ArrayList<Department>();
+      catalog = new Catalog();
       if(level.equals("ug"))
       {
-         depts.add(loadUG("CHEM"));
-         //depts.add(loadUG("CMDA", "ug"));
-         depts.add(loadUG("CS"));
-         depts.add(loadUG("ENGR"));
-         depts.add(loadUG("MATH"));
-         deptIndex = depts.size()-1; //catalog will always default to math, even if 
+         catalog.add(loadUG("CHEM"));
+         //catalog.add(loadUG("CMDA", "ug"));
+         catalog.add(loadUG("CS"));
+         catalog.add(loadUG("ENGR"));
+         catalog.add(loadUG("MATH"));
+         deptIndex = catalog.size()-1; //catalog will always default to math, even if 
                         //other catalogs are not loaded
-         depts.add(loadUG("MUS"));
-         depts.add(loadUG("PHYS"));
-         depts.add(loadUG("STAT"));
-         depts.add(loadUG("STS"));
+         catalog.add(loadUG("MUS"));
+         catalog.add(loadUG("PHYS"));
+         catalog.add(loadUG("STAT"));
+         catalog.add(loadUG("STS"));
       }
       else if(level.equals("grad"))
       {
-         depts.add(loadGrad("CHEM"));
-         depts.add(loadGrad("CS"));
-         depts.add(loadGrad("MATH"));
-         deptIndex = depts.size()-1; 
-         depts.add(loadGrad("MUS"));
-         depts.add(loadGrad("PHYS"));
-         depts.add(loadGrad("STAT"));
-         depts.add(loadGrad("STS"));
+         catalog.add(loadGrad("CHEM"));
+         catalog.add(loadGrad("CS"));
+         catalog.add(loadGrad("MATH"));
+         deptIndex = catalog.size()-1; 
+         catalog.add(loadGrad("MUS"));
+         catalog.add(loadGrad("PHYS"));
+         catalog.add(loadGrad("STAT"));
+         catalog.add(loadGrad("STS"));
       }
       
       else
       {   
          //first, load undergraduate classes
-         depts.add(loadUG("CHEM"));
-         //depts.add(loadUG("CMDA", "ug"));
-         depts.add(loadUG("CS"));
-         depts.add(loadUG("ENGR"));
-         depts.add(loadUG("MATH"));
-         deptIndex = depts.size()-1; 
-         depts.add(loadUG("MUS"));
-         depts.add(loadUG("PHYS"));
-         depts.add(loadUG("STAT"));
-         depts.add(loadUG("STS"));
+         catalog.add(loadUG("CHEM"));
+         //catalog.add(loadUG("CMDA", "ug"));
+         catalog.add(loadUG("CS"));
+         catalog.add(loadUG("ENGR"));
+         catalog.add(loadUG("MATH"));
+         deptIndex = catalog.size()-1; 
+         catalog.add(loadUG("MUS"));
+         catalog.add(loadUG("PHYS"));
+         catalog.add(loadUG("STAT"));
+         catalog.add(loadUG("STS"));
          
          
          ArrayList<Department> clone = new ArrayList<Department>();
@@ -205,7 +205,7 @@ public class CatalogPanel extends JPanel
          
          for(int x = 0; x < clone.size(); x++)
             for(int y = 0; y < clone.get(x).getCourseArrayList().size(); y++)
-               depts.get(findIndex(clone.get(x).getDept())).addCourse(clone.get(x).getCourseArrayList().get(y));
+               catalog.depts().get(findIndex(clone.get(x).getDept())).addCourse(clone.get(x).getCourseArrayList().get(y));
                        //index of prefix     get prefix               dep          courselist        course
       }
       
@@ -241,15 +241,15 @@ public class CatalogPanel extends JPanel
    
    
       //load department options, make dropdown selection box
-      String[] prefixes = new String[depts.size()];
+      String[] prefixes = new String[catalog.size()];
       for(int a = 0; a < prefixes.length; a++)
-         prefixes[a] = depts.get(a).getDept();
+         prefixes[a] = catalog.depts().get(a).getDept();
       Arrays.sort(prefixes);
       deptBox = new JComboBox(prefixes);
       deptBox.setSelectedIndex(deptIndex);
       deptBox.addKeyListener(enter);
       deptBox.setFocusable(true);
-      deptBox.setMaximumRowCount(depts.size());
+      deptBox.setMaximumRowCount(catalog.size());
    
       //panel for selecting department
       JPanel deptPanel = new JPanel(new BorderLayout());
@@ -308,7 +308,7 @@ public class CatalogPanel extends JPanel
       
       titleModel = new DefaultListModel();
       
-      ArrayList<Course> deptCourses = depts.get(deptIndex).getCourseArrayList();
+      ArrayList<Course> deptCourses = catalog.depts().get(deptIndex).getCourseArrayList();
       for(int x = 0; x < deptCourses.size(); x++)
          titleModel.addElement(deptCourses.get(x));
    
@@ -465,8 +465,8 @@ public class CatalogPanel extends JPanel
     * @param dept    the department to find the index of */
    private int findIndex(String dept)
    {
-      for(int x = 0; x < depts.size(); x++)
-         if(depts.get(x).getDept().equals(dept))
+      for(int x = 0; x < catalog.size(); x++)
+         if(catalog.depts().get(x).getDept().equals(dept))
             return x; 
       return -1;
    }
@@ -483,10 +483,10 @@ public class CatalogPanel extends JPanel
       try
       {
          n = Integer.parseInt(numField.getText());
-         found = depts.get(deptIndex).containsNumber(n);
+         found = catalog.depts().get(deptIndex).containsNumber(n);
          if(found)
          {
-            titleModel.addElement(depts.get(deptIndex).getCourse(n));
+            titleModel.addElement(catalog.depts().get(deptIndex).getCourse(n));
             titles.setModel(titleModel);
          }
          else
@@ -514,7 +514,7 @@ public class CatalogPanel extends JPanel
       String keyword = keyField.getText();
       titleModel.clear();
       
-      ArrayList<Course> c = depts.get(deptIndex).getCourseArrayList();
+      ArrayList<Course> c = catalog.depts().get(deptIndex).getCourseArrayList();
       for(int x = 0; x < pinned; x++)
          titleModel.add(x, pinArray[x]);
          
@@ -549,7 +549,7 @@ public class CatalogPanel extends JPanel
       //if number and keyword searches are empty
       if(!hasNumber && !hasKeyword)
       {
-         ArrayList<Course> deptCourses = depts.get(deptIndex).getCourseArrayList();
+         ArrayList<Course> deptCourses = catalog.depts().get(deptIndex).getCourseArrayList();
          titleModel.clear();
          for(int v = 0; v < deptCourses.size(); v++)
             titleModel.addElement(deptCourses.get(v));
