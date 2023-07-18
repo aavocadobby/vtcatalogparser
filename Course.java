@@ -1,23 +1,48 @@
 import java.util.*;
 
+/** 
+* Course Object stores information of a particular course.
+*
+* @author Anhui Zhang [zhanganhui@vt.edu]
+* @version 07.2023
+*/
+
 public class Course implements Comparable<Course>
 {
+   /** department the course belongs to (its prefix) */
    private String dept;
+   /** name of course */
    private String name;
+   /** course number */
    private int number;
+   /** course description */
    private String desc = "";
    
+   
+   /** stores the prereqs of this course as a string */
    private String prereqString = "";
+   /** stores the credit-bearing information of this course as a string */
    private String creditString = "";
    
+   
+   /** list of prereqs for this course */
    private ArrayList<Course> prereqs;
+   /** list of coreqs for this course */
    private ArrayList<Course> coreqs;
+   /** list if this course is cross-listed as another course */
    private ArrayList<String> crossListing;   
    
-   private int credits = 0; //if == -1, means variable course credit
+   
+   /** credits for this course; if == -1, means variable course credit */
+   private int credits = 0; 
+   /** lab */
    private boolean isLab = false;
+   /** honors */
    private boolean isHonors = false;
+   /** char if this has a special designation, only for some engineering courses or special cases */
    private char specialDesignation;
+   
+   
    
    public Course(String dep)
    {
@@ -37,30 +62,47 @@ public class Course implements Comparable<Course>
    
    //getters (accessor)
    
+   /** accessor
+   * @return   returns department of this course*/
    public String getDept()
    {
       return dept;
    }
+    /** accessor 
+    * @return   returns name of this course */
    public String getName()
    {
       return name;
    }
+    /** accessor 
+    * @return   return course number */
    public int getNumber()
    {
       return number;
    }
+    /** accessor 
+    * @return  returns course description */
    public String getDesc()
    {
       return desc;
    }
+   
+    /** accessor 
+    * @return  returns string for this course's prereqs */
    public String getPrereqString()
    {
       return prereqString;
    }
+   
+    /** accessor 
+    * @return  returns string for this course's credits */
    public String getCreditString()
    {
       return creditString;
    }
+   
+    /** accessor 
+    * @return  returns number of credit hours */
    public int getCredits()
    {
       return credits;
@@ -68,6 +110,7 @@ public class Course implements Comparable<Course>
 
    
    //setters (instance)
+   
    private void setPrereqString(String s)
    {
       prereqString = s;
@@ -222,27 +265,32 @@ public class Course implements Comparable<Course>
    }
    
    
-   
    private void splitDescI()
    {
-      if(desc.contains(":") && desc.indexOf(":") < desc.lastIndexOf(":"))
+      if(desc.contains(":") && desc.indexOf(":") > 0 && desc.substring(desc.indexOf(":")+1).indexOf(":") > 0)
       {
          String unison = "";
          unison = desc.substring(0, desc.indexOf(":")-4);
-         desc = desc.substring(unison.length(), desc.lastIndexOf(":")-4);
-         desc = unison + desc;
+         desc = desc.substring(unison.length()+6, unison.length()+4+desc.substring(desc.indexOf(":")+1).indexOf(":")-4);
+         desc = desc.substring(0,1).toUpperCase() + desc.substring(1);   
+         if(!unison.equals(""))
+            desc = unison +"\n"+ desc;
       }
+      
    }
    
    private void splitDescII()
    {
-      if(desc.contains(":") && desc.indexOf(":") < desc.lastIndexOf(":"))
+      if(desc.contains(":") && desc.indexOf(":") > 0 && desc.substring(desc.indexOf(":")+1).indexOf(":") > 0)
       {
          String unison = "";
          unison = desc.substring(0, desc.indexOf(":")-4);
-         desc = desc.substring(desc.lastIndexOf(":"));
-         desc = unison + desc;
+         desc = desc.substring(unison.length()+4+desc.substring(desc.indexOf(":")+1).indexOf(":")+3);
+         desc = desc.substring(0,1).toUpperCase() + desc.substring(1);
+         if(!unison.equals(""))
+            desc = unison +"\n"+ desc;
       }
+      
    }
    
   

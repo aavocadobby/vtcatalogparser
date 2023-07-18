@@ -6,12 +6,28 @@ import java.awt.event.*;
 import java.util.*;
 import java.io.*;
 import java.beans.*;
+
+/** 
+* Main panel that contains all the catalog information, launched in CatalogDriver.
+*
+* @author Anhui Zhang [zhanganhui@vt.edu]
+* @version 07.2023
+*/
  
 public class CatalogPanel extends JPanel
 { 
-   private JComboBox deptBox; //dropdown menu of departments
-   private JTextField numField, keyField; //search by course number or keyword
-   private JButton sbutton; //search button
+   /** loaded as Franklin Gothic Book Cond C, 14pt size. used in descriptions and titles */
+   private Font f14 = null;
+ 
+   /** dropdown menu of departments */
+   private JComboBox deptBox; 
+   /** search by course number */
+   private JTextField numField; 
+   /** search by keyword */ 
+   private JTextField keyField; 
+   
+   /** search button */
+   private JButton sbutton; 
  
    private JPanel titlePanel; 
    private JList titles; 
@@ -28,12 +44,19 @@ public class CatalogPanel extends JPanel
    private JFrame descFrame, prereqFrame; //frames for new windows
    private JPanel descPanel, prereqPanelWindow; //panel in descFrame to display course descs + prereqs
    private JLabel descTitle;
-   private JTextArea description, prereqs; //text areas to display the description + prereqs
+   private JTextArea title, description, prereqs; //text areas to display the description + prereqs
    private JTextArea creditArea;
- 
+   
+   private EmptyBorder eb;
+   private int popupWidth, rowWidth;
+   
+   private JButton duplicateDesc, duplicatePrereq;
+   
    private ArrayList<Department> depts;
    private int deptIndex = 0;
+   
  
+    /** helper method to load a Department from a plaintext file */
    private Department load(String prefix, String level)
    {
       Scanner s;
@@ -66,21 +89,23 @@ public class CatalogPanel extends JPanel
       return d;
    }
 
+   /** calls load for all desired Departments */
    private void loadDepartments()
    {
       depts = new ArrayList<Department>();
       depts.add(load("CHEM", "ug"));
-      // depts.add(load("CMDA", "ug"));
+      //depts.add(load("CMDA", "ug"));
       depts.add(load("CS", "ug"));
-      // depts.add(load("ENGR", "ug"));
+      depts.add(load("ENGR", "ug"));
       depts.add(load("MATH", "ug"));
       deptIndex = depts.size()-1; //catalog will always default to math, even if 
                         //other catalogs are not loaded
       depts.add(load("MUS", "ug"));
       depts.add(load("PHYS", "ug"));
       depts.add(load("STAT", "ug"));
-      // depts.add(load("STS"), "ug");
+      depts.add(load("STS", "ug"));
    }
+
 
    public CatalogPanel()
    { 
@@ -93,7 +118,6 @@ public class CatalogPanel extends JPanel
    
       //font instantiation
       Font f = null;
-      Font f14 = null;
       try
       {
          f = Font.createFont( Font.TRUETYPE_FONT, 
@@ -186,12 +210,15 @@ public class CatalogPanel extends JPanel
       titles = new JList();
       titles.setModel(titleModel);
       titles.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
+      titles.setCellRenderer(new PinColor());
       titles.setLayoutOrientation(JList.VERTICAL);
       titles.setVisibleRowCount(-1); //-1 means shows the maximum possible number of items 
       titles.setFont(f14);
       titles.setBorder(BorderFactory.createEmptyBorder(5,2,5,2));
    
+      //listeners
       titles.addKeyListener(new DescKeyListener());
+      titles.addKeyListener(new PinKeyListener());
       titles.addListSelectionListener(new PinListener());
      
    
@@ -235,10 +262,10 @@ public class CatalogPanel extends JPanel
       add(loadDescPanel);
    
    
-      int popupWidth = 450;
-      int rowWidth = 42;
+      popupWidth = 450;
+      rowWidth = 42;
       
-      EmptyBorder eb = (EmptyBorder)BorderFactory.createEmptyBorder(5,10,5,10); //top,left,bottom,right
+      eb = (EmptyBorder)BorderFactory.createEmptyBorder(5,10,5,10); //top,left,bottom,right
    
       //new popup window for description
       descFrame = new JFrame("Course Description");
@@ -249,11 +276,18 @@ public class CatalogPanel extends JPanel
       descFrame.setContentPane(descPanel);
    
    
+      //course title
+      title = new JTextArea(1, (int)(rowWidth*(14.0/18.0)));
+      title.setBorder(eb);
+      title.setBackground(descPanel.getBackground());
+      title.setFont(f14.deriveFont((float)18));
+      title.setLineWrap(true);
+      title.setWrapStyleWord(true);
+      title.setEditable(false);
+   
       //text area
       description = new JTextArea(7, rowWidth);
       description.setBorder(eb);
-   
-      //JTextArea formatting
       description.setFont(f14);
       description.setBackground(descPanel.getBackground());
       description.setLineWrap(true);
@@ -269,10 +303,16 @@ public class CatalogPanel extends JPanel
       creditArea.setLineWrap(true);
       creditArea.setWrapStyleWord(true);
       creditArea.setEditable(false);
-   
-   
+      
+      //duplicate window button
+      duplicateDesc = new JButton("Duplicate Window");
+      duplicateDesc.addActionListener(new DuplicateDescListener());
+      
+               
+      descPanel.add(title);
       descPanel.add(description);
       descPanel.add(creditArea);
+      descPanel.add(duplicateDesc);
    
    
    
@@ -306,9 +346,18 @@ public class CatalogPanel extends JPanel
       prereqs.setWrapStyleWord(true);
       prereqs.setEditable(false);
       
-      prereqPanelWindow.add(prereqs);  
+      //button to duplicate window
+      duplicatePrereq = new JButton("Duplicate Window");
+      duplicatePrereq.addActionListener(new DuplicatePrereqListener());
+      
+      
+      prereqPanelWindow.add(prereqs);
+      prereqPanelWindow.add(duplicatePrereq);
    }
  
+    
+    /** finds the index of the desired department 
+    * @param dept    the department to find the index of */
    private int findIndex(String dept)
    {
       for(int x = 0; x < depts.size(); x++)
@@ -317,6 +366,73 @@ public class CatalogPanel extends JPanel
       return -1;
    }
  
+   /** search helper if numField is not empty */ 
+   private boolean searchByNumber()
+   {
+      boolean found = false;
+      int n = 0;
+      
+      titleModel.clear();
+      for(int x = 0; x < pinned; x++)
+         titleModel.add(x, pinArray[x]);
+      try
+      {
+         n = Integer.parseInt(numField.getText());
+         found = depts.get(deptIndex).containsNumber(n);
+         if(found)
+         {
+            titleModel.addElement(depts.get(deptIndex).getCourse(n));
+            titles.setModel(titleModel);
+         }
+         else
+         {
+            titles.setModel(titleModel);
+            JOptionPane.showMessageDialog(null, "Could not find course number.");
+         }  
+      }
+      catch(Exception e1)
+      {
+         titles.setModel(titleModel);
+         JOptionPane.showMessageDialog(null, "Entered dialog was not a number.\n"+
+               "Please enter a valid number."); 
+      }
+      
+      for(int y = 0; y < pinned; y++)
+         if(titleModel.lastIndexOf(pinArray[y]) != y)
+            titleModel.remove(titleModel.lastIndexOf(pinArray[y]));
+      
+      return found;
+   }
+    /** search helper if keyField is not empty */
+   private boolean searchByKeyword()
+   {
+      String keyword = keyField.getText();
+      titleModel.clear();
+      
+      ArrayList<Course> c = depts.get(deptIndex).getCourseArrayList();
+      for(int x = 0; x < pinned; x++)
+         titleModel.add(x, pinArray[x]);
+         
+      boolean found = false;
+         
+      for(int x = 0; x < c.size(); x++)
+         if(c.get(x).getName().toLowerCase().contains(keyword.toLowerCase()))
+         {
+            titleModel.addElement(c.get(x));
+            found = true;
+         }
+      
+      if(!found)
+         JOptionPane.showMessageDialog(null, 
+            "Could not find keyword in course listing titles."); 
+            
+      titles.setModel(titleModel);
+            
+      return found;
+   }
+ 
+    /** search helper, calls the appropriate searchByNumber, searchByKeyword, or load
+    * the entire department if neither search field is filled */
    private void search()
    {
       String selectedDept = (String)deptBox.getSelectedItem(); 
@@ -354,107 +470,36 @@ public class CatalogPanel extends JPanel
       titles.setBorder(BorderFactory.createEmptyBorder(5,2,5,0));
    }
    
-   private boolean searchByNumber()
-   {
-      boolean found = false;
-      int n = 0;
-      
-      titleModel.clear();
-      for(int x = 0; x < pinned; x++)
-         titleModel.add(x, pinArray[x]);
-      try
-      {
-         n = Integer.parseInt(numField.getText());
-         found = depts.get(deptIndex).containsNumber(n);
-         if(found)
-         {
-            titleModel.addElement(depts.get(deptIndex).getCourse(n));
-            titles.setModel(titleModel);
-         }
-         else
-         {
-            titles.setModel(titleModel);
-            JOptionPane.showMessageDialog(null, "Could not find course number.");
-         }  
-      }
-      catch(Exception e1)
-      {
-         titles.setModel(titleModel);
-         JOptionPane.showMessageDialog(null, "Entered dialog was not a number.\n"+
-               "Please enter a valid number."); 
-      }
-      
-      for(int y = 0; y < pinned; y++)
-         if(titleModel.lastIndexOf(pinArray[y]) != y)
-            titleModel.remove(titleModel.lastIndexOf(pinArray[y]));
-      
-      return found;
-   }
-   
-   private boolean searchByKeyword()
-   {
-      String keyword = keyField.getText();
-      titleModel.clear();
-      
-      ArrayList<Course> c = depts.get(deptIndex).getCourseArrayList();
-      for(int x = 0; x < pinned; x++)
-         titleModel.add(x, pinArray[x]);
-         
-      boolean found = false;
-         
-      for(int x = 0; x < c.size(); x++)
-         if(c.get(x).getName().toLowerCase().contains(keyword.toLowerCase()))
-         {
-            titleModel.addElement(c.get(x));
-            found = true;
-         }
-      
-      if(!found)
-         JOptionPane.showMessageDialog(null, 
-            "Could not find keyword in course listing titles."); 
-            
-      titles.setModel(titleModel);
-            
-      return found;
-   }
-
-
+  
+    /** helper to add a course as pinned */
    private void addPin()
    { 
-      System.out.println("pinning");
       pinArray[pinned] = (Course)titles.getSelectedValue();
       isPinned[pinned] = true;
-      
+      titleModel.removeElement(pinArray[pinned]);
+      titleModel.add(pinned, pinArray[pinned]);
       pinned++;
-      System.out.println("reloading");
-      for(int x = 0; x < pinned; x++)
-      {
-         titleModel.removeElement(pinArray[x]);
-         titleModel.add(x, pinArray[x]);
-      }
+      
       titles.setModel(titleModel);
    }
-   
+    /** helper to remove a pinned course */
    private void removePin()
    {
       pinned--;
       isPinned[pinned] = false;
      
-      System.out.println("removing");
       Course c = (Course)titles.getSelectedValue();
       int index = titles.getSelectedIndex();
       
-      System.out.println("shifting");
       int w;
-      for(w = index; w < pinned+1; w++)
+      for(w = index; w < Math.min(4, pinned+1); w++)
       {
          pinArray[w] = pinArray[w+1];
          titleModel.remove(index);
       } 
-      System.out.println("removing "+titleModel.get(w+1));
-      //titleModel.remove(w+1);
-      
-      
+      if(Math.min(4,pinned+1) == 4)
+         pinArray[w] = null;
+               
       for(int x = pinned; x < titleModel.getSize(); x++)
       {
          if(!((Course)titleModel.getElementAt(x)).getDept().equals(c.getDept()))
@@ -466,42 +511,63 @@ public class CatalogPanel extends JPanel
          }
       }
       
-      titleModel.removeElement(c);
-      
       for(int y = index; y < pinned; y++)
          titleModel.add(y, pinArray[y]);
      
-      System.out.println("element removed");
       titles.setModel(titleModel);
    }
+   
+    /** helper to deal with pinning courses, appropriately calls the addPin or removePin helpers */
+   private void pin()
+   {
+      if(pinButton.getText().equals("Unpin"))
+         removePin();   
+         
+      if(pinned >= 5 && pinButton.getText().equals("Pin Course"))
+      {
+         pinButton.setEnabled(false);
+         return;
+      }
+            
+      if(pinButton.getText().equals("Pin Course"))
+         addPin();
+   }
 
+    
+    
+    /** PinCourseListener pins the current course */
    private class PinCourseListener implements ActionListener
    {
       public void actionPerformed(ActionEvent e)
       {
-         System.out.println("pin button clicked");
-        
-         if(pinButton.getText().equals("Unpin"))
-            removePin();   
-         
-         if(pinned >= 5 && pinButton.getText().equals("Pin Course"))
-         {
-            pinButton.setEnabled(false);
-            return;
-         }
-            
-         if(pinButton.getText().equals("Pin Course"))
-            addPin();
+         pin();
       }
    }
- 
-   private class PinListener implements ListSelectionListener
+
+    /** PinKeyListener pins the currently selected course when the P key is pressed,
+    * unpins the selected course when BACKSPACE key is pressed, if possible */
+   private class PinKeyListener extends KeyAdapter
+   {
+      public void keyPressed(KeyEvent e)
+      {
+         if(e.getKeyCode() == KeyEvent.VK_P)
+            if(pinned < 5 && titles.getSelectedIndex() > pinned)
+               addPin();
+         if(e.getKeyCode() == KeyEvent.VK_BACK_SPACE)
+            if(titles.getSelectedIndex() <= pinned && titles.getSelectedIndex() >= 0)
+               if(isPinned[titles.getSelectedIndex()])
+                  removePin();
+      }
+   }
+   
+    /** PinListener listens to whether should enable or disable the pin button 
+    * based on the currently selected index */
+   private class PinListener implements ListSelectionListener 
    {
       public void valueChanged(ListSelectionEvent e)
       {
          if(titles.getSelectedIndex() == -1)
          {
-            System.out.println("out of bounds -1");
             pinButton.setEnabled(false);
             return;
          }
@@ -509,7 +575,6 @@ public class CatalogPanel extends JPanel
          if( (e.getFirstIndex() >= 0) && (e.getLastIndex() >= 0) )
          {
             int i = titles.getSelectedIndex();
-            System.out.println(titles.getSelectedIndex());
             if(i < isPinned.length && isPinned[i])
                pinButton.setText("Unpin");
             else
@@ -524,12 +589,24 @@ public class CatalogPanel extends JPanel
             pinButton.setEnabled(false);
             return;
          }
-         
-        
-        
       }
    }
  
+    /** PinColor changes highlight color of pinned courses */
+   private class PinColor extends DefaultListCellRenderer
+   {
+      public Component getListCellRendererComponent(JList<?> list, Object value, int index, boolean isSelected, boolean cellHasFocus)
+      {
+         Component c = super.getListCellRendererComponent(list, value, index, isSelected, cellHasFocus);
+         if(index < pinned)
+            c.setBackground(Color.PINK);
+      
+         return c;
+      }
+   }
+   
+
+    /** SearchListener searches when the search button is pressed*/
    private class SearchListener implements ActionListener
    {
       public void actionPerformed(ActionEvent e) 
@@ -538,6 +615,8 @@ public class CatalogPanel extends JPanel
       }
    }
  
+    /** SearchKeyListener performs a search when the ENTER key is pressed and 
+    * the appropriate field is in focus (ie, when no course is selected) */
    private class SearchKeyListener extends KeyAdapter 
    {                 //KeyAdapter implements ActionListener, KeyListener
       public void keyPressed(KeyEvent e)
@@ -547,12 +626,14 @@ public class CatalogPanel extends JPanel
       }
    }
  
-   // new window will pop up beside the main frame, containing the course description
+    /** helper to load popup window for course description */
    private void loadDesc()
    {
       Course current = (Course)titles.getSelectedValue();
       
+      title.setText(current.toString());   
       description.setText(current.getDesc());
+      
       if(current.getCredits() == -1)
          creditArea.setText(Restriction.VAR_CREDIT);
       else
@@ -560,15 +641,7 @@ public class CatalogPanel extends JPanel
        
       descFrame.setVisible(true);
    }
- 
-   private class DescriptionListener implements ActionListener
-   {
-      public void actionPerformed(ActionEvent e)
-      { 
-         loadDesc();
-      }
-   }
- 
+    /** helpter to load popup window for course prereqs */
    private void loadPrereq()
    {
       Course current = (Course)titles.getSelectedValue();
@@ -581,6 +654,17 @@ public class CatalogPanel extends JPanel
       prereqFrame.setVisible(true);
    }
  
+ 
+    /** DescriptionListener loads a new window with course description */
+   private class DescriptionListener implements ActionListener
+   {
+      public void actionPerformed(ActionEvent e)
+      { 
+         loadDesc();
+      }
+   }
+  
+    /** PrereqListener loads a new window that displays course prereqs */
    private class PrereqListener implements ActionListener
    {
       public void actionPerformed(ActionEvent e)
@@ -588,7 +672,9 @@ public class CatalogPanel extends JPanel
          loadPrereq();
       }
    }
- 
+   
+    /** DescKeyListener loads two new windows (both the description and prereqs windows)
+    * when a course is selected and user presses the ENTER key */ 
    private class DescKeyListener extends KeyAdapter
    {
       public void keyPressed(KeyEvent e)
@@ -600,5 +686,84 @@ public class CatalogPanel extends JPanel
          }
       }
    }
-}
+   
+        
 
+    /** DuplicateDescListener duplicates the window for a currently loaded description window */
+   private class DuplicateDescListener implements ActionListener
+   {
+      public void actionPerformed(ActionEvent e)
+      {
+         JFrame d = new JFrame("Duplicate Window");
+         d.setLocation(850, 210);
+         d.setSize(popupWidth, 300);
+      
+         //course title
+         JTextArea ta = new JTextArea(1, (int)(rowWidth*(14.0/18.0)));
+         ta.setBorder(eb);
+         ta.setBackground(descPanel.getBackground());
+         ta.setFont(f14.deriveFont((float)18));
+         ta.setLineWrap(true);
+         ta.setWrapStyleWord(true);
+         ta.setEditable(false);
+         ta.setText(title.getText());
+      
+         //text area
+         JTextArea d2 = new JTextArea(7, rowWidth);
+         d2.setBorder(eb);
+         d2.setFont(f14);
+         d2.setBackground(descPanel.getBackground());
+         d2.setLineWrap(true);
+         d2.setWrapStyleWord(true);
+         d2.setEditable(false);
+         d2.setText(description.getText());
+      
+         //credit details area
+         JTextArea ca = new JTextArea(1, rowWidth);
+         ca.setBorder(eb);
+         ca.setFont(f14);
+         ca.setBackground(descPanel.getBackground());
+         ca.setLineWrap(true);
+         ca.setWrapStyleWord(true);
+         ca.setEditable(false);
+         ca.setText(creditArea.getText());
+                 
+         JPanel p = new JPanel();
+         p.add(ta);
+         p.add(d2);
+         p.add(ca);
+         
+         
+         d.setContentPane(p);
+         d.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
+         d.setVisible(true);
+      }
+   }
+   
+    /** DuplicatePrereqListener duplicates the window for a currently loaded prereq window */
+   private class DuplicatePrereqListener implements ActionListener
+   {
+      public void actionPerformed(ActionEvent e)
+      {
+         JFrame d = new JFrame("Duplicate Window");
+         d.setLocation(850, 520); // 50px increase to both x and y position
+         d.setSize(popupWidth, 175); //same size
+         
+         JTextArea ta = new JTextArea(5, rowWidth);
+         ta.setBorder(eb);
+         ta.setFont(f14);
+         ta.setBackground(d.getBackground());
+         ta.setLineWrap(true);
+         ta.setWrapStyleWord(true);
+         ta.setEditable(false);
+         ta.setText(prereqs.getText());
+         
+         JPanel p = new JPanel();
+         p.add(ta);
+         
+         d.setContentPane(p);
+         d.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
+         d.setVisible(true);
+      }
+   }
+}
