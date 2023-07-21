@@ -43,8 +43,8 @@ public class CatalogPanel extends JPanel
  
    private JFrame descFrame, prereqFrame; //frames for new windows
    private JPanel descPanel, prereqPanelWindow; //panel in descFrame to display course descs + prereqs
-   private JLabel descTitle;
-   private JTextArea title, description, prereqs; //text areas to display the description + prereqs
+   private JTextArea descTitle; 
+   private JTextArea description, prereqs; //text areas to display the description + prereqs
    private JTextArea creditArea;
    
    private EmptyBorder eb;
@@ -60,7 +60,6 @@ public class CatalogPanel extends JPanel
    private Department loadUG(String prefix)
    {
       Scanner s;
-      
       try
       {
          s = new Scanner(new File("ug_cat_"+prefix.toLowerCase()+".txt"));      
@@ -94,7 +93,6 @@ public class CatalogPanel extends JPanel
    private Department loadGrad(String prefix)
    {
       Scanner s;
-      
       try
       {
          s = new Scanner(new File("grad_cat_"+prefix.toLowerCase()+".txt"));      
@@ -157,16 +155,15 @@ public class CatalogPanel extends JPanel
       if(level.equals("ug"))
       {
          catalog.add(loadUG("CHEM"));
-         //catalog.add(loadUG("CMDA", "ug"));
-         catalog.add(loadUG("CS"));
-         catalog.add(loadUG("ENGR"));
-         catalog.add(loadUG("MATH"));
-         deptIndex = catalog.size()-1; //catalog will always default to math, even if 
-                        //other catalogs are not loaded
-         catalog.add(loadUG("MUS"));
-         catalog.add(loadUG("PHYS"));
-         catalog.add(loadUG("STAT"));
-         catalog.add(loadUG("STS"));
+         // catalog.add(loadUG("CS"));
+         // catalog.add(loadUG("ENGR"));
+         // catalog.add(loadUG("MATH"));
+         // deptIndex = catalog.size()-1; //catalog will always default to math, even if 
+      //                   //other catalogs are not loaded
+         // catalog.add(loadUG("MUS"));
+         // catalog.add(loadUG("PHYS"));
+         // catalog.add(loadUG("STAT"));
+         // catalog.add(loadUG("STS"));
       }
       else if(level.equals("grad"))
       {
@@ -210,6 +207,7 @@ public class CatalogPanel extends JPanel
                        //index of prefix     get prefix               dep          courselist        course
       }
       
+      catalog.findPrereqs();
    }
 
 
@@ -327,14 +325,12 @@ public class CatalogPanel extends JPanel
       titles.addKeyListener(new PinKeyListener());
       titles.addListSelectionListener(new PinListener());
      
-   
       scroll = new JScrollPane(titles); 
       scroll.setPreferredSize(new Dimension(620, 400));
    
       titlePanel = new JPanel();
       titlePanel.add(scroll);
       add(titlePanel);
-   
    
    
       //button to pin courses
@@ -345,15 +341,15 @@ public class CatalogPanel extends JPanel
       
       pinButton.addActionListener(new PinCourseListener());
       pinButton.setEnabled(false);
+      pinButton.setMnemonic(KeyEvent.VK_P);
    
       JPanel pinPanel = new JPanel();
       pinPanel.add(pinButton);
       pinPanel.setBorder(BorderFactory.createEmptyBorder(5,5,5,10));
    
       add(pinPanel); 
-   
-   
-   
+      
+      
    
       //button to load course desc, in new window with descriptiom
    
@@ -367,7 +363,8 @@ public class CatalogPanel extends JPanel
    
       add(loadDescPanel);
    
-   
+      
+      
       popupWidth = 450;
       rowWidth = 42;
       
@@ -381,15 +378,14 @@ public class CatalogPanel extends JPanel
       descPanel = new JPanel();
       descFrame.setContentPane(descPanel);
    
-   
       //course title
-      title = new JTextArea(1, (int)(rowWidth*(14.0/18.0)));
-      title.setBorder(eb);
-      title.setBackground(descPanel.getBackground());
-      title.setFont(f14.deriveFont((float)18));
-      title.setLineWrap(true);
-      title.setWrapStyleWord(true);
-      title.setEditable(false);
+      descTitle = new JTextArea(1, (int)(rowWidth*(14.0/18.0)));
+      descTitle.setBorder(eb);
+      descTitle.setBackground(descPanel.getBackground());
+      descTitle.setFont(f14.deriveFont((float)18));
+      descTitle.setLineWrap(true);
+      descTitle.setWrapStyleWord(true);
+      descTitle.setEditable(false);
    
       //text area
       description = new JTextArea(7, rowWidth);
@@ -399,7 +395,6 @@ public class CatalogPanel extends JPanel
       description.setLineWrap(true);
       description.setWrapStyleWord(true);
       description.setEditable(false);
-   
    
       //credit details area
       creditArea = new JTextArea(1, rowWidth);
@@ -415,7 +410,7 @@ public class CatalogPanel extends JPanel
       duplicateDesc.addActionListener(new DuplicateDescListener());
       
                
-      descPanel.add(title);
+      descPanel.add(descTitle);
       descPanel.add(description);
       descPanel.add(creditArea);
       descPanel.add(duplicateDesc);
@@ -432,7 +427,6 @@ public class CatalogPanel extends JPanel
       prereqPanel.add(prereqButton);
       add(prereqPanel);
       
-   
       //new frame
       prereqFrame = new JFrame("Prerequisites");
       prereqFrame.setSize(popupWidth, 175);
@@ -440,8 +434,7 @@ public class CatalogPanel extends JPanel
       prereqFrame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
       prereqPanelWindow = new JPanel();
       prereqFrame.setContentPane(prereqPanelWindow);
-   
-   
+      
       //frame text area
       prereqs = new JTextArea(5, rowWidth);
       prereqs.setBorder(eb);
@@ -455,7 +448,6 @@ public class CatalogPanel extends JPanel
       //button to duplicate window
       duplicatePrereq = new JButton("Duplicate Window");
       duplicatePrereq.addActionListener(new DuplicatePrereqListener());
-      
       
       prereqPanelWindow.add(prereqs);
       prereqPanelWindow.add(duplicatePrereq);
@@ -640,7 +632,6 @@ public class CatalogPanel extends JPanel
    }
 
     
-    
     /** PinCourseListener pins the current course */
    private class PinCourseListener implements ActionListener
    {
@@ -659,7 +650,7 @@ public class CatalogPanel extends JPanel
          if(e.getKeyCode() == KeyEvent.VK_P)
             if(pinned < 5 && titles.getSelectedIndex() > pinned)
                addPin();
-         if(e.getKeyCode() == KeyEvent.VK_BACK_SPACE)
+         if(e.getKeyCode() == KeyEvent.VK_U)
             if(titles.getSelectedIndex() <= pinned && titles.getSelectedIndex() >= 0)
                if(isPinned[titles.getSelectedIndex()])
                   removePin();
@@ -682,9 +673,15 @@ public class CatalogPanel extends JPanel
          {
             int i = titles.getSelectedIndex();
             if(i < isPinned.length && isPinned[i])
+            {
                pinButton.setText("Unpin");
+               pinButton.setMnemonic(KeyEvent.VK_U);
+            }
             else
+            {
                pinButton.setText("Pin Course");
+               pinButton.setMnemonic(KeyEvent.VK_P);
+            }
             pinButton.setEnabled(true);
          }
          else
@@ -737,7 +734,7 @@ public class CatalogPanel extends JPanel
    {
       Course current = (Course)titles.getSelectedValue();
       
-      title.setText(current.toString());   
+      descTitle.setText(current.toString());   
       description.setText(current.getDesc());
       
       if(current.getCredits() == -1)
@@ -745,18 +742,25 @@ public class CatalogPanel extends JPanel
       else
          creditArea.setText("Credits: "+current.getCredits());
        
+      descFrame.setTitle("Course Description for "+current.toString());
       descFrame.setVisible(true);
    }
     /** helpter to load popup window for course prereqs */
    private void loadPrereq()
    {
       Course current = (Course)titles.getSelectedValue();
+      
       String p = current.getPrereqString();
       if(p.equals(""))
          prereqs.setText("No prerequisites.");
       else 
          prereqs.setText(p);
+         
+      String c = current.getCoreqString();
+      if(!c.equals(""))
+         prereqs.setText(prereqs.getText()+"\n"+c);
    
+      prereqFrame.setTitle("Prereqs for "+current.toString());
       prereqFrame.setVisible(true);
    }
  
@@ -812,7 +816,7 @@ public class CatalogPanel extends JPanel
          ta.setLineWrap(true);
          ta.setWrapStyleWord(true);
          ta.setEditable(false);
-         ta.setText(title.getText());
+         ta.setText(descTitle.getText());
       
          //text area
          JTextArea d2 = new JTextArea(7, rowWidth);
@@ -851,10 +855,12 @@ public class CatalogPanel extends JPanel
    {
       public void actionPerformed(ActionEvent e)
       {
-         JFrame d = new JFrame("Duplicate Window");
+         JFrame d = new JFrame("[Duplicate] Prereqs of "+prereqFrame.getTitle());
          d.setLocation(850, 520); // 50px increase to both x and y position
          d.setSize(popupWidth, 175); //same size
          
+      
+         //prereq area
          JTextArea ta = new JTextArea(5, rowWidth);
          ta.setBorder(eb);
          ta.setFont(f14);

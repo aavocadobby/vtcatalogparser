@@ -96,7 +96,7 @@
 
 4634: POLYMER AND SURFACE CHEMISTRY Physical chemical fundamentals of polymers and surfaces including adhesives and sealants. Pre: 3615 or 4615. (3H,3C)
 
-4734 (CSES 4734) (ENSC 4734): ENVIRONMENTAL SOIL CHEMISTRY Chemistry of inorganic and organic soil components with emphasis on environmental significance of soil solution-solid phase equilibria, sorption phenomena, ion exchange processes, reaction kinetics, redox reactions, and acidity and salinity processes. Pre: CSES 3114 or ENSC 3114 or GEOS 3614, CSES 3124 or ENSC 3124 or GEOS 3624, CHEM 2 514 or CHEM 2535, CHEM 2114, (MATH 1026 or MATH 1226). (3H,3C)
+4734 (CSES 4734) (ENSC 4734): ENVIRONMENTAL SOIL CHEMISTRY Chemistry of inorganic and organic soil components with emphasis on environmental significance of soil solution-solid phase equilibria, sorption phenomena, ion exchange processes, reaction kinetics, redox reactions, and acidity and salinity processes. Pre: CSES 3114 or ENSC 3114 or GEOS 3614, CSES 3124 or ENSC 3124 or GEOS 3624, CHEM 2514 or CHEM 2535, CHEM 2114, (MATH 1026 or MATH 1226). (3H,3C)
 
 4964: FIELD STUDY Pass/Fail only. Variable credit course.
 
